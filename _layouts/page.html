@@ -38,7 +38,10 @@
 
       </div>
 
-      {% include footer.html %}
+    {% include footer.html %}
+    {% if page.pubtable == '1' %}
+      {% include pubtable_footer.html %}
+    {% endif %}
 
 </body>
 
