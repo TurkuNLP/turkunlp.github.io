@@ -40,7 +40,8 @@ function BibtexParser(arg0) {
     var tempStorage = {};
       var entries = [];
       var entrytxt="";
-    function accumulator(entry) {
+      var entryline=0;
+      function accumulator(entry) {
       entries.push(entry);
     }
     var parser = BibtexParser.call(tempStorage, accumulator);
@@ -166,6 +167,7 @@ function BibtexParser(arg0) {
   this.processEntry_ = function() {
       var data = this.DATA_;
       data["origtext"]=this.entrytxt;
+      data["lineno"]=this.entryline;
       if (data.Fields)
 
       for (var f in data.Fields) {
@@ -255,6 +257,7 @@ function BibtexParser(arg0) {
         case this.STATES_.ENTRY_OR_JUNK:
           if (c == '@') {
 	      this.entrytxt="@";
+	      this.entryline=this.LINE_;
             // SUCCESS:     Parsed a valid start-of-object marker.
             // NEXT_STATE:  OBJECT_TYPE
             this.STATE_ = this.STATES_.OBJECT_TYPE;
@@ -519,7 +522,7 @@ function BibtexParser(arg0) {
               this.SKIPWS_        = true;
               this.SKIPCOMMENT_   = true;
               this.STATE_         = this.STATES_.KV_KEY;
-              this.DATA_.Fields[this.PARSETMP_.Key] = this.PARSETMP_.Value;
+		this.DATA_.Fields[this.PARSETMP_.Key.toLowerCase()] = this.PARSETMP_.Value;
               this.PARSETMP_      = { Key: '' };
               this.VALBRACES_     = null;
             } else {
@@ -605,7 +608,8 @@ function BibtexParser(arg0) {
     [ /\\'\{a\}/g, '\u00E1' ],
     [ /\\\^\{a\}/g, '\u00E2' ],
     [ /\\~\{a\}/g, '\u00E3' ],
-    [ /\\"\{a\}/g, '\u00E4' ],
+      [ /\\"\{a\}/g, '\u00E4' ],
+      [ /\\"a/g, '\u00E4' ],
     [ /\\aa /g, '\u00E5' ],
     [ /\\ae /g, '\u00E6' ],
     [ /\\c\{c\}/g, '\u00E7' ],
@@ -623,7 +627,8 @@ function BibtexParser(arg0) {
     [ /\\'\{o\}/g, '\u00F3' ],
     [ /\\\^\{o\}/g, '\u00F4' ],
     [ /\\~\{o\}/g, '\u00F5' ],
-    [ /\\"\{o\}/g, '\u00F6' ],
+      [ /\\"\{o\}/g, '\u00F6' ],
+      [ /\\"o/g, '\u00F6' ],
     [ /\\div /g, '\u00F7' ],
     [ /\\o /g, '\u00F8' ],
     [ /\\`\{u\}/g, '\u00F9' ],
