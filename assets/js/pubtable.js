@@ -52,9 +52,7 @@ var mytable="<thead><tr><th>Author</th><th>Title</th><th>Year</th><th>Forum</th>
 
 for (eidx in entries["entries"]) {
     var e=entries["entries"][eidx];
-    console.log(e);
     var fields=e["Fields"];
-    console.log(fields);
     if (fields["author"]) {
 	auth=fields["author"];
     } else if (fields["editor"]) {
