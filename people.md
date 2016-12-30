@@ -9,7 +9,7 @@ title: People
    </header>
 
    <div class="row">
-     <block class="3u 12u$(small)">
+     <block class="3u$ 12u$(small)">
        <span class="image"><img src="assets/images/sala_web.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Tapio Salakoski</h3>
