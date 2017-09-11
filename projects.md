@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Language Technology teaching
+title: Research Projects
 ---
