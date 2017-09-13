@@ -23,7 +23,7 @@ Automated syntactic analysis is one of the fundamental tasks of language technol
 
 ## Computational History and the Transformation of Public Discourse in Finland, 1640–1910
 
-PI: Hannu Sslmi (TY), Partners: Kimmo Kettunen (HY), __Tapio Salakoski (TY)__, Mikko Tolonen (HY)
+PI: Hannu Salmi (TY), Partners: Kimmo Kettunen (HY), __Tapio Salakoski (TY)__, Mikko Tolonen (HY)
 
 2016-2019, funded by the Academy of Finland
 
