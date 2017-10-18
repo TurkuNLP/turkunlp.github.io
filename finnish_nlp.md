@@ -11,11 +11,11 @@ Finnish dependency parser pipeline, which include tokenization, sentence splitti
  
  **Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi) or [github issue tracker](https://github.com/TurkuNLP/Finnish-dep-parser/issues)
  
- ## UD_Finnish treebank (Turku Dependency Treebank)
+## UD_Finnish treebank (Turku Dependency Treebank)
  
  UD_Finnish treebank is a broad-coverage dependency-annotated treebank of general Finnish annotated in the [Universal Dependencies scheme](http://universaldependencies.org/). The treebank has about 200,000 words and 15,000 sentences.
  
-The original Turku Dependency Treebank was annotated in the Stanford dependency scheme, and later converted into the UD scheme. The UD version of the treebank is the main version, which is maintained. The UD version is distributed trough the UD project ([data](http://universaldependencies.org/#download)), but the original version is also available upon request but it is not maintained anymore. The original treebank has also additinal data available regarding the annotation process (double annotations, timestamps etc).
+The original Turku Dependency Treebank (TDT) was annotated in the Stanford dependency scheme, and later converted into the UD scheme. The UD version of the treebank is the main version, which is maintained. The UD version is distributed trough the UD project ([data](http://universaldependencies.org/#download)). The original version (TDT) is also available upon request but it is not maintained anymore. The original treebank has also additional data available regarding the annotation process (double annotations, timestamps etc).
 
 **Online treebank search:** Finnish (UDv2.0) treebank in <http://bionlp-www.utu.fi/dep_search/>
 
