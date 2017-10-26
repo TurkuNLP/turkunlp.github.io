@@ -30,22 +30,36 @@ Pyysalo, Sampo; Kanerva, Jenna; Missilä, Anna; Laippala, Veronika; Ginter, Fili
 
 ## Finnish Internet Parsebank
 
-TODO
+A mass-scale corpus of Internet Finnish with automatic syntactic analysis. Currently includes about 3.7 billion tokens.
+
+**Online search:** Finnish Internet Parsebank corpus in <http://bionlp-www.utu.fi/dep_search/>
+
+**Main references:** TODO
+
+**Contact:** Filip Ginter (ginter@cs.utu.fi), Veronika Laippala (mavela@utu.fi)
 
 ## Search Tool for Dependency Graphs (dep_search)
 
-TODO
+Tool for searching sub-graph constructions from dependency graphs.
 
-<http://bionlp-www.utu.fi/dep_search/>
+More information on the dep_search's project page: <http://bionlp-www.utu.fi/dep_search/>
+
+**Main references:**
+J. Luotolahti; J. Kanerva; S. Pyysalo; F. Ginter. SETS: Scalable and Efficient Tree Search in Dependency Graphs. Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Demonstrations. 2015
+
+J. Luotolahti; J. Kanerva; F. Ginter. Dep_search: Efficient Search Tool for Large Dependency Parsebanks. Proceedings of the 21st Nordic Conference on Computational Linguistics (NoDaLiDa). 2017
 
 **Contact:** Filip Ginter (ginter@cs.utu.fi), Juhani Luotolahti (mjluot@utu.fi)
 
 ## Finnish Propbank
 
-TODO
+Finnish PropBank is a collection of predicates annotated with their sense and arguments. The data builds on top of the Turku Dependency Treebank (TDT), more specifically its Universal Dependencies version.
 
 More information on the propbank's project page: <http://turkunlp.github.io/Finnish_PropBank/>
 
 **License:** CC BY-SA 4.0
+
+**Main references:**
+Haverinen, K.; Kanerva, J.; Kohonen, S.; Missilä, A.; Ojala, S.; Viljanen, T.; Laippala, V.; Ginter, F. The Finnish Proposition Bank. Language Resources and Evaluation. 2015
 
 **Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi)
