@@ -86,7 +86,7 @@ title: People
      </block>
 
      <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <span class="image"><img src="assets/images/farrokh_mehryary" alt="" /></span>
        <div class="content">
 	 <h3>Farrokh Mehryary</h3>
        </div>
