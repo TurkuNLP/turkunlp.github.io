@@ -32,15 +32,20 @@ Pyysalo, Sampo; Kanerva, Jenna; Missilä, Anna; Laippala, Veronika; Ginter, Fili
 
 A mass-scale corpus of Internet Finnish with automatic syntactic analysis. Currently includes about 3.7 billion tokens.
 
-**Online search:** Finnish Internet Parsebank corpus in <http://bionlp-www.utu.fi/dep_search/>
+The project has three aims: 1) The creation of a language resource with automatic morphological and syntactic analyses, 2) The classification of the entire Parsebank to coherent subcorpora, 3) The creation of an online user interface
 
-**Main references:** TODO
+**Online search of the morpho-syntactic features:** Finnish Internet Parsebank corpus in <http://bionlp-www.utu.fi/dep_search/>
+
+**Semantic similarity of words:** An online demo which lets you query semantically similar words using a word2vec model trained on the Parsebank data, <http://bionlp-www.utu.fi/wv_demo/>
+
+**Main references:**
+J. Luotolahti; J. Kanerva; V. Laippala; S. Pyysalo; F. Ginter. Towards Universal Web Parsebanks. Proceedings of the International Conference on Dependency Linguistics (Depling'15). 2015
 
 **Contact:** Filip Ginter (ginter@cs.utu.fi), Veronika Laippala (mavela@utu.fi)
 
 ## Search Tool for Dependency Graphs (dep_search)
 
-Tool for searching sub-graph constructions from dependency graphs.
+Tool for searching morpho-syntactic constructions from dependency graphs.
 
 More information on the dep_search's project page: <http://bionlp-www.utu.fi/dep_search/>
 
