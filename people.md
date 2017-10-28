@@ -49,7 +49,7 @@ title: People
 
    <div class="row">
      <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>       
+       <span class="image"><img src="assets/images/jari_bjorne.jpg" alt="" /></span>       
        <div class="content">
 	 <h3>Jari Björne</h3>
        </div>
@@ -109,14 +109,14 @@ title: People
      </block>
 
      <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <span class="image"><img src="assets/images/juhani_luotolahti.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Juhani Luotolahti</h3>
        </div>
      </block>
 
      <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <span class="image"><img src="assets/images/aleksi_vesanto.png" alt="" /></span>
        <div class="content">
 	 <h3>Aleksi Vesanto</h3>
        </div>
