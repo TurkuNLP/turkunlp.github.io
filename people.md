@@ -79,7 +79,7 @@ title: People
 
    <div class="row">
      <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/suwisa_kaewphaan.jpg" alt="" /></span>
+       <span class="image"><img src="assets/images/suwisa_kaewphan.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Suwisa Kaewphan</h3>
        </div>
