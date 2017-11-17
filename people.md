@@ -56,9 +56,10 @@ title: People
      </block>
 
      <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <span class="image"><img src="assets/images/aki_kyrolainen.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Aki-Juhani Kyröläinen</h3>
+     <p>McMaster University and Brock University</p>
        </div>
      </block>
 
