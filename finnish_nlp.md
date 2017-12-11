@@ -9,6 +9,11 @@ Finnish dependency parser pipeline, which include tokenization, sentence splitti
 
  More information on the parser's project page: <http://turkunlp.github.io/Finnish-dep-parser/>
  
+ **Main references:**
+Haverinen, K.; Nyblom, J.; Viljanen, T.; Laippala, V.; Kohonen, S.; Missilä, A.; Ojala, S.; Salakoski, T.; Ginter, F.: Building the essential resources for Finnish: the Turku Dependency Treebank. Language Resources and Evaluation. 2013. [DOI: 10.1007/s10579-013-9244-1](http://dx.doi.org/10.1007/s10579-013-9244-1)
+
+Pyysalo, Sampo; Kanerva, Jenna; Missilä, Anna; Laippala, Veronika; Ginter, Filip: Universal Dependencies for Finnish. Proceedings of NoDaLiDa 2015 <https://aclweb.org/anthology/W/W15/W15-1821.pdf>
+ 
  **Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi) or [github issue tracker](https://github.com/TurkuNLP/Finnish-dep-parser/issues)
  
 ## UD_Finnish treebank (Turku Dependency Treebank)
