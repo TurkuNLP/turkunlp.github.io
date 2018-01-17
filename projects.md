@@ -21,6 +21,14 @@ PI: __Filip Ginter (TY)__
 
 Automated syntactic analysis is one of the fundamental tasks of language technology, utilized in many applications such as search engines and machine translation. For a small number of well-resourced and well-researched languages, like English, the accuracy of the automatic parsers approaches human level. But for many others, the accuracy is significantly worse and the vast majority of languages cannot be automatically parsed at all, because the necessary data to train the parsers has not been created. In this project, we are finding ways in which the parser training data of many languages could be pooled using techniques of vector space representation of words. This will result in a "Universal Parser" which operates in a language-independent manner and can, for instance, use Czech training data to improve its performance on Finnish.
 
+## U-bot: News Generation Using Advanced Language Technology Methods
+
+PI: STT, Partners: __Filip Ginter (TY)__, Namia Oy
+
+2018-2019, funded by the Google Digital News Initiative (DNI)
+
+U-bot uses advanced language technology to automatically generate news text based on facts from a data source and previous news stories in the same area. Most organisations producing automatically generated text use simple template slot filling. These templates usually have to be written by journalists, which takes time and effort. With U-bot, text generation is driven by advanced language technology methods, cutting out the role of the time-consuming templates and letting the machine do the work.
+
 ## Computational History and the Transformation of Public Discourse in Finland, 1640–1910
 
 PI: Hannu Salmi (TY), Partners: Kimmo Kettunen (HY), __Tapio Salakoski (TY)__, Mikko Tolonen (HY)
