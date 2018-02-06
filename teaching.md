@@ -65,7 +65,7 @@ Time: Every third year, spring
 
 Level: Advanced
 
-The course teaches how to mine interesting information from a huge masses of raw text, such as all scientific literature written in English in a biomedical domain, or a general domain web crawl of Finnish texts.
+Understanding of the fundamental methods of mining information hidden in very large collections of text and integrating the result with other available databases and resources. The course will specifically focus on text mining of scientific literature in the biomedical domain, but will also foray into other domains. The students will gain a hands-on experience with the relevant tools and resources and will be able to apply the techniques to new domains.
 
 
 ### TKO_2098 Information Retrieval (5 op) (aka. Search Engines)
@@ -77,6 +77,8 @@ Time: Every third year, spring
 
 Level: Advanced
 
+Understanding of the fundamental methods of document and information retrieval, ranging from basic document indexing to vector space representations, document classification, clustering and topic modeling. Special attention is given to dealing with large document collections and web search, as well as work with existing tools and libraries for text indexing and retrieval. The course content can include for example: Index construction, vector space model, probabilistic retrieval, document classification, document clustering, link analysis, retrieval in morphologically rich languages, cross-language retrieval, evaluation
+
 
 ### TKO_2101 Natural Language Processing (5 op) (aka. Neural Networks in Language Technology)
 Teacher: Filip Ginter, Department of Future Technologies
@@ -87,6 +89,6 @@ Time: Every third year, spring
 
 Level: Advanced
 
-
+The course focuses on the fundamental methods of natural language processing. The students learn how to apply machine learning methods to deal with the ambiguity present in human language at all levels. Working their way from elementary n-gram models to methods of natural language understanding, the students will learn the relevant methods and how to apply them to real-world data, using existing software packages and libraries. The course content can include for example: Language models, morphological and syntactic analysis, computational semantics, deep learning and vector space representations, large-scale data resources, evaluation
 
 
