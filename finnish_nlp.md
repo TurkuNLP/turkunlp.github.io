@@ -9,6 +9,8 @@ Finnish dependency parser pipeline, which include tokenization, sentence splitti
 
  More information on the parser's project page: <http://turkunlp.github.io/Finnish-dep-parser/>
  
+ **Online demo:** <http://bionlp-www.utu.fi/parser_demo/>
+ 
  **Main references:**
 Haverinen, K.; Nyblom, J.; Viljanen, T.; Laippala, V.; Kohonen, S.; Missilä, A.; Ojala, S.; Salakoski, T.; Ginter, F.: Building the essential resources for Finnish: the Turku Dependency Treebank. Language Resources and Evaluation. 2013. [DOI: 10.1007/s10579-013-9244-1](http://dx.doi.org/10.1007/s10579-013-9244-1)
 
