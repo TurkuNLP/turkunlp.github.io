@@ -16,10 +16,10 @@ title: People
        </div>
      </block>
 	
-     <block class="4u 12u$(small)" href="https://fginter.github.io/">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/filip_ginter.jpg" alt="" /></span>
        <div class="content">
-	 <h3>Filip Ginter</h3>
+	 <h3><a href="https://fginter.github.io/">Filip Ginter</a></h3>
 	 <p>Assistant prof.</p>
        </div>
      </block>
