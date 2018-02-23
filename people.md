@@ -20,6 +20,7 @@ title: People
        <span class="image"><img src="assets/images/filip_ginter.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Filip Ginter</h3>
+	 <p>Assistant prof.</p>
        </div>
      </block>
 
@@ -27,6 +28,7 @@ title: People
        <span class="image"><img src="assets/images/blank.png" alt="" /></span>
        <div class="content">
 	 <h3>Veronika Laippala</h3>
+	 <p>Associate prof.</p>
        </div>
      </block>
    </div>
