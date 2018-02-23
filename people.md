@@ -16,7 +16,7 @@ title: People
        </div>
      </block>
 	
-     <block class="4u 12u$(small)">
+     <block class="4u 12u$(small)" href="https://fginter.github.io/">
        <span class="image"><img src="assets/images/filip_ginter.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Filip Ginter</h3>
