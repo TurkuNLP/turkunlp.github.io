@@ -5,14 +5,28 @@ title: People
 
 <section>
    <header class="major">
-      <h2>Professor</h2>
+      <h2>Professors</h2>
    </header>
 
    <div class="row">
-     <block class="3u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/sala_web.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Tapio Salakoski</h3>
+       </div>
+     </block>
+	
+     <block class="4u 12u$(small)">
+       <span class="image"><img src="assets/images/filip_ginter.jpg" alt="" /></span>
+       <div class="content">
+	 <h3>Filip Ginter</h3>
+       </div>
+     </block>
+
+     <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <div class="content">
+	 <h3>Veronika Laippala</h3>
        </div>
      </block>
    </div>
@@ -25,29 +39,14 @@ title: People
    </header>
 
    <div class="row">
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/filip_ginter.jpg" alt="" /></span>
-       <div class="content">
-	 <h3>Filip Ginter</h3>
-       </div>
-     </block>
 
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
-       <div class="content">
-	 <h3>Veronika Laippala</h3>
-       </div>
-     </block>
-
-     <block class="4u$ 12u$(small)">
+    <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/blank.png" alt="" /></span>
        <div class="content">
 	 <h3>Sampo Pyysalo</h3>
        </div>
      </block>
-   </div>
-
-   <div class="row">
+   
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/jari_bjorne.jpg" alt="" /></span>       
        <div class="content">
@@ -55,18 +54,26 @@ title: People
        </div>
      </block>
 
-     <block class="4u 12u$(small)">
+     <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/aki_kyrolainen.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Aki-Juhani Kyröläinen</h3>
      <p>McMaster University and Brock University</p>
        </div>
      </block>
-
-     <block class="4u$ 12u$(small)">
+  </div>
+  <div class="row">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/hans_moen.png" alt="" /></span>
        <div class="content">
 	 <h3>Hans Moen</h3>
+       </div>
+     </block>
+     
+     <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <div class="content">
+	 <h3>Samuel Rönnqvist</h3>
        </div>
      </block>
 
