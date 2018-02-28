@@ -73,7 +73,7 @@ title: People
      </block>
      
      <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <span class="image"><img src="assets/images/samuel_ronnqvist.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Samuel Rönnqvist</h3>
        </div>
