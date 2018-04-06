@@ -29,6 +29,14 @@ PI: STT, Partners: __Filip Ginter (TY)__, Namia Oy
 
 U-bot uses advanced language technology to automatically generate news text based on facts from a data source and previous news stories in the same area. Most organisations producing automatically generated text use simple template slot filling. These templates usually have to be written by journalists, which takes time and effort. With U-bot, text generation is driven by advanced language technology methods, cutting out the role of the time-consuming templates and letting the machine do the work.
 
+## Structuring language use across multilingual web corpora 
+
+Partners: Veronika Laippala (TY), Jesse Egbert and Douglas Biber, Northern Arizona University, USA
+
+2018-2019, funded by Cultural foundation of Finland, Fulbright
+
+The project combines corpus linguistics and machine learning to study registers, i.e. language varieties such as user manual, news article or film review used in the Internet. The objective is to define the linguistic characteristics of these registers and develop methods to automatically detect them from very large, web-crawled corpora, such as the Finnish Internet Parsebank and similar collections in other languages. This will improve the usability of such collections, because the users can then focus on particular registers. In the long term, the project will also enhance the availability of information in the Internet, because the results can be used to detect the origins of web documents. As a consequence, for instance a Google search could be asked to focus on specific registers, such as news or product reviews. 
+
 ## Computational History and the Transformation of Public Discourse in Finland, 1640–1910
 
 PI: Hannu Salmi (TY), Partners: Kimmo Kettunen (HY), __Tapio Salakoski (TY)__, Mikko Tolonen (HY)
