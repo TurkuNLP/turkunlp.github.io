@@ -80,6 +80,17 @@ title: People
      </block>
 
    </div>
+
+<div class="row">
+
+    <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <div class="content">
+	 <h3>Niko Miekka</h3>
+       </div>
+     </block>
+</div>
+
 </section>
 
 <section>
@@ -109,8 +120,7 @@ title: People
        </div>
      </block>
    </div>
-
-      <div class="row">
+   <div class="row">
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/jenna_kanerva.png" alt="" /></span>
        <div class="content">
