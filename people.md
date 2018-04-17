@@ -79,7 +79,7 @@ title: People
        </div>
      </block>
 
-    <block class="4u$ 12u$(small)></block>
+    <block class="4u$ 12u$(small)"></block>
 
    </div>
 
