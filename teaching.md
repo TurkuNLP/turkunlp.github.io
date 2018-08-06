@@ -34,7 +34,7 @@ The course targets students with no prior programming experience. The students w
 Students from the Department of Future Technologies (TKT or DI) **cannot** take this course, you must take the programming courses meant for TKT or DI degree students.
 
 
-### TKO_2091 Johdatus kieliteknologiaan (5 op) (Introduction to Language Technology)
+### TKO_8966 Johdatus kieliteknologiaan (5 op) (Introduction to Language Technology)
 Teacher: Jenna Kanerva and Kai Hakala, Department of Future Technologies
 
 Language: Finnish
@@ -58,7 +58,7 @@ Level: Advanced
 After the course the student is familiar with ready-made corpora from different fields, understands the importance of corpora in linguistics and knows how to avoid the most common problems in corpus compilation. Further, the student knows how to use corpus tools, such as Antconc and Wordsmith, is familiar with basic natural language processing tools and their functioning and understands the potentials of machine learning for language studies. In addition, the students learn methods to analyze large digital corpora. These include both traditional corpus linguistics methods and new possibilities offered by natural language processing, such as automatic syntactic analysis, distributional semantics, text classification and sentiment analysis. The studied corpora represent various languages and genres, such as social media, learner language and texts form different time periods.
 
 
-### TKO_2099 Textual Data Analysis (5 op)
+### TKO_8964 Textual Data Analysis (5 op)
 Teacher: Filip Ginter, Department of Future Technologies
 
 Language: English
@@ -70,7 +70,7 @@ Level: Advanced
 Understanding of the fundamental methods of mining information hidden across very large collections of text. Practical skills in working with machine learning methods and application of basic language technology tools to textual data. Understanding of the possibilities and limitations of state-of-the-art language technology methods. Topics: Web crawls and other large collections of textual data. Preprocessing of large text corpora: segmentation, tagging, and syntactic analysis. Pattern matching, supervised machine learning, and clustering. Information extraction and aggregation. Applications e.g. in scientific literature mining.
 
 
-### TKO_2098 Search Engines and Document Retrieval Methods (5 op)
+### TKO_8963 Search Engines and Document Retrieval Methods (5 op)
 Teacher: Filip Ginter, Department of Future Technologies
 
 Language: English
@@ -82,7 +82,7 @@ Level: Advanced
 The course teaches the fundamentals of document indexing and search, giving the students understanding of how large text collections can be efficiently queried, and an insight into the technology behind large search engines. The course includes plenty of hands-on exercises where the students learn to deploy a commonly used search engine software on a large dataset, and understand the many choices involved in the process. The students also learn how to deal with inflective languages, synonyms, and other more advanced topics in information retrieval. The course also teaches how to cluster and label documents by topic. Topics: Inverted index and fundamentals of search, vector-space representations of documents and concepts, practical exercises in search engine deployment and document index generation, document clustering and topic modeling.
 
 
-### TKO_2101 Deep Learning in Human Language Technology (5 op)
+### TKO_8965 Deep Learning in Human Language Technology (5 op)
 Teacher: Filip Ginter, Department of Future Technologies
 
 Language: English
