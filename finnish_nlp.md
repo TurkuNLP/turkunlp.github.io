@@ -5,18 +5,18 @@ title: Finnish NLP
 
 ## Finnish Parser
 
-Finnish dependency parser pipeline, which include tokenization, sentence splitting, lemmatization, tagging and dependency parsing.
+Finnish dependency parser pipeline, which include **tokenization, sentence splitting, lemmatization, morphological tagging and dependency parsing**.
 
- More information on the parser's project page: <http://turkunlp.github.io/Finnish-dep-parser/>
+ More information on the parser's project page: <https://turkunlp.github.io/Turku-neural-parser-pipeline/>
  
  **Online demo:** <http://bionlp-www.utu.fi/parser_demo/>
  
  **Main references:**
-Haverinen, K.; Nyblom, J.; Viljanen, T.; Laippala, V.; Kohonen, S.; Missilä, A.; Ojala, S.; Salakoski, T.; Ginter, F.: Building the essential resources for Finnish: the Turku Dependency Treebank. Language Resources and Evaluation. 2013. [DOI: 10.1007/s10579-013-9244-1](http://dx.doi.org/10.1007/s10579-013-9244-1)
+Kanerva, J; Ginter, F; Miekka, N; Leino, A; Salakoski, T: Turku Neural Parser Pipeline: An End-to-End System for the CoNLL 2018 Shared Task. Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies. 2018
 
 Pyysalo, Sampo; Kanerva, Jenna; Missilä, Anna; Laippala, Veronika; Ginter, Filip: Universal Dependencies for Finnish. Proceedings of NoDaLiDa 2015 <https://aclweb.org/anthology/W/W15/W15-1821.pdf>
  
- **Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi) or [github issue tracker](https://github.com/TurkuNLP/Finnish-dep-parser/issues)
+ **Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi) or [github issue tracker](https://github.com/TurkuNLP/Turku-neural-parser-pipeline/issues)
  
 ## UD_Finnish treebank (Turku Dependency Treebank)
  
