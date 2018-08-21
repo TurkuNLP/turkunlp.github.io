@@ -41,7 +41,7 @@ Teacher: Jenna Kanerva and Kai Hakala, Department of Future Technologies
 
 Language: Finnish
 
-Time: Every year, spring
+Time: Every year, third period (spring)
 
 Level: Intermediate
 
@@ -65,7 +65,7 @@ Teacher: Filip Ginter, Department of Future Technologies
 
 Language: English
 
-Time: Every third year, spring
+Time: Every third year, fourth period (spring)
 
 Level: Advanced
 
@@ -77,7 +77,7 @@ Teacher: Filip Ginter, Department of Future Technologies
 
 Language: English
 
-Time: Every third year, spring
+Time: Every third year, fourth period (spring)
 
 Level: Advanced
 
@@ -89,7 +89,7 @@ Teacher: Filip Ginter, Department of Future Technologies
 
 Language: English
 
-Time: Every third year, spring
+Time: Every third year, fourth period (spring)
 
 Level: Advanced
 
