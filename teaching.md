@@ -14,6 +14,7 @@ Teacher: Veronika Laippala, School of Languages and Translation studies
 Language: Finnish
 
 Time: Every year, first period
+
 Update: The course starts on Monday 10.9. 
 Classes on Mondays at 10.15 and Thursdays at 12.15 in A252, Arcanum, IT-luokka.
 
