@@ -48,7 +48,7 @@ xmlhttp=new XMLHttpRequest();
 xmlhttp.open("GET", bibraw_url, false);
 xmlhttp.send();
 var entries = BibtexParser(xmlhttp.responseText);
-var mytable="<thead><tr><th>Author</th><th>Title</th><th>Year</th><th>Forum</th><th>Type</th><th>Links</th></tr></thead>\n<tbody>\n";
+var mytable="<thead><tr><th>Author</th><th>Title</th><th>Year</th><th>Forum</th><th>Type</th><th>Links</th><th>URL</th></tr></thead>\n<tbody>\n";
 
 for (eidx in entries["entries"]) {
     var e=entries["entries"][eidx];
@@ -70,10 +70,16 @@ for (eidx in entries["entries"]) {
     else {
 	forum="";
     }
-    
+    if (fields["url"]) {
+	url=fields["url"];
+    url='<a href="'+url+'">URL</a>';
+    }
+    else {
+    url="";
+    }
 
-    url='<a href="'+bibpretty_url+'#L'+e["lineno"]+'">BibTeX</a>';
-    mytable+="<tr><td>"+norm_names(auth)+"</td><td>"+fields["title"]+"</td><td>"+fields["year"]+"</td><td>"+forum+"</td><td>"+e["EntryType"]+"</td><td>"+url+"</td></tr>\n";
+    link='<a href="'+bibpretty_url+'#L'+e["lineno"]+'">BibTeX</a>';
+    mytable+="<tr><td>"+norm_names(auth)+"</td><td>"+fields["title"]+"</td><td>"+fields["year"]+"</td><td>"+forum+"</td><td>"+e["EntryType"]+"</td><td>"+link+"</td><td>"+url+"</td></tr>\n";
 }
 mytable+="</tbody>";
 $("#pubtable").html(mytable)
