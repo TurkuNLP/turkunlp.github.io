@@ -29,6 +29,7 @@ title: People
        <span class="image"><img src="assets/images/blank.png" alt="" /></span>
        <div class="content">
 	 <h3>Sampo Pyysalo</h3>
+	 <p>Associate prof.</p>
        </div>
      </block>
 
