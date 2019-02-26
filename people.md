@@ -25,6 +25,13 @@ title: People
        </div>
      </block>
 
+    <block class="4u 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <div class="content">
+	 <h3>Sampo Pyysalo</h3>
+       </div>
+     </block>
+
      <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/veronika_laippala.jpg" alt="" /></span>
        <div class="content">
@@ -42,13 +49,6 @@ title: People
    </header>
 
    <div class="row">
-
-    <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
-       <div class="content">
-	 <h3>Sampo Pyysalo</h3>
-       </div>
-     </block>
    
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/jari_bjorne.jpg" alt="" /></span>       
