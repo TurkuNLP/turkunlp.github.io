@@ -60,15 +60,6 @@ title: People
        </div>
      </block>
 
-     <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/aki_kyrolainen.jpg" alt="" /></span>
-       <div class="content">
-	 <h3>Aki-Juhani Kyröläinen</h3>
-     <p>McMaster University and Brock University</p>
-       </div>
-     </block>
-  </div>
-  <div class="row">
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/hans_moen.png" alt="" /></span>
        <div class="content">
@@ -76,14 +67,13 @@ title: People
        </div>
      </block>
      
-     <block class="4u 12u$(small)">
+     <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/samuel_ronnqvist.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Samuel Rönnqvist</h3>
        </div>
      </block>
 
-    <block class="4u$ 12u$(small)"></block>
 
    </div>
 
@@ -126,12 +116,35 @@ title: People
        </div>
      </block>
 
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/juhani_luotolahti.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Juhani Luotolahti</h3>
        </div>
      </block>
 
+     <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <div class="content">
+	 <h3>Antti Virtanen</h3>
+       </div>
+     </block>
    </div>
+   
+   <div class="row">
+     <block class="4u 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <div class="content">
+	 <h3>Li-Hsin Chang</h3>
+       </div>
+     </block>
+
+     <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <div class="content">
+	 <h3>Akseli Leino</h3>
+       </div>
+     </block>
+   </div>
+
 </section>
