@@ -25,14 +25,6 @@ title: People
        </div>
      </block>
 
-    <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
-       <div class="content">
-	 <h3>Sampo Pyysalo</h3>
-	 <p>Associate prof.</p>
-       </div>
-     </block>
-
      <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/veronika_laippala.jpg" alt="" /></span>
        <div class="content">
@@ -41,6 +33,16 @@ title: People
        </div>
      </block>
    </div>
+   <div class="row">
+     <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <div class="content">
+	 <h3>Sampo Pyysalo</h3>
+	 <p>Associate prof.</p>
+       </div>
+     </block>
+   </div>
+	
 
 </section>
 
@@ -124,29 +126,12 @@ title: People
        </div>
      </block>
 
-     <block class="4u 12u$(small)">
+     <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/juhani_luotolahti.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Juhani Luotolahti</h3>
        </div>
      </block>
 
-     <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/aleksi_vesanto.png" alt="" /></span>
-       <div class="content">
-	 <h3>Aleksi Vesanto</h3>
-       </div>
-     </block>
    </div>
-
-   <!-- <div class="row">
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
-       <div class="content">
-	 <h3>Niko Miekka</h3>
-       </div>
-     </block>
-     <block class="8u$"></block>
-  </div>
-   -->
 </section>
