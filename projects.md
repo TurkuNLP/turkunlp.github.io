@@ -11,7 +11,7 @@ PI: __Filip Ginter (TY)__, __Veronika Laippala (TY)__
 
 The Finnish Internet Parsebank is a joint project of the Department of Information Technology and the School of languages and Translation studies. It aims at producing a mass-scale corpus of Internet Finnish by using automatic syntactic analysis and document classification.
 
-http://bionlp.utu.fi/finnish-internet-parsebank.html
+[Finnish Internet Parsebank](finnish_nlp.html#parsebank)
 
 ## Universal Dependency Parser
 

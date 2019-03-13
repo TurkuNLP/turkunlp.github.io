@@ -3,7 +3,7 @@ layout: page
 title: Finnish NLP
 ---
 
-## Finnish Parser
+## Finnish Parser <a id="parser"></a>
 
 Finnish dependency parser pipeline, which include **tokenization, sentence splitting, lemmatization, morphological tagging and dependency parsing**.
 
@@ -18,7 +18,7 @@ Pyysalo, Sampo; Kanerva, Jenna; Missilä, Anna; Laippala, Veronika; Ginter, Fili
  
  **Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi) or [github issue tracker](https://github.com/TurkuNLP/Turku-neural-parser-pipeline/issues)
  
-## UD_Finnish treebank (Turku Dependency Treebank)
+## UD_Finnish treebank (Turku Dependency Treebank) <a id="treebank"></a>
  
  UD_Finnish treebank is a broad-coverage dependency-annotated treebank of general Finnish annotated in the [Universal Dependencies scheme](http://universaldependencies.org/). The treebank has about 200,000 words and 15,000 sentences.
  
@@ -35,7 +35,7 @@ Pyysalo, Sampo; Kanerva, Jenna; Missilä, Anna; Laippala, Veronika; Ginter, Fili
 
 **Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi)
 
-## Finnish Internet Parsebank
+## Finnish Internet Parsebank <a id="parsebank"></a>
 
 A mass-scale corpus of Internet Finnish with automatic syntactic analysis. Currently includes about 3.7 billion tokens.
 
@@ -43,7 +43,7 @@ The project has three aims: 1) The creation of a language resource with automati
 
 **Online search of the morpho-syntactic features:** Finnish Internet Parsebank corpus in <http://bionlp-www.utu.fi/dep_search/>
 
-**Semantic similarity of words:** An online demo which lets you query semantically similar words using a word2vec model trained on the Parsebank data, <http://bionlp-www.utu.fi/wv_demo/>
+**Semantic similarity of words:** An online demo which lets you query semantically similar words using a word2vec model trained on the Parsebank data, <http://bionlp-www.utu.fi/wv_demo/>. Embedding models in binary form are available [here](http://dl.turkunlp.org/finnish-embeddings/).
 
 **Word frequency list:** A Finnish word frequency list can be downloaded at <http://bionlp-www.utu.fi/.jmnybl/finnish_vocab.txt.gz>. It's calculated from the Parsebank data and sorted in descending order. If you use this in your research, please cite us.
 
@@ -52,7 +52,7 @@ J. Luotolahti; J. Kanerva; V. Laippala; S. Pyysalo; F. Ginter. Towards Universal
 
 **Contact:** Filip Ginter (ginter@cs.utu.fi), Veronika Laippala (mavela@utu.fi)
 
-## Search Tool for Dependency Graphs (dep_search)
+## Search Tool for Dependency Graphs (dep_search) <a id="depsearch"></a>
 
 Tool for searching morpho-syntactic constructions from dependency graphs.
 
@@ -65,7 +65,7 @@ J. Luotolahti; J. Kanerva; F. Ginter. Dep_search: Efficient Search Tool for Larg
 
 **Contact:** Filip Ginter (ginter@cs.utu.fi), Juhani Luotolahti (mjluot@utu.fi)
 
-## Finnish Propbank
+## Finnish Propbank <a id="propbank"></a>
 
 Finnish PropBank is a collection of predicates annotated with their sense and arguments. The data builds on top of the Turku Dependency Treebank (TDT), more specifically its Universal Dependencies version.
 
