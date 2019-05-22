@@ -29,7 +29,7 @@ PI: STT, Partners: __Filip Ginter (TY)__, Namia Oy
 
 U-bot uses advanced language technology to automatically generate news text based on facts from a data source and previous news stories in the same area. Most organisations producing automatically generated text use simple template slot filling. These templates usually have to be written by journalists, which takes time and effort. With U-bot, text generation is driven by advanced language technology methods, cutting out the role of the time-consuming templates and letting the machine do the work.
 
-##  A piece of news, an opinion or something else= Different texts and their detection from the multilingual Internet
+##  A piece of news, an opinion or something else? Different texts and their detection from the multilingual Internet
 
 PI: __Veronika Laippala (TY)__
 
