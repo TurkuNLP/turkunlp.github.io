@@ -12,7 +12,7 @@ The project combines linguistics, natural language processing and machine learni
 ** Papers and talks:
 
 In Corpus Linguistics 2019 in Cardiff:
-Veronika Laippala, Aki-Juhani Kyröläinen, Filip: Ginter, Jesse Egbert and Douglas Biber: Generating online text types: A cluster analysis of predicted document embeddings
+Veronika Laippala, Aki-Juhani Kyröläinen, Filip: Ginter, Jesse Egbert and Douglas Biber: Generating online text types: A cluster analysis of predicted document embeddings. See slides at https://github.com/mavela/Papers-and-talks/blob/master/Generating%20online%20text%20types.pdf
 
 In Proceedings of Nodalida 2019 in Turku:
 Veronika Laippala, Roosa Kyllönen, Jesse Egbert, Douglas Biber: Toward Multilingual Identification of Online Registers. (In September 2019)
