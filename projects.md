@@ -37,6 +37,8 @@ PI: __Veronika Laippala (TY)__
 
 The project combines linguistics, natural language processing and machine learning in order to analyse and automatically detect the different text varieties that are used on the internet. By distinguishing between e.g. user manuals, news articles on recent events and texts that also feature the author’s opinion, the project reveals crucial information on language use on the internet and improves the accessibility of the massive amount of information available online. As a practical outcome, the project detects the different text varieties used in a collection of billions of words of online texts written in Finnish, Swedish, French and English that were compiled by the research group during previous research efforts. This has significantly improved the usability of the collections.
 
+[Project homepage](news_or_something.html)
+
 ## Structuring language use across multilingual web corpora 
 
 Partners: Veronika Laippala (TY), Jesse Egbert and Douglas Biber, Northern Arizona University, USA
