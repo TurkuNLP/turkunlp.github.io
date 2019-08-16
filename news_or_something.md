@@ -11,6 +11,9 @@ The project combines linguistics, natural language processing and machine learni
 
 ** Papers and talks:
 
+In Research data and the humanities in Oulu:
+Veronika Laippala: From bits and numbers to explanations - doing research on Internet-based big data (Plenary talk). See slides at https://github.com/mavela/Papers-and-talks/blob/master/explaining_numbers_rdhum.pdf
+
 In Corpus Linguistics 2019 in Cardiff:
 Veronika Laippala, Aki-Juhani Kyröläinen, Filip: Ginter, Jesse Egbert and Douglas Biber: Generating online text types: A cluster analysis of predicted document embeddings. See slides at https://github.com/mavela/Papers-and-talks/blob/master/Generating%20online%20text%20types.pdf
 
