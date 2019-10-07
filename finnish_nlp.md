@@ -77,3 +77,15 @@ More information on the propbank's project page: <http://turkunlp.github.io/Finn
 Haverinen, K.; Kanerva, J.; Kohonen, S.; Missilä, A.; Ojala, S.; Viljanen, T.; Laippala, V.; Ginter, F. The Finnish Proposition Bank. Language Resources and Evaluation. 2015
 
 **Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi)
+
+## Finnish BERT (FinBERT) <a id="finbert"></a>
+
+BERT model trained from scratch on Finnish.
+
+More information on the FinBERT's project page: <https://github.com/TurkuNLP/FinBERT>
+
+**License:** TODO
+
+**Main references:** TODO
+
+**Contact:** [github issue tracker](https://github.com/TurkuNLP/FinBERT/issues)
