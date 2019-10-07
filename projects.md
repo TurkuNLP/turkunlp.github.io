@@ -29,6 +29,14 @@ PI: STT, Partners: __Filip Ginter (TY)__, Namia Oy
 
 U-bot uses advanced language technology to automatically generate news text based on facts from a data source and previous news stories in the same area. Most organisations producing automatically generated text use simple template slot filling. These templates usually have to be written by journalists, which takes time and effort. With U-bot, text generation is driven by advanced language technology methods, cutting out the role of the time-consuming templates and letting the machine do the work.
 
+## DeepFin: Deep language models for Finnish
+
+PI: __Filip Ginter (TY)__
+
+2019, CSC Grand Challenge Pilot
+
+Recent advances in deep learning have made it possible to model human language at unprecedented levels of accuracy, leading to breakthroughs in machine translation, question answering, natural language dialogue, and more. However, due to the computational cost of training state-of-the-art methods on billions of words of text, large-scale applications of this technology have been primarily limited to large multinational companies working on English. Using web-scale Finnish language resources compiled by the University of Turku Natural Language Processing group and newly introduced CSC computational resources, the DeepFin Grand Challenge project will create a deep language model of Finnish that will be comparable in coverage and quality to the best language models available today for any language. This critical language resource will be made freely available under Open Data licensing to accelerate further advances in Finnish natural language processing.
+
 ##  A piece of news, an opinion or something else? Different texts and their detection from the multilingual Internet
 
 PI: __Veronika Laippala (TY)__
@@ -41,7 +49,7 @@ The project combines linguistics, natural language processing and machine learni
 
 ## Structuring language use across multilingual web corpora 
 
-Partners: Veronika Laippala (TY), Jesse Egbert and Douglas Biber, Northern Arizona University, USA
+Partners: __Veronika Laippala (TY)__, Jesse Egbert and Douglas Biber, Northern Arizona University, USA
 
 2018-2019, funded by Cultural foundation of Finland, Fulbright
 
