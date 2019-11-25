@@ -82,9 +82,9 @@ Haverinen, K.; Kanerva, J.; Kohonen, S.; Missilä, A.; Ojala, S.; Viljanen, T.; 
 
 BERT model trained from scratch on Finnish.
 
-More information on the FinBERT's project page: <https://github.com/TurkuNLP/FinBERT>
+More information on the FinBERT's project page: <turkunlp.org/finbert>
 
-**License:** TODO
+**License:** CC BY 4.0
 
 **Main references:** TODO
 
