@@ -31,7 +31,7 @@ U-bot uses advanced language technology to automatically generate news text base
 
 ## DeepFin: Deep language models for Finnish
 
-PI: __Filip Ginter (TY)__
+PI: __Filip Ginter (TY)__, __Sampo Pyysalo (TY)__
 
 2019, CSC Grand Challenge Pilot
 
