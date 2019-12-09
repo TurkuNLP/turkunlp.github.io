@@ -1,4 +1,4 @@
 ---
 title: FinBERT
-redirect_to: https://github.com/TurkuNLP/FinBERT
+redirect_to: http://turkunlp.org/FinBERT/
 ---
