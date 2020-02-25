@@ -21,7 +21,7 @@ title: People
        <div class="content">
 	 <h3><a href="https://fginter.github.io/">Filip Ginter</a></h3>
 	 <p>Associate prof.</p>
-	 <p>AI Scientist (part time) with <a href="http://silo.ai">Silo.ai</a></p>
+	 <p>Also: <a href="http://silo.ai">Silo.ai</a> and <a href="https://www.lingsoft.fi/">Lingsoft</a></p>
        </div>
      </block>
 
