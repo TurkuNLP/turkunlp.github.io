@@ -86,6 +86,6 @@ More information on the FinBERT's project page: <https://github.com/TurkuNLP/Fin
 
 **License:** CC BY 4.0
 
-**Main references:** TODO
+**Main references:** A. Virtanen; J. Kanerva; R. Ilo; J. Luoma; J. Luotolahti; T. Salakoski; F. Ginter; S. Pyysalo. Multilingual is not enough: BERT for Finnish. arXiv preprint arXiv:1912.07076. 2019
 
 **Contact:** [github issue tracker](https://github.com/TurkuNLP/FinBERT/issues)
