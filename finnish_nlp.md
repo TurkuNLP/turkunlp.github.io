@@ -92,6 +92,10 @@ More information on the FinBERT's project page: <https://github.com/TurkuNLP/Fin
 
 ## Finnish NER <a id="fin-ner"></a>
 
-State-of-the-art Finnish NER system
+A state-of-the-art Finnish NER system
 
-More information on the NER's project page: <fin-ner.html>
+More information and online demo on the [NER's project page](fin-ner.html)
+
+**Main references:** Jouni Luoma, Miika Oinonen, Maria Pyykönen, Veronika Laippala, Sampo Pyysalo. 2020. A Broad-coverage Corpus for Finnish Named Entity Recognition. In Proceedings of The 12th Language Resources and Evaluation Conference (LREC'2020). [BibTeX](https://www.aclweb.org/anthology/2020.lrec-1.567.bib)
+
+**Contact:** Sampo Pyysalo (sampo.pyysalo@gmail.com)
