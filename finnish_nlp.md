@@ -89,3 +89,9 @@ More information on the FinBERT's project page: <https://github.com/TurkuNLP/Fin
 **Main references:** A. Virtanen; J. Kanerva; R. Ilo; J. Luoma; J. Luotolahti; T. Salakoski; F. Ginter; S. Pyysalo. Multilingual is not enough: BERT for Finnish. arXiv preprint arXiv:1912.07076. 2019
 
 **Contact:** [github issue tracker](https://github.com/TurkuNLP/FinBERT/issues)
+
+## Finnish NER <a id="fin-ner"></a>
+
+State-of-the-art Finnish NER system
+
+More information on the NER's project page: <fin-ner.html>
