@@ -8,7 +8,7 @@ We have trained an NER system based on FinBERT and a new NER annotation layer of
 Links and resources:
   * [Online demo](http://86.50.253.19:8001/tagdemo/)
   * [LREC2020 Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.567.pdf)
-  * [Code](https://github.com/jouniluoma/keras-bert-ner)
+  * [Code](https://github.com/spyysalo/keras-bert-ner)
   * [Trained model](http://dl.turkunlp.org/turku-ner-models/)
   * [Data](https://github.com/TurkuNLP/turku-ner-corpus)
 
