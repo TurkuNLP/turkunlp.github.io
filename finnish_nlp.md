@@ -56,7 +56,7 @@ J. Luotolahti; J. Kanerva; V. Laippala; S. Pyysalo; F. Ginter. Towards Universal
 
 Tool for searching morpho-syntactic constructions from dependency graphs.
 
-More information on the dep_search's project page: <http://bionlp-www.utu.fi/dep_search/>
+Beta version of the tool's new demo: <http://depsearch-depsearch.rahtiapp.fi/ds_demo/>
 
 **Main references:**
 J. Luotolahti; J. Kanerva; S. Pyysalo; F. Ginter. SETS: Scalable and Efficient Tree Search in Dependency Graphs. Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Demonstrations. 2015
