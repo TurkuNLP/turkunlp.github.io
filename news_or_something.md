@@ -11,6 +11,10 @@ The project combines linguistics, natural language processing and machine learni
 
 ** Papers and talks:
 
+At the 12th Web-as-Corpus Workshop remotely: 
+Veronika Laippala, Samuel Rönnqvist, Saara Hellström, Juhani Luotolahti, Liina Repo, Anna Salmela, Valtteri Skantsi, Sampo Pyysalo
+From Web Crawl to Clean Register-Annotated Corpora. See https://www.aclweb.org/anthology/2020.wac-1.3/
+
 In Research data and the humanities in Oulu:
 Veronika Laippala: From bits and numbers to explanations - doing research on Internet-based big data (Plenary talk). See slides at https://github.com/mavela/Papers-and-talks/blob/master/explaining_numbers_rdhum.pdf
 
