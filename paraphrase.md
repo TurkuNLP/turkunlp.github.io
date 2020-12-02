@@ -8,4 +8,8 @@ The project gathers a large dataset of Finnish paraphrase pairs (aiming at 100,0
 * <a href="assets/files/paraphrase-poster.pdf">Project poster</a>
 * Annotation tools: [candidate selection](https://github.com/TurkuNLP/pick-para-anno), [candidate annotation](https://github.com/TurkuNLP/rew-para-anno), [statistics](https://github.com/TurkuNLP/stats-para-anno)
 
-<img style="width:50%" src="assets/images/paraphrase_team.jpg" />
+<figure>
+  <img style="width:50%" src="assets/images/paraphrase_team.jpg" />
+  <figcaption>The project team: Filip Ginter, Jenna Saarni, Jemina Kilpeläinen, Li-Hsin Chang, Otto Tarkka, Jenna Kanerva, Maija Sevón, Hanna-Mari Kupari</figcaption>
+</figure>
+
