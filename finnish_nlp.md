@@ -102,4 +102,8 @@ More information and online demo on the [NER's project page](fin-ner.html)
 
 ## Finnish paraphrase <a id="fin-para"></a>
 
-[Details upcoming](paraphrase.html)
+Textual paraphrase dataset for deep language modeling gathers a large dataset of Finnish and Swedish paraphrases.
+
+[More information on the paraphrase project](paraphrase.html)
+
+**Contact:** Filip Ginter (ginter@cs.utu.fi)
