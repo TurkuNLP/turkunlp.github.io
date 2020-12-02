@@ -7,4 +7,4 @@ The project gathers a large dataset of Finnish and Swedish paraphrases. The para
 
 <a href="assets/files/paraphrase_poster.pdf">Project poster</a>
 
-<img src="assets/images/paraphrase_team.jpg" />
+<img style="width:50%" src="assets/images/paraphrase_team.jpg" />
