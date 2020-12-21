@@ -7,7 +7,6 @@ title: People
    <header class="major">
       <h2>Professors</h2>
    </header>
-
    <div class="row">
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/sala_web.jpg" alt="" /></span>
@@ -24,15 +23,15 @@ title: People
 	 <p>Also: <a href="http://silo.ai">Silo.ai</a> and <a href="https://www.lingsoft.fi/">Lingsoft</a></p>
        </div>
      </block>
-
+     
      <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/veronika_laippala.jpg" alt="" /></span>
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
        <div class="content">
 	 <h3>Veronika Laippala</h3>
 	 <p>Professor</p>
        </div>
      </block>
-   </div>
+   </div> 
    <div class="row">
      <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/blank.png" alt="" /></span>
@@ -43,7 +42,6 @@ title: People
      </block>
    </div>
 	
-
 </section>
 
 <section>
@@ -77,8 +75,6 @@ title: People
 
    </div>
 
-
-
 </section>
 
 <section>
@@ -108,6 +104,7 @@ title: People
        </div>
      </block>
    </div>
+   
    <div class="row">
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/jenna_kanerva.png" alt="" /></span>
