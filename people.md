@@ -29,7 +29,7 @@ title: People
        <span class="image"><img src="assets/images/veronika_laippala.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Veronika Laippala</h3>
-	 <p>Associate prof.</p>
+	 <p>Professor</p>
        </div>
      </block>
    </div>
