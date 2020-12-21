@@ -25,7 +25,7 @@ title: People
      </block>
      
      <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <span class="image"><img src="assets/images/veronika_laippala.png" alt="" /></span>
        <div class="content">
 	 <h3>Veronika Laippala</h3>
 	 <p>Professor</p>
@@ -34,7 +34,7 @@ title: People
    </div> 
    <div class="row">
      <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/veronika_laippala.png" alt="" /></span>
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
        <div class="content">
 	 <h3>Sampo Pyysalo</h3>
 	 <p>Associate prof.</p>
