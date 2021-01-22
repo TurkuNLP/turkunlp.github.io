@@ -78,3 +78,13 @@ PI: Marjo Kaartinen (TY), Partners: __Sampo Pyysalo (TY)__
 2016-2019, funded by the Academy of Finland
 
 The Consortium Profiling premodern authors (PROPREAU) applies and develops new computational methods based on machine learning to explore several fundamental and unresolved questions of authorship in classical and medieval Latin texts, ranging from Roman grammarians to papal court and works of the inquisitors. Despite the unsurpassed cultural importance of Latin, many essential texts remain anonymous. Identifying their authors requires an analysis and comparison of large quantities of text, often characterized by imitation of earlier sources. Computational models and machine learning have potential to significantly alter our view of premodern authorship by allowing a much wider look at textual material than is attainable by conventional methods and a single human reader. The Consortium expects to offer new, well-grounded answers to questions of authorship that were previously considered unsolvable as well as guidelines for future endeavors to identify anonymous premodern texts.
+
+## Massively multilingual modeling of registers in web-scale corpora
+
+PI: Veronika Laippala
+
+2021-2024, funded by the Academy of Finland
+
+This project combines the long traditions of corpus linguistics and the latest innovations of natural language processing (NLP) to explore web registers—situationally defined Internet text varieties such as news, blogs or how-to pages—on a massively multilingual scale. Specifically, the project 1) analyzes language-specific differences of registers and creates a data-driven description of the full range of web registers in six languages, 2) develops machine learning methods for large-scale register modeling and identification in massively cross/multi-lingual settings, and 3) automatically identifies registers in Universal Parsebanks, a language resource spanning
+100 billion words and 64 languages. Thereby, the project provides critical knowledge about online communication and tools with which to develop web data from simple masses of raw text toward organized resources with rich metadata.
+
