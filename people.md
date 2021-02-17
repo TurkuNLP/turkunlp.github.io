@@ -136,12 +136,7 @@ title: People
        </div>
      </block>
 
-     <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/saara_hellstrom.jpg" alt="" /></span>
-       <div class="content">
-	 <h3>Saara Hellström</h3>
-       </div>
-     </block>
+
      
    </div>
 
