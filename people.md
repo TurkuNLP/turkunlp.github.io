@@ -142,6 +142,14 @@ title: People
 	 <h3>Valtteri Skantsi</h3>
        </div>
      </block>
+     
+     <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/liina_repo.png" alt="" /></span>
+       <div class="content">
+	 <h3>Liina Repo</h3>
+       </div>
+     </block>
+   </div>     
 
      
    </div>
