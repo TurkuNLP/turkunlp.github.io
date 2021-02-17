@@ -157,9 +157,6 @@ title: People
 	 <h3>Liina Repo</h3>
        </div>
      </block>
-   </div>
-
-     
-   </div>
+  
 
 </section>
