@@ -144,9 +144,9 @@ title: People
      </block>
      
      <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/liina_repo.png" alt="" /></span>
+       <span class="image"><img src="assets/images/saara_hellstrom.png" alt="" /></span>
        <div class="content">
-	 <h3>Liina Repo</h3>
+	 <h3>Saara Hellström</h3>
        </div>
      </block>
    </div>     
