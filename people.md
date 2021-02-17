@@ -137,7 +137,7 @@ title: People
      </block>
 
      <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/valtteri_skantsi.jpg" alt="" /></span>
+       <span class="image"><img src="assets/images/valtteri_skantsi.JPG" alt="" /></span>
        <div class="content">
 	 <h3>Valtteri Skantsi</h3>
        </div>
