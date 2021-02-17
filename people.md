@@ -129,7 +129,7 @@ title: People
    </div>
    
    <div class="row">
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/lihsin_chang.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Li-Hsin Chang</h3>
@@ -151,7 +151,7 @@ title: People
      </block>
    </div>
    
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/LiinaRepo.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Liina Repo</h3>
