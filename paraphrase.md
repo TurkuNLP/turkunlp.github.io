@@ -7,7 +7,7 @@ The project gathers a large dataset of Finnish paraphrase pairs (aiming at 100,0
 
 * <a href="assets/files/paraphrase-poster.pdf">Project poster</a>
 * Annotation tools: [candidate selection](https://github.com/TurkuNLP/pick-para-anno), [candidate annotation](https://github.com/TurkuNLP/rew-para-anno), [statistics](https://github.com/TurkuNLP/stats-para-anno)
-* Data: the annotation is still ongoing, the first release of the data is planned for January 2021
+* Data: the first release of 53,000 paraphrases is expected by the end of Februrary / early March 2021
 
 <figure>
   <img style="width:50%" src="assets/images/paraphrase_team.jpg" />
