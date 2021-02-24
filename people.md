@@ -121,9 +121,9 @@ title: People
      </block>
 
      <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/antti_virtanen.jpg" alt="" /></span>
+       <span class="image"><img src="assets/images/iiro_rastas.jpg" alt="" height="100px" /></span>
        <div class="content">
-	 <h3>Antti Virtanen</h3>
+	 <h3>Iiro Rastas</h3>
        </div>
      </block>
    </div>
