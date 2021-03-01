@@ -5,7 +5,7 @@ title: Online Demos
 
 **Finnish Parser:** <http://bionlp-www.utu.fi/parser_demo/>
 
-**Treebank and Parsebank search:** <http://bionlp-www.utu.fi/dep_search/>
+**Treebank and Parsebank search:** <http://depsearch-depsearch.rahtiapp.fi/ds_demo/>
 
 **Word embeddings:** <http://bionlp-www.utu.fi/wv_demo/>
 
