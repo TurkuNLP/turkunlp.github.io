@@ -7,14 +7,7 @@ title: Finnish NLP
 
 Finnish dependency parser pipeline, which include **tokenization, sentence splitting, lemmatization, morphological tagging and dependency parsing**.
 
- More information on the parser's project page: <https://turkunlp.github.io/Turku-neural-parser-pipeline/>
- 
- **Online demo:** <http://bionlp-www.utu.fi/parser_demo/>
- 
- **Main references:**
-Kanerva, J; Ginter, F; Miekka, N; Leino, A; Salakoski, T: Turku Neural Parser Pipeline: An End-to-End System for the CoNLL 2018 Shared Task. Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies. 2018
-
-Pyysalo, Sampo; Kanerva, Jenna; Missilä, Anna; Laippala, Veronika; Ginter, Filip: Universal Dependencies for Finnish. Proceedings of NoDaLiDa 2015 <https://aclweb.org/anthology/W/W15/W15-1821.pdf>
+[More information on the parser project](parser.html)
  
  **Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi) or [github issue tracker](https://github.com/TurkuNLP/Turku-neural-parser-pipeline/issues)
  
