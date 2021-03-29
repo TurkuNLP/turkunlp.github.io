@@ -1,5 +1,5 @@
 ---
-title: Parser
+title: Finnish Parser
 layout: page
 ---
 
