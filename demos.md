@@ -10,3 +10,6 @@ title: Online Demos
 **Word embeddings:** <http://bionlp-www.utu.fi/wv_demo/>
 
 **Text Reuse in Finnish Newspapers and Journals 1771-1910 (search engine):** <http://comhis.fi/clusters>
+
+**FinBERT "guess a word" game** <http://ann.turkunlp.org/tt>
+
