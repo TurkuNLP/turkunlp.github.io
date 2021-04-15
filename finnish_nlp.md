@@ -34,7 +34,9 @@ A mass-scale corpus of Internet Finnish with automatic syntactic analysis. Curre
 
 The project has three aims: 1) The creation of a language resource with automatic morphological and syntactic analyses, 2) The classification of the entire Parsebank to coherent subcorpora, 3) The creation of an online user interface
 
-**Online search of the morpho-syntactic features:** Finnish Internet Parsebank corpus in <http://bionlp-www.utu.fi/dep_search/>
+**Online search of the morpho-syntactic features:** Finnish Internet Parsebank corpus in [Dep Search](http://depsearch-depsearch.rahtiapp.fi/ds_demo/)
+
+**Online search for words and their contexts:** Finnish Internet Parsebank corpus in [NoSketchEngine](http://bionlp-www.utu.fi/nse/) 
 
 **Semantic similarity of words:** An online demo which lets you query semantically similar words using a word2vec model trained on the Parsebank data, <http://bionlp-www.utu.fi/wv_demo/>. Embedding models in binary form are available [here](http://dl.turkunlp.org/finnish-embeddings/).
 
