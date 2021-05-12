@@ -4,7 +4,7 @@ title: Language Technology teaching
 ---
 
 ## Language Technology study module (25 credits)
-Organized together with the Department of Future Technologies and the School of Languages and Translation Studies. No prior knowledge of language technology is needed. Students coming outside the Department of IT will learn the basics of programming and automatic text processing during the first and second period courses so that they are able to continue to more advanced cources. All advanced courses are organized so that motivated students also outside IT Department are able to complete the study module.
+Organized together with the Department of Computing and the School of Languages and Translation Studies. No prior knowledge of language technology is needed. Students coming outside the Department of Computing will learn the basics of programming and automatic text processing during the first and second period courses so that they are able to continue to more advanced cources. All advanced courses are organized so that motivated students also outside Computing Department are able to complete the study module.
 
 ## Courses
 
@@ -24,7 +24,8 @@ After the course the student knows how to manipulate and analyze large corpora f
 
 
 ### BIOI2250 Introduction to Programming (5–6 ECTS)
-Teacher: Department of Future Technologies
+
+Teacher: Department of Computing
 
 Language: English
 
@@ -34,13 +35,13 @@ Level: Intermediate
 
 The course targets students with no prior programming experience. The students will acquire basic skills in algorithm design and programming, learning to write simple, practical programs in the Python programming language. 
 
-Students from the Department of Future Technologies (TKT or DI) **cannot** take this course, you must take the programming courses meant for TKT or DI degree students.
+Students from the Department of Computing (TKT or DI) **cannot** take this course, you must take the programming courses meant for TKT or DI degree students.
 
 
-### TKO_8966 Johdatus kieliteknologiaan (5 op) (Introduction to Language Technology)
-Teacher: Jenna Kanerva and Kai Hakala, Department of Future Technologies
+### TKO_8966 Introduction to Language Technology (5 op)
+Teachers: Jenna Kanerva, Filip Ginter, Samuel Rönnqvist, Sampo Pyysalo, Department of Computing
 
-Language: Finnish
+Language: English
 
 Time: Every year, third period (spring)
 
@@ -62,35 +63,23 @@ After the course the student is familiar with ready-made corpora from different 
 
 
 ### TKO_8964 Textual Data Analysis (5 op)
-Teacher: Filip Ginter, Department of Future Technologies
+Teachers: Filip Ginter, Sampo Pyysalo, Department of Computing
 
 Language: English
 
-Time: Every third year, fourth period (spring)
+Time: Every other year (odd years), fourth period (spring)
 
 Level: Advanced
 
 Understanding of the fundamental methods of mining information hidden across very large collections of text. Practical skills in working with machine learning methods and application of basic language technology tools to textual data. Understanding of the possibilities and limitations of state-of-the-art language technology methods. Topics: Web crawls and other large collections of textual data. Preprocessing of large text corpora: segmentation, tagging, and syntactic analysis. Pattern matching, supervised machine learning, and clustering. Information extraction and aggregation. Applications e.g. in scientific literature mining.
 
 
-### TKO_8963 Search Engines and Document Retrieval Methods (5 op)
-Teacher: Filip Ginter, Department of Future Technologies
-
-Language: English
-
-Time: Every third year, fourth period (spring)
-
-Level: Advanced
-
-The course teaches the fundamentals of document indexing and search, giving the students understanding of how large text collections can be efficiently queried, and an insight into the technology behind large search engines. The course includes plenty of hands-on exercises where the students learn to deploy a commonly used search engine software on a large dataset, and understand the many choices involved in the process. The students also learn how to deal with inflective languages, synonyms, and other more advanced topics in information retrieval. The course also teaches how to cluster and label documents by topic. Topics: Inverted index and fundamentals of search, vector-space representations of documents and concepts, practical exercises in search engine deployment and document index generation, document clustering and topic modeling.
-
-
 ### TKO_8965 Deep Learning in Human Language Technology (5 op)
-Teacher: Filip Ginter, Department of Future Technologies
+Teacher: Filip Ginter, Sampu Pyysalo, Department of Computing
 
 Language: English
 
-Time: Every third year, fourth period (spring)
+Time: Every other year (even years), fourth period (spring)
 
 Level: Advanced
 
