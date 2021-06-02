@@ -12,6 +12,6 @@ The project gathers a large dataset of Finnish paraphrase pairs (aiming at 100,0
 
 <figure>
   <img style="width:50%" src="assets/images/paraphrase_team.jpg" />
-  <figcaption style="width:50%">The project team: Filip Ginter, Jenna Saarni, Jemina Kilpeläinen, Li-Hsin Chang, Otto Tarkka, Jenna Kanerva, Maija Sevón, Hanna-Mari Kupari. Not on the image: Valtteri Skantsi</figcaption>
+  <figcaption style="width:50%">The project team: Filip Ginter, Jenna Saarni, Jemina Kilpeläinen, Li-Hsin Chang, Otto Tarkka, Jenna Kanerva, Maija Sevón, Hanna-Mari Kupari. Not on the image: Valtteri Skantsi, Aurora Piirto</figcaption>
 </figure>
 
