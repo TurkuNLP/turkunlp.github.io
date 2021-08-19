@@ -9,7 +9,7 @@ The project gathered a large dataset of Finnish paraphrase pairs (over 100,000) 
 
 * The full manually **annotated dataset** is on [GitHub](https://github.com/TurkuNLP/Turku-paraphrase-corpus) and the [European Language Grid](https://live.european-language-grid.eu/catalogue/corpus/7754)
 * A **model** trained on this data to classify text segment pairs into the various classes of paraphrase is documented and downloadble in the following notebook [[GitHub]](https://github.com/TurkuNLP/Turku-paraphrase-models/blob/main/para_notebook.ipynb) [[Colab]](https://colab.research.google.com/github/TurkuNLP/Turku-paraphrase-models/blob/main/para_notebook.ipynb)
-* A collection of **paraphrase candidates** (both positive and negative) gathered using the above model and useful for further training in a straightforward classification setup is downloadable (to appear)
+* A collection of **paraphrase candidates** (both positive and negative) gathered using the above model and useful for further training in a straightforward classification setup is [downloadable here](http://dl.turkunlp.org/turku-paraphrase/pos-neg-candidates/)
 * A Finnish **SentenceBERT** model fine-tuned on the data is available for download (to appear)
 
 ## Documentation and publications
