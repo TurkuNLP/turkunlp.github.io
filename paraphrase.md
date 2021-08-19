@@ -38,13 +38,12 @@ The project gathered a large dataset of Finnish paraphrase pairs (over 100,000) 
 
 ## Acknowledgements
 
-* Project team (alphabetic order): Li-Hsin Chang, Filip Ginter, Jenna Kanerva, Jemina Kilpeläinen, Hanna-Mari Kupari, Aurora Piirto, Iiro Rastas, Jenna Saarni, Maija Sevón, Valtteri Skantsi, Otto Tarkka
-* Funding:
+* **Project team**: Li-Hsin Chang, Filip Ginter, Jenna Kanerva, Jemina Kilpeläinen, Hanna-Mari Kupari, Aurora Piirto, Iiro Rastas, Jenna Saarni, Maija Sevón, Valtteri Skantsi, Otto Tarkka (alphabetic order)
+* **Funding**:
   * [European Language Grid](https://www.european-language-grid.eu/)
   * Academy of Finland
-* Data:
+* **Data**:
   * [opensubtitles.org](https://opensubtitles.org)
-
 
 <figure>
   <img style="width:50%" src="assets/images/paraphrase_team.jpg" />
