@@ -9,7 +9,7 @@ Finnish dependency parser pipeline, which include **tokenization, sentence split
 
 [More information on the parser project](parser.html)
  
- **Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi) or [github issue tracker](https://github.com/TurkuNLP/Turku-neural-parser-pipeline/issues)
+ **Contact:** Filip Ginter (figint@utu.fi), Jenna Kanerva (jmnybl@utu.fi) or [github issue tracker](https://github.com/TurkuNLP/Turku-neural-parser-pipeline/issues)
  
 ## UD_Finnish treebank (Turku Dependency Treebank) <a id="treebank"></a>
  
@@ -26,7 +26,7 @@ Haverinen, K.; Nyblom, J.; Viljanen, T.; Laippala, V.; Kohonen, S.; Missilä, A.
 
 Pyysalo, Sampo; Kanerva, Jenna; Missilä, Anna; Laippala, Veronika; Ginter, Filip: Universal Dependencies for Finnish. Proceedings of NoDaLiDa 2015 <https://aclweb.org/anthology/W/W15/W15-1821.pdf>
 
-**Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi)
+**Contact:** Filip Ginter (figint@utu.fi), Jenna Kanerva (jmnybl@utu.fi)
 
 ## Finnish Internet Parsebank <a id="parsebank"></a>
 
@@ -45,7 +45,7 @@ The project has three aims: 1) The creation of a language resource with automati
 **Main references:**
 J. Luotolahti; J. Kanerva; V. Laippala; S. Pyysalo; F. Ginter. Towards Universal Web Parsebanks. Proceedings of the International Conference on Dependency Linguistics (Depling'15). 2015
 
-**Contact:** Filip Ginter (ginter@cs.utu.fi), Veronika Laippala (mavela@utu.fi)
+**Contact:** Filip Ginter (figint@utu.fi), Veronika Laippala (mavela@utu.fi)
 
 ## Search Tool for Dependency Graphs (dep_search) <a id="depsearch"></a>
 
@@ -58,7 +58,7 @@ J. Luotolahti; J. Kanerva; S. Pyysalo; F. Ginter. SETS: Scalable and Efficient T
 
 J. Luotolahti; J. Kanerva; F. Ginter. Dep_search: Efficient Search Tool for Large Dependency Parsebanks. Proceedings of the 21st Nordic Conference on Computational Linguistics (NoDaLiDa). 2017
 
-**Contact:** Filip Ginter (ginter@cs.utu.fi), Juhani Luotolahti (mjluot@utu.fi)
+**Contact:** Filip Ginter (figint@utu.fi), Juhani Luotolahti (mjluot@utu.fi)
 
 ## Finnish Propbank <a id="propbank"></a>
 
@@ -71,7 +71,7 @@ More information on the propbank's project page: <http://turkunlp.github.io/Finn
 **Main references:**
 Haverinen, K.; Kanerva, J.; Kohonen, S.; Missilä, A.; Ojala, S.; Viljanen, T.; Laippala, V.; Ginter, F. The Finnish Proposition Bank. Language Resources and Evaluation. 2015
 
-**Contact:** Filip Ginter (ginter@cs.utu.fi), Jenna Kanerva (jmnybl@utu.fi)
+**Contact:** Filip Ginter (figint@utu.fi), Jenna Kanerva (jmnybl@utu.fi)
 
 ## Finnish BERT (FinBERT) <a id="finbert"></a>
 
@@ -101,4 +101,4 @@ Textual paraphrase dataset for deep language modeling gathers a large dataset of
 
 [More information on the paraphrase project](paraphrase.html)
 
-**Contact:** Filip Ginter (ginter@cs.utu.fi)
+**Contact:** Filip Ginter (figint@utu.fi)
