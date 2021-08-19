@@ -45,6 +45,7 @@ The project gathered a large dataset of Finnish paraphrase pairs (over 100,000) 
 * **Data**:
   * [opensubtitles.org](https://opensubtitles.org)
 
+
 <figure>
   <img style="width:50%" src="assets/images/paraphrase_team.jpg" />
   <figcaption style="width:50%">The project team: Filip Ginter, Jenna Saarni, Jemina Kilpeläinen, Li-Hsin Chang, Otto Tarkka, Jenna Kanerva, Maija Sevón, Hanna-Mari Kupari. Not on the image: Valtteri Skantsi, Aurora Piirto</figcaption>
