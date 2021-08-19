@@ -28,16 +28,7 @@ The project gathered a large dataset of Finnish paraphrase pairs (over 100,000) 
 ```
 @inproceedings{kanerva-etal-2021-finnish,
     title = "{F}innish Paraphrase Corpus",
-    author = {Kanerva, Jenna  and
-      Ginter, Filip  and
-      Chang, Li-Hsin  and
-      Rastas, Iiro  and
-      Skantsi, Valtteri  and
-      Kilpel{\"a}inen, Jemina  and
-      Kupari, Hanna-Mari  and
-      Saarni, Jenna  and
-      Sev{\'o}n, Maija  and
-      Tarkka, Otto},
+    author = {Kanerva, Jenna and Ginter, Filip and Chang, Li-Hsin and Rastas, Iiro and Skantsi, Valtteri and Kilpel{\"a}inen, Jemina and Kupari, Hanna-Mari and      Saarni, Jenna and Sev{\'o}n, Maija and Tarkka, Otto},
     booktitle = "Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa'21)",
     year = "2021",
     publisher = {Link{\"o}ping University Electronic Press, Sweden},
