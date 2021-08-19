@@ -25,6 +25,8 @@ The project gathered a large dataset of Finnish paraphrase pairs (over 100,000) 
 
 ## How to cite?
 
+J. Kanerva & F. Ginter & LH. Chang & I. Rastas & V. Skantsi & HM. Kupari & J. Kilpeläinen & J. Saarni & M. Sevón & O. Tarkka. 2021. *Finnish Paraphrase Corpus.*  Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa 2021) pp. 288-298.
+
 ```
 @inproceedings{kanerva-etal-2021-finnish,
     title = "{F}innish Paraphrase Corpus",
