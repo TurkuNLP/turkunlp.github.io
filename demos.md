@@ -15,3 +15,5 @@ title: Online Demos
 
 **FinBERT "guess a word" game** <http://ann.turkunlp.org/tt>
 
+**Finnish SBERT "find a similar sentence" demo** <http://epsilon-it.utu.fi/sbert400m>
+
