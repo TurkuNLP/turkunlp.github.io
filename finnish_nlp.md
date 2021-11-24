@@ -102,3 +102,15 @@ Textual paraphrase dataset for deep language modeling gathers a large dataset of
 [More information on the paraphrase project](paraphrase.html)
 
 **Contact:** Filip Ginter (figint@utu.fi)
+
+## Finnish Ice Hockey Data2Text <a id="hockey-data2text"></a>
+
+The Turku Hockey Data2Text dataset for ice hockey news generation is a collection of ice hockey statistics combined with Finnish natural language descriptions of the game events.
+
+[More information on the data2text page](hockey_data2text.html)
+
+**Main references:** Jenna Kanerva, Samuel Rönnqvist, Riina Kekki, Tapio Salakoski, Filip Ginter. 2019.	Template-free Data-to-Text Generation of Finnish Sports News. In	Proceedings of the 22nd Nordic Conference on Computational Linguistics (NoDaLiDa’19). [BibTeX](https://aclanthology.org/W19-6125/)
+
+**Contact:** Jenna Kanerva (jmnybl@utu.fi), Filip Ginter (figint@utu.fi)
+
+
