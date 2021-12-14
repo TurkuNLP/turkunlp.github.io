@@ -3,7 +3,7 @@ layout: page
 title: Online Demos
 ---
 
-**Finnish Parser:** <http://bionlp-www.utu.fi/parser_demo/>
+**Finnish Parser:** <http://epsilon-it.utu.fi/parser_demo/>
 
 **Treebank and Parsebank search:** <http://depsearch-depsearch.rahtiapp.fi/ds_demo/>
 
