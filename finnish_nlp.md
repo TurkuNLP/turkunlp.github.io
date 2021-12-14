@@ -36,11 +36,11 @@ The project has three aims: 1) The creation of a language resource with automati
 
 **Online search of the morpho-syntactic features:** Finnish Internet Parsebank corpus in [Dep Search](http://depsearch-depsearch.rahtiapp.fi/ds_demo/)
 
-**Online search for words and their contexts:** Finnish Internet Parsebank corpus in [NoSketchEngine](http://bionlp-www.utu.fi/nse/) 
+**Online search for words and their contexts:** Finnish Internet Parsebank corpus in [NoSketchEngine](http://epsilon-it.utu.fi/nse/) 
 
-**Semantic similarity of words:** An online demo which lets you query semantically similar words using a word2vec model trained on the Parsebank data, <http://bionlp-www.utu.fi/wv_demo/>. Embedding models in binary form are available [here](http://dl.turkunlp.org/finnish-embeddings/).
+**Semantic similarity of words:** An online demo which lets you query semantically similar words using a word2vec model trained on the Parsebank data, <http://epsilon-it.utu.fi/wv_demo/>. Embedding models in binary form are available [here](http://dl.turkunlp.org/finnish-embeddings/).
 
-**Word frequency list:** A Finnish word frequency list can be downloaded at <http://bionlp-www.utu.fi/.jmnybl/finnish_vocab.txt.gz>. It's calculated from the Parsebank data and sorted in descending order. If you use this in your research, please cite us.
+**Word frequency list:** A Finnish word frequency list can be downloaded at <http://epsilon-it.utu.fi/.jmnybl/finnish_vocab.txt.gz>. It's calculated from the Parsebank data and sorted in descending order. If you use this in your research, please cite us.
 
 **Main references:**
 J. Luotolahti; J. Kanerva; V. Laippala; S. Pyysalo; F. Ginter. Towards Universal Web Parsebanks. Proceedings of the International Conference on Dependency Linguistics (Depling'15). 2015
