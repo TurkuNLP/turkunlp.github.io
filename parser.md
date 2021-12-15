@@ -7,7 +7,7 @@ Dependency parsing pipeline for Finnish and other 50+ languages. The pipeline in
 
  More information on the parser's project page: <https://turkunlp.github.io/Turku-neural-parser-pipeline/>
  
- **Online demo:** <http://bionlp-www.utu.fi/parser_demo/>
+ **Online demo:** <http://epsilon-it.utu.fi/parser_demo/>
  
  **Main references:**
 Kanerva, Jenna; Ginter, Filip; Miekka, Niko; Leino, Akseli; Salakoski, Tapio. Turku Neural Parser Pipeline: An End-to-End System for the CoNLL 2018 Shared Task. Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies. 2018.
