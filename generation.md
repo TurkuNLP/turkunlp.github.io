@@ -23,3 +23,7 @@ Olipa vielä eräs, hyvin pieni ja hyvin sininen ja herttainen prinsessa. Kerran
 <hr/>
 
 (Live demo coming soon!)
+
+<hr/>
+
+**Acknowledgments**: The model is being created in collaboration with the National Library of Finland (<https://www.kansalliskirjasto.fi>). We wish to acknowledge CSC – IT Center for Science, Finland, for generous computational resources.
