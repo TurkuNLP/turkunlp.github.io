@@ -26,4 +26,4 @@ Friedrich-Schiller-Universität Jena Germany
 
 **Zoom link:** [Click here on 04.02.22, at 12:10 - 12:15](https://utu.zoom.us/j/67742399326) (Meeting ID: 677 4239 9326)
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTClfGAdqmmykNtX-D-vx1WY7JBXAF9Mz75X0losJtxhtcSv8C-LMMFARGuKb2jkFRJugyaTqgVTwKY/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTClfGAdqmmykNtX-D-vx1WY7JBXAF9Mz75X0losJtxhtcSv8C-LMMFARGuKb2jkFRJugyaTqgVTwKY/pub?embedded=true" width="1600" height="800"></iframe>
