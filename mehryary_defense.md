@@ -12,6 +12,7 @@ Faculty of Technology, University of Turku, Finland
 [Associate Professor Filip Ginter](https://www.utu.fi/en/people/filip-ginter),
 TurkuNLP, Department of Computing,
 Faculty of Technology, University of Turku, Finland
+
 [Professor Tapio Salakoski](https://www.utu.fi/en/people/tapio-salakoski),
 TurkuNLP, Department of Mathematics and Statistics,
 Faculty of Science, University of Turku, Finland
@@ -21,7 +22,7 @@ Faculty of Science, University of Turku, Finland
 Jena University Language & Information Engineering (JULIE) Lab,
 Friedrich-Schiller-Universität Jena Germany
 
-**Date/Time:** 04.02.2022 (Friday, February 4th, 2022), 12:15 P.M EET
+**Date/Time:** 04.02.2022 (Friday, February 4th, 2022), starting at 12:15 P.M EET
 
 **Zoom link:** [Click here on 04.02.22, at 12:10 - 12:15](https://utu.zoom.us/j/67742399326)
 
