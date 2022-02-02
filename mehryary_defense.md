@@ -4,8 +4,7 @@ layout: page
 ---
 **Title:** Optimizing Text Mining Methods for Improving Biomedical Natural Language Processing [(Abstract)](https://www.utupub.fi/handle/10024/153076)
 
-**Doctoral Candidate:**
-[MSc Farrokh Mehryary] (https://research.utu.fi/converis/portal/detail/Person/1099985?auxfun=&lang=en_GB),
+**Doctoral Candidate:** [MSc Farrokh Mehryary](https://research.utu.fi/converis/portal/detail/Person/1099985?auxfun=&lang=en_GB),
 TurkuNLP, Department of Computing,
 Faculty of Technology, University of Turku, Finland
 
@@ -13,7 +12,6 @@ Faculty of Technology, University of Turku, Finland
 [Associate Professor Filip Ginter](https://www.utu.fi/en/people/filip-ginter),
 TurkuNLP, Department of Computing,
 Faculty of Technology, University of Turku, Finland
-
 [Professor Tapio Salakoski](https://www.utu.fi/en/people/tapio-salakoski),
 TurkuNLP, Department of Mathematics and Statistics,
 Faculty of Science, University of Turku, Finland
