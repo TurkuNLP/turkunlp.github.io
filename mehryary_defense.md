@@ -2,7 +2,7 @@
 title: MSc Farrokh Mehryary Doctoral Dissertation Defense
 layout: page
 ---
-**Title:** Optimizing Text Mining Methods for Improving Biomedical Natural Language Processing  [(Abstract)](https://www.utupub.fi/handle/10024/153076)  [(Thesis_PDF)](https://www.utupub.fi/bitstream/handle/10024/153076/Annales%20F%209%20Mehryary.pdf?sequence=1&isAllowed=y)
+**Title:** Optimizing Text Mining Methods for Improving Biomedical Natural Language Processing  [(Abstract)](https://www.utupub.fi/handle/10024/153076)  [(Thesis_PDF)](https://www.utupub.fi/bitstream/handle/10024/153076/Annales%20F%209%20Mehryary.pdf?sequence=1&isAllowed=y) [(slides)](https://docs.google.com/presentation/d/1dKHeBhAoZX9YzZVBnrCzyN6Y-jLS2isN_u2M7gtOM08/edit?usp=sharing) 
 
 **Doctoral Candidate:** [MSc Farrokh Mehryary](https://research.utu.fi/converis/portal/detail/Person/1099985?auxfun=&lang=en_GB),
 TurkuNLP, Department of Computing,
