@@ -17,3 +17,4 @@ title: Online Demos
 
 **Finnish SBERT "find a similar sentence" demo** <http://epsilon-it.utu.fi/sbert400m>
 
+**Finnish named entity recognition demo** <http://86.50.253.19:8001/tagdemo/>
