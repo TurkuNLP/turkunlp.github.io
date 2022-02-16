@@ -58,13 +58,7 @@ title: People
        </div>
      </block>
 
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/hans_moen.png" alt="" /></span>
-       <div class="content">
-	 <h3>Hans Moen</h3>
-       </div>
-     </block>
-     
+          
      <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/samuel_ronnqvist.jpg" alt="" /></span>
        <div class="content">
