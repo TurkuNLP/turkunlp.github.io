@@ -59,13 +59,19 @@ title: People
      </block>
 
           
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/samuel_ronnqvist.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Samuel Rönnqvist</h3>
        </div>
      </block>
-
+     
+     <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/farrokh_mehryary.png" alt="" /></span>
+       <div class="content">
+	 <h3>Farrokh Mehryary</h3>
+       </div>
+     </block>
 
    </div>
 
@@ -85,9 +91,9 @@ title: People
      </block>
 
      <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/farrokh_mehryary.png" alt="" /></span>
+       <span class="image"><img src="assets/images/liina_repo.jpg" alt="" /></span>
        <div class="content">
-	 <h3>Farrokh Mehryary</h3>
+	 <h3>Liina Repo</h3>
        </div>
      </block>
 
@@ -145,12 +151,7 @@ title: People
      </block>
    </div>
    
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/liina_repo.jpg" alt="" /></span>
-       <div class="content">
-	 <h3>Liina Repo</h3>
-       </div>
-     </block>
+     
   
 
 </section>
