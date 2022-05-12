@@ -18,7 +18,9 @@
                 <!-- Content -->
                 <section>
                 	<header class="main">
+                  {% if page.title %}
                 		<h2>{{ page.title }}</h2>
+                  {% endif %}
                 	</header>
 
                   {% if page.image %}
