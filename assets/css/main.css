@@ -3733,7 +3733,7 @@ button:disabled,
   padding-top: 0;
 }
 
-a.button {
+a.mybutton {
   box-sizing: border-box;
   text-decoration: none;
   border: none;
