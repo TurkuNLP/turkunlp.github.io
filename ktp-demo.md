@@ -1,5 +1,4 @@
 ---
 layout: nosidebar
+title: TurkuNLP demonstrations
 ---
-
-# TurkuNLP demonstrations
