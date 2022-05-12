@@ -3733,17 +3733,7 @@ button:disabled,
   padding-top: 0;
 }
 
-a.mybutton {
-  box-sizing: border-box;
-  text-decoration: none;
-  border: none;
-  background-color: transparent;
-  font-family: inherit;
-  padding: 0;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #f56a6a;
-  color: #ffffff;
-  border-radius: 8px;
+#demo-iframe {
+  border: 1px solid #ccc;
+  width: 100%;
 }
