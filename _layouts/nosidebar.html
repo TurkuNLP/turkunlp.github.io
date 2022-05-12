@@ -1,1 +1,41 @@
+<!DOCTYPE HTML>
 
+<html>
+
+{% include head.html %}
+
+<body>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+
+                {% include header.html %}
+
+                <!-- Content -->
+                <section>
+                	<header class="main">
+                		<h2>{{ page.title }}</h2>
+                	</header>
+
+                  {% if page.image %}
+                	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
+                  {% endif %}
+
+                {{ content }}
+
+              </div>
+          </div>
+      </div>
+
+    {% include footer.html %}
+    {% if page.pubtable == '1' %}
+      {% include pubtable_footer.html %}
+    {% endif %}
+
+</body>
+
+</html>
