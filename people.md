@@ -12,6 +12,7 @@ title: People
        <span class="image"><img src="assets/images/sala_web.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Tapio Salakoski</h3>
+	 <p>Professor</p>
        </div>
      </block>
 	
@@ -19,7 +20,7 @@ title: People
        <span class="image"><img src="assets/images/filip_ginter.jpg" alt="" /></span>
        <div class="content">
 	 <h3><a href="https://fginter.github.io/">Filip Ginter</a></h3>
-	 <p>Associate prof.</p>
+	 <p>Professor</p>
 	 <p>Also: <a href="http://silo.ai">Silo.ai</a> and <a href="https://www.lingsoft.fi/">Lingsoft</a></p>
        </div>
      </block>
