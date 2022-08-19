@@ -52,10 +52,17 @@ title: People
 
    <div class="row">
 
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/farrokh_mehryary.png" alt="" /></span>
        <div class="content">
 	 <h3>Farrokh Mehryary</h3>
+       </div>
+     </block>
+	   
+     <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/aki_kyrolainen.jpg" alt="" /></span>
+       <div class="content">
+	 <h3>Aki-Juhani Kyröläinen</h3>
        </div>
      </block>
 
