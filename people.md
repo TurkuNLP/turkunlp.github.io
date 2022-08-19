@@ -51,22 +51,7 @@ title: People
    </header>
 
    <div class="row">
-   
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/jari_bjorne.jpg" alt="" /></span>       
-       <div class="content">
-	 <h3>Jari Björne</h3>
-       </div>
-     </block>
 
-          
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/samuel_ronnqvist.jpg" alt="" /></span>
-       <div class="content">
-	 <h3>Samuel Rönnqvist</h3>
-       </div>
-     </block>
-     
      <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/farrokh_mehryary.png" alt="" /></span>
        <div class="content">
@@ -153,6 +138,22 @@ title: People
    </div>
    
      
-  
+  <div class="row">
+     <block class="4u 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <div class="content">
+	 <h3>Anni Eskelinen</h3>
+       </div>
+     </block>
+	
+     <block class="4u 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <div class="content">
+	 <h3>Emil Nuutinen</h3>
+       </div>
+     </block>
+     
+     
+   </div>
 
 </section>
