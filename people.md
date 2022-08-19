@@ -65,7 +65,7 @@ title: People
 
 <section>
    <header class="major">
-      <h2>PhD students and researchers</h2>
+      <h2>PhD students and research assistants</h2>
    </header>
 
    <div class="row">
