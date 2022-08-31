@@ -38,7 +38,7 @@ The course targets students with no prior programming experience. The students w
 Students from the Department of Computing (TKT or DI) **cannot** take this course, you must take the programming courses meant for TKT or DI degree students.
 
 
-### [TKO_7095 Introduction to Human Language Technology (5 op)](https://opas.peppi.utu.fi/fi/opintojakso/TKO_7095/91481?period=2022-2024)
+### [TKO_7095 Introduction to Human Language Technology (5 op)](https://opas.peppi.utu.fi/fi/opintojakso/TKO_7095/91481)
 Teachers: Jenna Kanerva, Filip Ginter, Sampo Pyysalo, Department of Computing
 
 Language: English
@@ -62,7 +62,7 @@ Level: Advanced
 After the course the student is familiar with ready-made corpora from different fields, understands the importance of corpora in linguistics and knows how to avoid the most common problems in corpus compilation. Further, the student knows how to use corpus tools, such as Antconc and Wordsmith, is familiar with basic natural language processing tools and their functioning and understands the potentials of machine learning for language studies. In addition, the students learn methods to analyze large digital corpora. These include both traditional corpus linguistics methods and new possibilities offered by natural language processing, such as automatic syntactic analysis, distributional semantics, text classification and sentiment analysis. The studied corpora represent various languages and genres, such as social media, learner language and texts form different time periods.
 
 
-### TKO_8964 Textual Data Analysis (5 op)
+### [TKO_8964 Textual Data Analysis (5 op)](https://opas.peppi.utu.fi/fi/opintojakso/TKO_8964/8778)
 Teachers: Filip Ginter, Sampo Pyysalo, Department of Computing
 
 Language: English
@@ -71,10 +71,17 @@ Time: Every other year (odd years), third period (start of year)
 
 Level: Advanced
 
-Understanding of the fundamental methods of mining information hidden across very large collections of text. Practical skills in working with machine learning methods and application of basic language technology tools to textual data. Understanding of the possibilities and limitations of state-of-the-art language technology methods. Topics: Web crawls and other large collections of textual data. Preprocessing of large text corpora: segmentation, tagging, and syntactic analysis. Pattern matching, supervised machine learning, and clustering. Information extraction and aggregation. Applications e.g. in scientific literature mining.
+The course focuses on practical applications of the methods introduced especially in the “Deep Learning in Human Language Technology” course to various text mining tasks as typically met in research and data science industry. Rather than introducing the inner workings of these methods, their practical applicability to real-world tasks is pursued.
+
+* Web crawls and other large collections of textual data, their usage and processing
+* Data sourcing, annotation, and quality control
+* Information retrieval and document search engines, including modern dense vector representations based on deep learning
+* Surface and semantic similarity of texts and its application in clustering
+* Document classification and text labeling in practical text mining tasks
+* Extraction of relations between entities in text
 
 
-### TKO_8965 Deep Learning in Human Language Technology (5 op)
+### [TKO_8965 Deep Learning in Human Language Technology (5 op)](https://opas.peppi.utu.fi/fi/opintojakso/TKO_8965/8779)
 Teacher: Filip Ginter, Sampu Pyysalo, Department of Computing
 
 Language: English
@@ -83,5 +90,4 @@ Time: Starting from 2023 every year, first period (autumn)
 
 Level: Advanced
 
-The course teaches the fundamental methods of neural networks and deep learning, with an especial focus on their application to human language data. In addition to the theoretical foundations, the course includes plenty of hands-on work, where the students learn how to build and train neural networks in practice on real-world tasks and data. The course also shows the vast array of possibilities machine learning brings to human language technology, broadening the horizons for students with interest in language. Students whose interest is more on the technical side learn how to apply deep learning methods to unstructured and ambiguous data, a skill which can easily be transfered to other domains, such as image and video data processing. The course also deepens the students' programming skills. Topics: Deep learning methods and their application to various tasks in human language technology. Text classification, vector space representations, named entity recognition, sequence classification, machine translation, language generation. Developing and training neural networks using Python.
-
+The course introduces the use of basic neural network architectures to textual data and focuses in detail on the application of state-of-the-art architectures and models to a range of natural language processing tasks. Exercises and the course project emphasize practical skills in training neural networks to address a range of tasks and the use of deep learning-based models as components of practical systems and provide students with the skills to train models in GPU-accelerated environments.
