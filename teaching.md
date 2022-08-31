@@ -38,7 +38,7 @@ The course targets students with no prior programming experience. The students w
 Students from the Department of Computing (TKT or DI) **cannot** take this course, you must take the programming courses meant for TKT or DI degree students.
 
 
-### TKO_7095 Introduction to Human Language Technology (5 op)
+### [TKO_7095 Introduction to Human Language Technology (5 op)](https://opas.peppi.utu.fi/fi/opintojakso/TKO_7095/91481?period=2022-2024)
 Teachers: Jenna Kanerva, Filip Ginter, Sampo Pyysalo, Department of Computing
 
 Language: English
