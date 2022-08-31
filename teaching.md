@@ -38,16 +38,16 @@ The course targets students with no prior programming experience. The students w
 Students from the Department of Computing (TKT or DI) **cannot** take this course, you must take the programming courses meant for TKT or DI degree students.
 
 
-### TKO_8966 Introduction to Language Technology (5 op)
-Teachers: Jenna Kanerva, Filip Ginter, Samuel Rönnqvist, Sampo Pyysalo, Department of Computing
+### TKO_7095 Introduction to Human Language Technology (5 op)
+Teachers: Jenna Kanerva, Filip Ginter, Sampo Pyysalo, Department of Computing
 
 Language: English
 
-Time: Every year, third period (spring)
+Time: Every year, fourth period (late spring)
 
-Level: Intermediate
+Level: Advanced
 
-The course introduces the basic concepts and applications of language technology, such as text segmentation, morphological tagging, language modeling and machine translation, introduces interesting problems which make human language difficult for computer to understand, how language can be modeled in a machine learnable way, and teaches of how to apply machine learning and neural networks in language technology applications. Machine learning is covered from a very practical point of view and the course includes the very basics of machine learning theory needed, so no prior knowledge is needed.
+The course introduces the use of human language as data in data analysis or machine learning, starting from the concepts of textual corpora and corpus annotation, and continuing to building simple language technology applications. The basic feature representation methods of textual data are explained and their practical implementations are shown while building machine learning pipelines for selected language technology applications. The course also introduces the notion of semantic textual similarity and semantic vector spaces of languages. Language modeling is introduced as a task to learn such representations. The course will also introduce several language technology applications, starting from elementary text processing such as segmentation, and continuing to selected end-user applications such as text classification and sentiment mining.
 
 
 ### KKLT0031 Korpuksia ja kieliteknologiaa (5 op)
@@ -67,7 +67,7 @@ Teachers: Filip Ginter, Sampo Pyysalo, Department of Computing
 
 Language: English
 
-Time: Every other year (odd years), fourth period (spring)
+Time: Every other year (odd years), third period (start of year)
 
 Level: Advanced
 
@@ -79,7 +79,7 @@ Teacher: Filip Ginter, Sampu Pyysalo, Department of Computing
 
 Language: English
 
-Time: Every other year (even years), fourth period (spring)
+Time: Starting from 2023 every year, first period (autumn)
 
 Level: Advanced
 
