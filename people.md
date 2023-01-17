@@ -161,7 +161,7 @@ title: People
      </block>
 	  
      <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/otto_tarkka.png" alt="" /></span>
+       <span class="image"><img src="assets/images/otto_tarkka.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Otto Tarkka</h3>
        </div>
