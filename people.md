@@ -167,7 +167,13 @@ title: People
        </div>
      </block>
      
-     
    </div>
-
+   <div class="row">
+     <block class="4u 12u$(small)">
+       <span class="image"><img src="assets/images/risto-luukkonen.jpg" alt="" height="100px" /></span>
+       <div class="content">
+	 <h3>Risto Luukkonen</h3>
+       </div>
+     </block>
+   </div>
 </section>
