@@ -195,5 +195,12 @@ title: People
 	 <h3>Frederike Schram</h3>
        </div>
      </block>
+	   
+   <block class="4u 12u$(small)">
+      <span class="image"><img src="assets/images/selcen_erten.jpg" alt="" height="100px" /></span>
+      <div class="content">
+	<h3>Selcen Erten</h3>
+       </div>
+     </block>
    </div>
 </section>
