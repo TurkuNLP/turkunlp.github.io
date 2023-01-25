@@ -42,6 +42,9 @@ title: People
        </div>
      </block>
    </div>
+
+</section>
+
 <section>
    <header class="major">
       <h2>Doctoral researchers</h2>
