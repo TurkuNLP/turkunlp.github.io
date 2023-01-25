@@ -182,12 +182,5 @@ title: People
 	 <h3>Jouni Luoma</h3>
        </div>
      </block>
-	   
-<block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/jenna_saarni.PNG" alt="" height="100px" /></span>
-       <div class="content">
-	 <h3>Jenna Saarni</h3>
-       </div>
-     </block>
    </div>
 </section>
