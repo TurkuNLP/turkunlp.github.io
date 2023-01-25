@@ -49,7 +49,6 @@ title: People
    <header class="major">
       <h2>Doctoral researchers</h2>
    </header>
-
    <div class="row">
 
      <block class="4u 12u$(small)">
@@ -180,6 +179,13 @@ title: People
        <span class="image"><img src="assets/images/jouniluoma.jpg" alt="" height="100px" /></span>
        <div class="content">
 	 <h3>Jouni Luoma</h3>
+       </div>
+     </block>
+	   
+<block class="4u 12u$(small)">
+       <span class="image"><img src="assets/images/jenna_saarni.PNG" alt="" height="100px" /></span>
+       <div class="content">
+	 <h3>Jenna Saarni</h3>
        </div>
      </block>
    </div>
