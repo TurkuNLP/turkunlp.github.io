@@ -42,8 +42,6 @@ title: People
        </div>
      </block>
    </div>
-	
-</section>
 
 <section>
    <header class="major">
