@@ -50,7 +50,6 @@ title: People
       <h2>Doctoral researchers</h2>
    </header>
    <div class="row">
-
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/farrokh_mehryary.png" alt="" /></span>
        <div class="content">
@@ -73,7 +72,6 @@ title: People
    <header class="major">
       <h2>PhD students and research assistants</h2>
    </header>
-
    <div class="row">
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/suwisa_kaewphan.jpg" alt="" /></span>
