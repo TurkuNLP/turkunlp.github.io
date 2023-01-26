@@ -181,8 +181,8 @@ title: People
      </block>
 	   
    <block class="4u 12u$(small)">
-      <span class="image"><img src="assets/images/jenna_saarni.PNG" alt="" height="100px" /></span>
-      <div class="content">
+     <span class="image"><img src="assets/images/jenna_saarni.PNG" alt="" height="100px" /></span>
+     <div class="content">
 	<h3>Jenna Saarni</h3>
        </div>
      </block>
@@ -190,8 +190,8 @@ title: People
    </div>
    <div class="row">
      <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/Frederike_Schram.jpg" alt="" height="100px" /></span>
-       <div class="content">
+      <span class="image"><img src="assets/images/Frederike_Schram.jpg" alt="" height="100px" /></span>
+      <div class="content">
 	 <h3>Frederike Schram</h3>
        </div>
      </block>
