@@ -209,5 +209,13 @@ title: People
 	<h3>Hanna-Mari Kupari</h3>
        </div>
      </block>
+	   
+   <block class="4u 12u$(small)">
+      <span class="image"><img src="assets/images/ville_kuva.jpg" alt="" height="100px" /></span>
+      <div class="content">
+	<h3>Ville Komulainen</h3>
+       </div>
+     </block>	
+	   
    </div>
 </section>
