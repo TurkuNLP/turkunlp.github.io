@@ -16,6 +16,9 @@ models via the Hugging Face model repository:
 * [Finnish GPT-3 13B](https://huggingface.co/TurkuNLP/gpt3-finnish-13B)
 * BLOOM + Finnish 176B *coming soon!*
 
+You can also find a simple example of generating text with these models
+[here](https://github.com/TurkuNLP/finngen-tools/blob/main/text_generation_example.ipynb).
+
 ---
 
 **Acknowledgments**: The models were created in collaboration with the National Library of Finland (<https://www.kansalliskirjasto.fi>). We wish to acknowledge CSC – IT Center for Science, Finland, for generous computational resources. This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101070350.
