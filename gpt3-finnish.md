@@ -8,6 +8,12 @@ Prior to the full release, we are offering access to some of the
 models via the Hugging Face model repository:
 
 * [Finnish GPT-3 small](https://huggingface.co/TurkuNLP/gpt3-finnish-small)
+* [Finnish GPT-3 medium](https://huggingface.co/TurkuNLP/gpt3-finnish-medium)
+* [Finnish GPT-3 large](https://huggingface.co/TurkuNLP/gpt3-finnish-large)
+* [Finnish GPT-3 xl](https://huggingface.co/TurkuNLP/gpt3-finnish-xl)
+* [Finnish GPT-3 3B](https://huggingface.co/TurkuNLP/gpt3-finnish-3B)
+* [Finnish GPT-3 8B](https://huggingface.co/TurkuNLP/gpt3-finnish-8B)
+* [Finnish GPT-3 13B](https://huggingface.co/TurkuNLP/gpt3-finnish-13B)
 
 ---
 
