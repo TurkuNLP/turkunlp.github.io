@@ -215,7 +215,13 @@ title: People
       <div class="content">
 	<h3>Ville Komulainen</h3>
        </div>
-     </block>	
+     </block>
 	   
+   <block class="4u 12u$(small)">
+      <span class="image"><img src="assets/images/akseli.jpg" alt="" height="100px" /></span>
+      <div class="content">
+	<h3>Akseli Reunamo</h3>
+       </div>
+     </block>		    
    </div>
 </section>
