@@ -89,7 +89,7 @@ More information on the FinBERT's project page: <https://github.com/TurkuNLP/Fin
 
 A series of GPT-3 models trained on Finnish.
 
-More information on the FinGPT's project page: <https://github.com/TurkuNLP/gpt3-finnish>
+More information on the project page: <https://turkunlp.org/gpt3-finnish>
 
 **Contact:** Sampo Pyysalo (sampo.pyysalo@utu.fi)
 
