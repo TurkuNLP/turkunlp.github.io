@@ -10,5 +10,5 @@ To gather data for training this model, we are currently preparing
 tools for a crowdsourcing effort based on the
 [Open Assistant](https://open-assistant.io/) platform.
 
-Please get in touch with us if you are interested in contributing or
-have any questions about this effort!
+Please get in touch with sampo.pyysalo@utu.fi if you are interested in
+contributing or have any questions about this effort!
