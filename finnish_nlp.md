@@ -85,6 +85,15 @@ More information on the FinBERT's project page: <https://github.com/TurkuNLP/Fin
 
 **Contact:** [github issue tracker](https://github.com/TurkuNLP/FinBERT/issues)
 
+## Finnish GPT (FinGPT) <a id="finbert"></a>
+
+A series of GPT-3 models trained on Finnish.
+
+More information on the FinGPT's project page: <https://github.com/TurkuNLP/gpt3-finnish>
+
+**Contact:** Sampo Pyysalo (sampo.pyysalo@gmail.com)
+
+
 ## Finnish NER <a id="fin-ner"></a>
 
 A state-of-the-art Finnish NER system
