@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Finnish ChatGPT / Open Assistant
 ---
-
-## Finnish ChatGPT / Open Assistant
 
 We are working towards a Finnish ChatGPT-like dialogue model built on
 the [FinGPT-3](gpt3-finnish) models.

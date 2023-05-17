@@ -1,8 +1,7 @@
 ---
 layout: page
+title: FinGPT-3
 ---
-
-## FinGPT-3
 
 We have trained generative [GPT-3](https://en.wikipedia.org/wiki/GPT-3)-like models for Finnish. We are currently in the process of evaluating and documenting the models and finalizing their release.
 
