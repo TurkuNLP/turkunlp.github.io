@@ -85,7 +85,7 @@ More information on the FinBERT's project page: <https://github.com/TurkuNLP/Fin
 
 **Contact:** [github issue tracker](https://github.com/TurkuNLP/FinBERT/issues)
 
-## Finnish GPT (FinGPT) <a id="finbert"></a>
+## Finnish GPT (FinGPT) <a id="fingpt"></a>
 
 A series of GPT-3 models trained on Finnish.
 
