@@ -93,6 +93,13 @@ More information on the project page: <https://turkunlp.org/gpt3-finnish>
 
 **Contact:** Sampo Pyysalo (sampo.pyysalo@utu.fi)
 
+## Finnish ChatGPT (FinGPT) <a id="finnish-chatgpt"></a>
+
+ChatGPT -like models for Finnish.
+
+More information on the project page: <https://turkunlp.org/chatgpt-finnish>
+
+**Contact:** Sampo Pyysalo (sampo.pyysalo@utu.fi)
 
 ## Finnish NER <a id="fin-ner"></a>
 
