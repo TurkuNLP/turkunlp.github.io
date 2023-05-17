@@ -91,7 +91,7 @@ A series of GPT-3 models trained on Finnish.
 
 More information on the FinGPT's project page: <https://github.com/TurkuNLP/gpt3-finnish>
 
-**Contact:** Sampo Pyysalo (sampo.pyysalo@gmail.com)
+**Contact:** Sampo Pyysalo (sampo.pyysalo@utu.fi)
 
 
 ## Finnish NER <a id="fin-ner"></a>
@@ -102,7 +102,7 @@ More information and online demo on the [NER's project page](fin-ner.html)
 
 **Main references:** Jouni Luoma, Miika Oinonen, Maria Pyykönen, Veronika Laippala, Sampo Pyysalo. 2020. A Broad-coverage Corpus for Finnish Named Entity Recognition. In Proceedings of The 12th Language Resources and Evaluation Conference (LREC'2020). [BibTeX](https://www.aclweb.org/anthology/2020.lrec-1.567.bib)
 
-**Contact:** Sampo Pyysalo (sampo.pyysalo@gmail.com)
+**Contact:** Sampo Pyysalo (sampo.pyysalo@utu.fi)
 
 ## Finnish paraphrase <a id="fin-para"></a>
 
