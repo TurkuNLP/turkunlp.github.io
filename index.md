@@ -7,4 +7,4 @@ The TurkuNLP Group is a group of researchers at the University of Turku as well 
 ## Recent updates
 
 * **Feb. 16 2023**: [Finnish GPT-3 models](gpt3-finnish) released
-* **Nov. 13 2023**: [first Poro 34B checkpoints](https://huggingface.co/LumiOpen/Poro-34B) released
+* **Nov. 13 2023**: [First Poro 34B checkpoints](https://huggingface.co/LumiOpen/Poro-34B) released
