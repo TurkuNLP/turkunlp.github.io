@@ -3,7 +3,7 @@ layout: page
 title: FinGPT-3
 ---
 
-We have trained generative [GPT-3](https://en.wikipedia.org/wiki/GPT-3)-like models for Finnish. The models are documented in our manuscript [FinGPT: Large Generative Models for a Small Language](https://arxiv.org/abs/2311.05640) (see citation below).
+We have trained generative [GPT-3](https://en.wikipedia.org/wiki/GPT-3)-like models for Finnish. The models are documented in our manuscript [FinGPT: Large Generative Models for a Small Language](https://aclanthology.org/2023.emnlp-main.164/) ([PDF](https://aclanthology.org/2023.emnlp-main.164.pdf); see citation below).
 
 The models are available via the Hugging Face model repository:
 
@@ -26,13 +26,15 @@ You can also find a simple example of generating text with these models
 If you use these models, please consider citing the study introducing them:
 
 ```
-@misc{luukkonen2023fingpt,
-      title={FinGPT: Large Generative Models for a Small Language}, 
-      author={Risto Luukkonen and Ville Komulainen and Jouni Luoma and Anni Eskelinen and Jenna Kanerva and Hanna-Mari Kupari and Filip Ginter and Veronika Laippala and Niklas Muennighoff and Aleksandra Piktus and Thomas Wang and Nouamane Tazi and Teven Le Scao and Thomas Wolf and Osma Suominen and Samuli Sairanen and Mikko Merioksa and Jyrki Heinonen and Aija Vahtola and Samuel Antao and Sampo Pyysalo},
-      year={2023},
-      eprint={2311.05640},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
+@inproceedings{luukkonen2023fingpt,
+    title = "{F}in{GPT}: Large Generative Models for a Small Language",
+    author = "Luukkonen, Risto and Komulainen, Ville and Luoma, Jouni and Eskelinen, Anni and Kanerva, Jenna and Kupari, Hanna-Mari and Ginter, Filip and Laippala, Veronika and Muennighoff, Niklas and Piktus, Aleksandra and Wang, Thomas and Tazi, Nouamane and Scao, Teven and Wolf, Thomas and Suominen, Osma and Sairanen, Samuli and Merioksa, Mikko and Heinonen, Jyrki and Vahtola, Aija and Antao, Samuel and Pyysalo, Sampo",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    year = "2023",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.164",
+    doi = "10.18653/v1/2023.emnlp-main.164",
+    pages = "2710--2726",
 }
 ```
 
