@@ -7,6 +7,7 @@ title: People
    <header class="major">
       <h2>Professors</h2>
    </header>
+	
    <div class="row">
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/sala_web.jpg" alt="" /></span>
@@ -32,6 +33,7 @@ title: People
        </div>
      </block>
    </div> 
+   
    <div class="row">
      <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="" /></span>
@@ -78,7 +80,8 @@ title: People
    <header class="major">
       <h2>PhD students and research assistants</h2>
    </header>
-   <div class="row">
+   
+<div class="row">
 	   
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/liina_repo.jpg" alt="" /></span>
@@ -229,5 +232,4 @@ title: People
        </div>
      </block>		
 </div>
-   </div>
 </section>
