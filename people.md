@@ -39,7 +39,7 @@ title: People
        <span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="" /></span>
        <div class="content">
 	 <h3>Sampo Pyysalo</h3>
-	 <p>Associate prof.</p>
+	 <p>Sen. res. fellow</p>
        </div>
      </block>
    </div>
