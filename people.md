@@ -79,13 +79,7 @@ title: People
       <h2>PhD students and research assistants</h2>
    </header>
    <div class="row">
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/suwisa_kaewphan.jpg" alt="" /></span>
-       <div class="content">
-	 <h3>Suwisa Kaewphan</h3>
-       </div>
-     </block>
-
+	   
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/liina_repo.jpg" alt="" /></span>
        <div class="content">
@@ -93,22 +87,24 @@ title: People
        </div>
      </block>
 
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/kai_hakala.png" alt="" /></span>
        <div class="content">
 	 <h3>Kai Hakala</h3>
        </div>
      </block>
-   </div>
+
    
-   <div class="row">
-     <block class="4u 12u$(small)">
+   
+     <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/jenna_kanerva.png" alt="" /></span>
        <div class="content">
 	 <h3>Jenna Kanerva</h3>
        </div>
      </block>
-
+     
+   </div><div class="row">
+	
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/juhani_luotolahti.jpg" alt="" /></span>
        <div class="content">
@@ -116,47 +112,48 @@ title: People
        </div>
      </block>
 
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/iiro_rastas.jpg" alt="" height="100px" /></span>
        <div class="content">
 	 <h3>Iiro Rastas</h3>
        </div>
      </block>
-   </div>
    
-   <div class="row">
-     <block class="4u 12u$(small)">
+   
+   
+     <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/lihsin_chang.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Li-Hsin Chang</h3>
        </div>
      </block>
-	
-     <block class="4u 12u$(small)">
+
+</div><div class="row">	
+
+<block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/valtteri_skantsi.png" alt="" /></span>
        <div class="content">
 	 <h3>Valtteri Skantsi</h3>
        </div>
      </block>
      
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/saara_hellstrom.png" alt="" /></span>
        <div class="content">
 	 <h3>Saara Hellström</h3>
        </div>
      </block>
-   </div>
-   
-     
-  <div class="row">
-     <block class="4u 12u$(small)">
+
+     <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/blank.png" alt="" /></span>
        <div class="content">
 	 <h3>Anni Eskelinen</h3>
        </div>
      </block>
-	
-     <block class="4u 12u$(small)">
+
+</div><div class="row">	
+
+    <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/blank.png" alt="" /></span>
        <div class="content">
 	 <h3>Emil Nuutinen</h3>
@@ -169,17 +166,17 @@ title: People
 	 <h3>Otto Tarkka</h3>
        </div>
      </block>
-     
-   </div>
-   <div class="row">
-     <block class="4u 12u$(small)">
+   
+     <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/risto-luukkonen.jpg" alt="" height="100px" /></span>
        <div class="content">
 	 <h3>Risto Luukkonen</h3>
        </div>
      </block>
-	   
-   <block class="4u 12u$(small)">
+     
+</div><div class="row">		   
+   
+<block class="4u 12u$(small)">
      <span class="image"><img src="assets/images/jouniluoma.jpg" alt="" height="100px" /></span>
      <div class="content">
        <h3>Jouni Luoma</h3>
@@ -193,15 +190,15 @@ title: People
        </div>
      </block>
 	   
-   </div>
-   <div class="row">
-     <block class="4u 12u$(small)">
+     <block class="4u$ 12u$(small)">
       <span class="image"><img src="assets/images/Frederike_Schram.jpg" alt="" height="100px" /></span>
       <div class="content">
 	 <h3>Frederike Schram</h3>
        </div>
      </block>
-	   
+
+</div><div class="row">	
+    
    <block class="4u 12u$(small)">
       <span class="image"><img src="assets/images/selcen_erten.jpg" alt="" height="100px" /></span>
       <div class="content">
@@ -216,18 +213,21 @@ title: People
        </div>
      </block>
 	   
-   <block class="4u 12u$(small)">
+   <block class="4u$ 12u$(small)">
       <span class="image"><img src="assets/images/ville_kuva.jpg" alt="" height="100px" /></span>
       <div class="content">
 	<h3>Ville Komulainen</h3>
        </div>
      </block>
-	   
+     
+</div><div class="row">	
+	
    <block class="4u 12u$(small)">
       <span class="image"><img src="assets/images/akseli.jpg" alt="" height="100px" /></span>
       <div class="content">
 	<h3>Akseli Reunamo</h3>
        </div>
-     </block>		    
+     </block>		
+</div>
    </div>
 </section>
