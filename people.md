@@ -57,13 +57,6 @@ title: People
 	 <h3>Farrokh Mehryary</h3>
        </div>
      </block>
-	   
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/aki_kyrolainen.jpg" alt="" /></span>
-       <div class="content">
-	 <h3>Aki-Juhani Kyröläinen</h3>
-       </div>
-     </block>
 
      <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/ali_wazir.jpg" alt="" /></span>
