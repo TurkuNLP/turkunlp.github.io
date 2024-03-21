@@ -58,10 +58,17 @@ title: People
        </div>
      </block>
 
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/ali_wazir.jpg" alt="" /></span>
        <div class="content">
 	 <h3>Ali Wazir</h3>
+       </div>
+     </block>
+
+     <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/jenna_kanerva.png" alt="" /></span>
+       <div class="content">
+	 <h3>Jenna Kanerva</h3>
        </div>
      </block>
 
@@ -90,14 +97,14 @@ title: People
        </div>
      </block>
 
-   
-   
-     <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/jenna_kanerva.png" alt="" /></span>
+    <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/lihsin_chang.jpg" alt="" /></span>
        <div class="content">
-	 <h3>Jenna Kanerva</h3>
+	 <h3>Li-Hsin Chang</h3>
        </div>
-     </block>
+     </block>   
+   
+     
      
    </div><div class="row">
 	
@@ -114,15 +121,15 @@ title: People
 	 <h3>Iiro Rastas</h3>
        </div>
      </block>
-   
-   
-   
-     <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/lihsin_chang.jpg" alt="" /></span>
+    <block class="4u$ 12u$(small)">
+       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
        <div class="content">
-	 <h3>Li-Hsin Chang</h3>
+	 <h3>Anni Eskelinen</h3>
        </div>
      </block>
+   
+   
+    
 
 </div><div class="row">	
 
@@ -139,13 +146,13 @@ title: People
 	 <h3>Saara Hellström</h3>
        </div>
      </block>
-
      <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
+       <span class="image"><img src="assets/images/risto-luukkonen.jpg" alt="" height="100px" /></span>
        <div class="content">
-	 <h3>Anni Eskelinen</h3>
+	 <h3>Risto Luukkonen</h3>
        </div>
      </block>
+     
 
 </div><div class="row">	
 
@@ -162,13 +169,13 @@ title: People
 	 <h3>Otto Tarkka</h3>
        </div>
      </block>
-   
-     <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/risto-luukkonen.jpg" alt="" height="100px" /></span>
-       <div class="content">
-	 <h3>Risto Luukkonen</h3>
+   <block class="4u$ 12u$(small)">
+      <span class="image"><img src="assets/images/akseli.jpg" alt="" height="100px" /></span>
+      <div class="content">
+	<h3>Akseli Reunamo</h3>
        </div>
-     </block>
+     </block>	
+     
      
 </div><div class="row">		   
    
@@ -216,13 +223,5 @@ title: People
        </div>
      </block>
      
-</div><div class="row">	
-	
-   <block class="4u 12u$(small)">
-      <span class="image"><img src="assets/images/akseli.jpg" alt="" height="100px" /></span>
-      <div class="content">
-	<h3>Akseli Reunamo</h3>
-       </div>
-     </block>		
-</div>
+
 </section>
