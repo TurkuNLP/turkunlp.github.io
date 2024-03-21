@@ -222,6 +222,6 @@ title: People
 	<h3>Ville Komulainen</h3>
        </div>
      </block>
-     
+   </div>  
 
 </section>
