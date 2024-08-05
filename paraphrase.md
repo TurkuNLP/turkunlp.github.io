@@ -25,20 +25,27 @@ The project gathered a large dataset of Finnish paraphrase pairs (over 100,000) 
 
 ## How to cite?
 
-J. Kanerva & F. Ginter & LH. Chang & I. Rastas & V. Skantsi & HM. Kupari & J. Kilpeläinen & J. Saarni & M. Sevón & O. Tarkka. 2021. *Finnish Paraphrase Corpus.*  Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa 2021) pp. 288-298.
+Main reference:
+
+J. Kanerva & F. Ginter & LH. Chang & I. Rastas & V. Skantsi & J. Kilpeläinen & HM. Kupari & A. Piirto & J. Saarni & M. Sevón & O. Tarkka. 2023. *Towards Diverse and Contextually Anchored Paraphrase Modeling: A Dataset and Baselines for Finnish.* Natural Language Engineering. 2024;30(2):319-353. doi:10.1017/S1351324923000086.
 
 ```
-@inproceedings{kanerva-etal-2021-finnish,
-    title = "{F}innish Paraphrase Corpus",
-    author = {Kanerva, Jenna and Ginter, Filip and Chang, Li-Hsin and Rastas, 
-    Iiro and Skantsi, Valtteri and Kilpel{\"a}inen, Jemina and Kupari, Hanna-Mari and 
-    Saarni, Jenna and Sev{\'o}n, Maija and Tarkka, Otto},
-    booktitle = "Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa'21)",
-    year = "2021",
-    publisher = {Link{\"o}ping University Electronic Press, Sweden},
-    url = "https://aclanthology.org/2021.nodalida-main.29",
-    pages = "288--298"}
+@article{kanerva2023paraphrasejournal,
+    author={Jenna Kanerva and Filip Ginter and Li-Hsin Chang and Iiro Rastas and Valtteri Skantsi and Jemina Kilpel{\"a}inen and Hanna-Mari Kupari and Aurora Piirto and Jenna Saarni and     Maija Sev{\'o}n and Otto Tarkka},
+    title={Towards Diverse and Contextually Anchored Paraphrase Modeling: A Dataset and Baselines for {Finnish}},
+    year={2023},
+    journal={Natural Language Engineering},
+    publisher={Cambridge University Press},
+    doi = {10.1017/S1351324923000086},
+    url = {https://doi.org/10.1017/S1351324923000086}
+}
 ```
+
+Other publications:
+
+J. Kanerva & F. Ginter & LH. Chang & I. Rastas & V. Skantsi & J. Kilpeläinen & HM. Kupari & J. Saarni & M. Sevón & O. Tarkka. 2021. *Finnish Paraphrase Corpus.*  Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa 2021) pp. 288-298.
+
+J. Kanerva & H. Kitti & LH. Chang & T. Vahtola & M. Creutz & F. Ginter. 2024. *Semantic search as extractive paraphrase span detection.* Language Resources and Evaluation. https://doi.org/10.1007/s10579-023-09715-7
 
 ## Acknowledgements
 
