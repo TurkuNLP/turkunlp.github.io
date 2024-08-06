@@ -58,13 +58,6 @@ title: People
        </div>
      </block>
 
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/ali_wazir.jpg" alt="" /></span>
-       <div class="content">
-	 <h3>Ali Wazir</h3>
-       </div>
-     </block>
-
      <block class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/jenna_kanerva.png" alt="" /></span>
        <div class="content">
@@ -90,10 +83,10 @@ title: People
        </div>
      </block>
 
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/kai_hakala.png" alt="" /></span>
-       <div class="content">
-	 <h3>Kai Hakala</h3>
+    <block class="4u 12u$(small)">
+      <span class="image"><img src="assets/images/ville_kuva.jpg" alt="" height="100px" /></span>
+      <div class="content">
+	<h3>Ville Komulainen</h3>
        </div>
      </block>
 
@@ -209,19 +202,14 @@ title: People
        </div>
      </block>
 	   
-   <block class="4u 12u$(small)">
+   <block class="4u$ 12u$(small)">
       <span class="image"><img src="assets/images/hanna-mari_kupari.jpg" alt="" height="100px" /></span>
       <div class="content">
 	<h3>Hanna-Mari Kupari</h3>
        </div>
      </block>
 	   
-   <block class="4u$ 12u$(small)">
-      <span class="image"><img src="assets/images/ville_kuva.jpg" alt="" height="100px" /></span>
-      <div class="content">
-	<h3>Ville Komulainen</h3>
-       </div>
-     </block>
+   
    </div>  
 
 </section>
