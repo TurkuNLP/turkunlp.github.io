@@ -114,12 +114,6 @@ title: People
 	 <h3>Iiro Rastas</h3>
        </div>
      </block>
-    <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
-       <div class="content">
-	 <h3>Anni Eskelinen</h3>
-       </div>
-     </block>
    
    
     
