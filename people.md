@@ -114,18 +114,18 @@ title: People
 	 <h3>Iiro Rastas</h3>
        </div>
      </block>
-   
-   
-    
-
-</div><div class="row">	
-
-<block class="4u 12u$(small)">
+   <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/valtteri_skantsi.png" alt="" /></span>
        <div class="content">
 	 <h3>Valtteri Skantsi</h3>
        </div>
      </block>
+   
+    
+
+</div><div class="row">	
+
+
      
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/saara_hellstrom.png" alt="" /></span>
@@ -139,16 +139,16 @@ title: People
 	 <h3>Risto Luukkonen</h3>
        </div>
      </block>
-     
-
-</div><div class="row">	
-
-    <block class="4u 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/blank.png" alt="" /></span>
        <div class="content">
 	 <h3>Emil Nuutinen</h3>
        </div>
      </block>
+
+</div><div class="row">	
+
+    
 	  
      <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/otto_tarkka.jpg" alt="" height="100px" /></span>
@@ -162,16 +162,16 @@ title: People
 	<h3>Akseli Reunamo</h3>
        </div>
      </block>	
-     
-     
-</div><div class="row">		   
-   
-<block class="4u 12u$(small)">
+   <block class="4u 12u$(small)">
      <span class="image"><img src="assets/images/jouniluoma.jpg" alt="" height="100px" /></span>
      <div class="content">
        <h3>Jouni Luoma</h3>
       </div>
-     </block>
+     </block>  
+     
+</div><div class="row">		   
+   
+
 	   
    <block class="4u 12u$(small)">
      <span class="image"><img src="assets/images/jenna_saarni.PNG" alt="" height="100px" /></span>
@@ -186,15 +186,17 @@ title: People
 	 <h3>Frederike Schram</h3>
        </div>
      </block>
-
-</div><div class="row">	
-    
-   <block class="4u 12u$(small)">
+     <block class="4u 12u$(small)">
       <span class="image"><img src="assets/images/selcen_erten.jpg" alt="" height="100px" /></span>
       <div class="content">
 	<h3>Selcen Erten</h3>
        </div>
      </block>
+
+
+</div><div class="row">	
+    
+   
 	   
    <block class="4u$ 12u$(small)">
       <span class="image"><img src="assets/images/hanna-mari_kupari.jpg" alt="" height="100px" /></span>
