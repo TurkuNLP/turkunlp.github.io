@@ -146,7 +146,13 @@ title: People
 	 <h3>Risto Luukkonen</h3>
        </div>
      </block>
-    
+     
+    <block class="4u$ 12u$(small)">
+      <span class="image"><img src="assets/images/maryam_teimouri.jpg" alt="" height="100px" /></span>
+      <div class="content">
+	<h3>Maryam Teimouri</h3>
+       </div>
+     </block>
 
 </div><div class="row">	
 
