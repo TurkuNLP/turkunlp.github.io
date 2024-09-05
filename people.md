@@ -58,7 +58,7 @@ title: People
        </div>
      </block>
 
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/jenna_kanerva.png" alt="" /></span>
        <div class="content">
 	 <h3>Jenna Kanerva</h3>
