@@ -140,7 +140,7 @@ title: People
 	 <h3>Saara Hellström</h3>
        </div>
      </block>
-     <block class="4u$ 12u$(small)">
+     <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/risto-luukkonen.jpg" alt="" height="100px" /></span>
        <div class="content">
 	 <h3>Risto Luukkonen</h3>
@@ -148,7 +148,7 @@ title: People
      </block>
      
     <block class="4u$ 12u$(small)">
-      <span class="image"><img src="assets/images/maryam_teimouri.jpg" alt="" height="100px" /></span>
+      <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="" height="100px" /></span>
       <div class="content">
 	<h3>Maryam Teimouri</h3>
        </div>
