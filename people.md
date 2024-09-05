@@ -66,7 +66,7 @@ title: People
      </block>
 
      <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/erik.jpeg" alt="" /></span>
+       <span class="image"><img src="assets/images/erik.jpeg" alt="" height="137px"/></span>
        <div class="content">
 	 <h3>Erik Henriksson</h3>
        </div>
