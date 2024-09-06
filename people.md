@@ -218,6 +218,13 @@ title: People
 	<h3>Hanna-Mari Kupari</h3>
        </div>
      </block>
+
+   <block class="4u$ 12u$(small)">
+      <span class="image"><img src="assets/images/cassandra_ledins.jpg" alt="" height="100px" /></span>
+      <div class="content">
+	<h3>Cassandra Ledins</h3>
+       </div>
+     </block>
 	   
    
    </div>  
