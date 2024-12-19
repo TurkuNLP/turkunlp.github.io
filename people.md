@@ -114,13 +114,13 @@ title: People
 	 <h3>Juhani Luotolahti</h3>
        </div>
      </block>
-
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/iiro_rastas.jpg" alt="" height="100px" /></span>
-       <div class="content">
-	 <h3>Iiro Rastas</h3>
+   <block class="4u$ 12u$(small)">
+      <span class="image"><img src="assets/images/hanna-mari_kupari.jpg" alt="" height="100px" /></span>
+      <div class="content">
+	<h3>Hanna-Mari Kupari</h3>
        </div>
      </block>
+
    <block class="4u 12u$(small)">
        <span class="image"><img src="assets/images/valtteri_skantsi.png" alt="" /></span>
        <div class="content">
@@ -157,9 +157,9 @@ title: People
 </div><div class="row">	
 
      <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/blank.png" alt="" /></span>
-       <div class="content">
-	 <h3>Emil Nuutinen</h3>
+      <span class="image"><img src="assets/images/selcen_erten.jpg" alt="" height="100px" /></span>
+      <div class="content">
+	<h3>Selcen Erten</h3>
        </div>
      </block>
 	  
@@ -205,19 +205,9 @@ title: People
 
 </div><div class="row">	
     
-    <block class="4u 12u$(small)">
-      <span class="image"><img src="assets/images/selcen_erten.jpg" alt="" height="100px" /></span>
-      <div class="content">
-	<h3>Selcen Erten</h3>
-       </div>
-     </block>
+    
 	   
-   <block class="4u$ 12u$(small)">
-      <span class="image"><img src="assets/images/hanna-mari_kupari.jpg" alt="" height="100px" /></span>
-      <div class="content">
-	<h3>Hanna-Mari Kupari</h3>
-       </div>
-     </block>
+   
 
    <block class="4u$ 12u$(small)">
       <span class="image"><img src="assets/images/cassandra_ledins.jpg" alt="" height="100px" /></span>
