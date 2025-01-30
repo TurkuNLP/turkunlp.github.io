@@ -48,7 +48,7 @@ title: People
 
 <section>
    <header class="major">
-      <h2>Doctoral researchers</h2>
+      <h2>Postdoctoral researchers</h2>
    </header>
    <div class="row">
      <block class="4u 12u$(small)">
