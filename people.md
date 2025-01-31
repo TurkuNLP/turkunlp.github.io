@@ -69,28 +69,28 @@ title: People
             <span class="image"><img src="assets/images/tapio-salakoski_new.jpg" alt="Tapio Salakoski" /></span>
             <div class="content">
 		    	<h3><a href="https://www.utu.fi/en/people/tapio-salakoski">Tapio Salakoski</a></h3>
-		    	<p>Professor</p>
+		    	<h4>Professor</h4>
 	    	</div>
         </div>
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/filip-ginter_new.jpg" alt="Filip Ginter" /></span>
             <div class="content">
 		    	<h3><a href="https://fginter.github.io/">Filip Ginter</a></h3>
-		    	<p>Professor</p>
+		    	<h4>Professor</h4>
 	    	</div>
         </div>
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/veronika_laippala.png" alt="Veronika Laippala" /></span>
             <div class="content">
 		    	<h3><a href="https://www.utu.fi/en/people/veronika-laippla">Veronika Laippala</a></h3>
-		    	<p>Professor</p>
+		    	<h4>Professor</h4>
 	    	</div>
         </div>
     	<div class="col-4u 12u$(small)">
     		<span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="" /></span>
     		<div class="content">
 				<h3><a href="https://www.utu.fi/en/people/sampo-pyysalo">Sampo Pyysalo</a></h3>
-				<p>Sen. res. fellow</p>
+				<h4>Sen. res. fellow</h4>
 			</div>
      	</div>
    </div>
