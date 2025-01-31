@@ -34,18 +34,18 @@ title: People
 
     /* Heading spacing */
 	 .content h2 {
-        margin-top: 10px; 
-		margin-bottom: 3px; 
+        margin-top: 8px; 
+		margin-bottom: 1px; 
     }
 
     .content h3 {
         margin-top: 5px; /* Adds spacing between the image and the name */
-		margin-bottom: 2px; /* Adjust space between name and text below it */
+		margin-bottom: 1px; /* Adjust space between name and text below it */
     }
 
 	.content h4 {
-		margin-top: 2px;
-		margin-bottom: 3px;
+		margin-top: 1px;
+		margin-bottom: 4px;
 	}
 
     /* Paragraph text styling */
