@@ -147,7 +147,7 @@ title: People
             <div class="content">
 	    	<h3><a href="https://www.utu.fi/en/people/liina-repo">Liina Repo</a></h3>
 			<h4>Doctoral researcher</h4>
-      		<p>Liina's research interests focus on corpus linguistics, Early and Late Modern English language variation, and using computational methods to study register variation in large historical language databases.</p>
+      		<p>Liina Repo's research interests focus on corpus linguistics, Early and Late Modern English language variation, and using computational methods to study register variation in large historical language databases.</p>
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
@@ -256,7 +256,7 @@ title: People
             <div class="content">
 	    	<h3><a href="https://www.utu.fi/en/people/frederike-schram">Frederike Schram</a></h3>
 			<h4>Doctoral researcher</h4>
-      		<p>Frederike Schram has a background in sociolinguistics and her research interests include regional or minority languages, digital discourse, commodification of language, and language and identity, focusing on the use of Low German in digital spaces.</p>
+      		<p>Frederike Schram's research interests include regional or minority languages, digital discourse, commodification of language, and language and identity, focusing on the use of Low German in digital spaces..</p>
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
