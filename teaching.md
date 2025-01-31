@@ -3,91 +3,82 @@ layout: page
 title: Language Technology teaching
 ---
 
-## Language Technology study module (25 credits)
-Organized together with the Department of Computing and the School of Languages and Translation Studies. No prior knowledge of language technology is needed. Students coming outside the Department of Computing will learn the basics of programming and automatic text processing during the first and second period courses so that they are able to continue to more advanced cources. All advanced courses are organized so that motivated students also outside Computing Department are able to complete the study module.
+## Language Technology courses organized by TurkuNLP
 
-## Courses
+TurkuNLP organizes several courses related to language technology and digital language studies, both at the Department of Computing and School of Languages and Translation studies. See the list of courses below.
 
-### KKLT0030 Automaattinen tekstiprosessointi (5 op)
-Teacher: Veronika Laippala, School of Languages and Translation studies
-
-Language: Finnish
-
-Time: Every year, first period
-
-Update: The course starts on Monday 10.9. 
-Classes on Mondays at 10.15 and Thursdays at 12.15 in A252, Arcanum, IT-luokka. Course materials [here](https://github.com/TurkuNLP/ATP_kurssi).
-
-Level: Intermediate
-
-After the course the student knows how to manipulate and analyze large corpora from command line. The student is familiar with various simple Unix tools, such as sorting and counting frequencies, using regular expressions, running loops and using pipes. Further, the student knows how to search for instructions in online manuals. The practical assignments prepare the students to apply the learned skills for instance in theses, and the learned skills are further developed in the more advanced courses of the studying module.
+#### Language Technology study module (25 credits)
+The courses can be combined into Digital Language Studies Minor Subject (25-40 ects). More information available at [opas.peppi.utu.fi](https://opas.peppi.utu.fi). The minor subject studies are open to everyone, and no prior knowledge of programming, machine learning or language research is required. However, note that if continuing to the advanced computer sciences courses (not compulsory for the minor subject studies), fluency in Python is expected.
 
 
-### BIOI2250 Introduction to Programming (5–6 ECTS)
+## Courses at the Department of Computing, University of Turku
+Persons in charge: Filip Ginter, Sampo Pyysalo, Jenna Kanerva, Department of Computing
 
-Teacher: Department of Computing
+For up-to-date teaching schedules, see [opas.peppi.utu.fi](https://opas.peppi.utu.fi) (search with course code or name).
 
+#### TKO_7095 Introduction to Human Language Technology (5 ects)
 Language: English
 
-Time: Every year, first and second period
+Level: Advanced Studies
 
-Level: Intermediate
+After completing the course, the student will be able to • Explain several different language technology applications, • Analyze the most important characteristics of human language as a data source, • Select or create a suitable annotated text corpus for the given task, • Discuss the basic feature representations of language data in machine learning applications, •  Implement a simple machine learning pipeline for the given language technology application, and • Explain the idea behind semantic vector spaces and summarize the main methods used to learn meaningful vector spaces.
 
-The course targets students with no prior programming experience. The students will acquire basic skills in algorithm design and programming, learning to write simple, practical programs in the Python programming language. 
-
-Students from the Department of Computing (TKT or DI) **cannot** take this course, you must take the programming courses meant for TKT or DI degree students.
-
-
-### [TKO_7095 Introduction to Human Language Technology (5 op)](https://opas.peppi.utu.fi/fi/opintojakso/TKO_7095/91481)
-Teachers: Jenna Kanerva, Filip Ginter, Sampo Pyysalo, Department of Computing
-
+#### TKO_8965 Deep Learning in Human Language Technology (5 ects)
 Language: English
 
-Time: Every year, fourth period (late spring)
+Level: Advanced Studies
 
-Level: Advanced
-
-The course introduces the use of human language as data in data analysis or machine learning, starting from the concepts of textual corpora and corpus annotation, and continuing to building simple language technology applications. The basic feature representation methods of textual data are explained and their practical implementations are shown while building machine learning pipelines for selected language technology applications. The course also introduces the notion of semantic textual similarity and semantic vector spaces of languages. Language modeling is introduced as a task to learn such representations. The course will also introduce several language technology applications, starting from elementary text processing such as segmentation, and continuing to selected end-user applications such as text classification and sentiment mining.
+After completing the course, the student will be able to • understand basic and advanced deep neural network architectures and their application to various tasks in natural language processing, • select appropriate language resources and deep learning models and fine-tune state-of-the-art models for a range of tasks involving natural language, • understand and explain the capabilities and limitations of deep learning-based models and concepts such as transfer learning, multi- and cross-lingual models, and large-scale pre-training, • independently implement multi-stage natural language processing systems combining several task-specific models.
 
 
-### KKLT0031 Korpuksia ja kieliteknologiaa (5 op)
-Teacher: Veronika Laippala, School of Languages and Translation studies
-
-Language: Finnish
-
-Time: Every year, spring
-
-Level: Advanced
-
-After the course the student is familiar with ready-made corpora from different fields, understands the importance of corpora in linguistics and knows how to avoid the most common problems in corpus compilation. Further, the student knows how to use corpus tools, such as Antconc and Wordsmith, is familiar with basic natural language processing tools and their functioning and understands the potentials of machine learning for language studies. In addition, the students learn methods to analyze large digital corpora. These include both traditional corpus linguistics methods and new possibilities offered by natural language processing, such as automatic syntactic analysis, distributional semantics, text classification and sentiment analysis. The studied corpora represent various languages and genres, such as social media, learner language and texts form different time periods.
-
-
-### [TKO_8964 Textual Data Analysis (5 op)](https://opas.peppi.utu.fi/fi/opintojakso/TKO_8964/8778)
-Teachers: Filip Ginter, Sampo Pyysalo, Department of Computing
-
+#### TKO_8964 Textual Data Analysis (5 ects)
 Language: English
 
-Time: Every other year (odd years), third period (start of year)
+Level: Advanced Studies
 
-Level: Advanced
-
-The course focuses on practical applications of the methods introduced especially in the “Deep Learning in Human Language Technology” course to various text mining tasks as typically met in research and data science industry. Rather than introducing the inner workings of these methods, their practical applicability to real-world tasks is pursued.
-
-* Web crawls and other large collections of textual data, their usage and processing
-* Data sourcing, annotation, and quality control
-* Information retrieval and document search engines, including modern dense vector representations based on deep learning
-* Surface and semantic similarity of texts and its application in clustering
-* Document classification and text labeling in practical text mining tasks
-* Extraction of relations between entities in text
+The student will • apply and further expand the understanding of deep neural network models gained in the Deep Learning in Human Language Technology course, • recognize and understand the most important text analysis tasks typically faced in research and data science industry, • understand what methods and datasets apply to these tasks, and their limitations, • be able to gather relevant data and critically assess its quality as well as the quality of the method output, and • be able to independently implement basic text analysis tasks using modern neural network models and Python libraries.
 
 
-### [TKO_8965 Deep Learning in Human Language Technology (5 op)](https://opas.peppi.utu.fi/fi/opintojakso/TKO_8965/8779)
-Teacher: Filip Ginter, Sampu Pyysalo, Department of Computing
 
-Language: English
+## Courses at the Digital Language Studies, University of Turku
+Person in charge: Veronika Laippala, Digital Language Studies
 
-Time: Starting from 2023 every year, first period (autumn)
+For up-to-date teaching schedules, see [opas.peppi.utu.fi](https://opas.peppi.utu.fi) (search with course code or name).
 
-Level: Advanced
+#### KKLT0040 Corpus Linguistics and Language Technology (5 ects)
+Language: Finnish, English
 
-The course introduces the use of basic neural network architectures to textual data and focuses in detail on the application of state-of-the-art architectures and models to a range of natural language processing tasks. Exercises and the course project emphasize practical skills in training neural networks to address a range of tasks and the use of deep learning-based models as components of practical systems and provide students with the skills to train models in GPU-accelerated environments.
+Level: Intermediate Studies
+
+After the course the student is familiar with ready-made corpora from different fields, understands the importance of corpora in linguistics and knows how to avoid the most common problems in corpus compilation. Further, the student knows how to use corpus tools, such as Antconc and Wordsmith, is familiar with basic natural language processing tools and their functioning and understands the potentials of machine learning for language studies.
+
+
+#### KKLT0030 Automatic Text Processing (5 ects)
+Language: Finnish, English
+
+Level: Advanced Studies
+
+After the course the student knows how to manipulate and analyze large corpora from command line. The student is familiar with various simple Unix tools, such as counting frequencies, using regular expressions and running loops. Further, the student knows how to search for instructions in online manuals. The practical assignments prepare the students to apply the learned skills for instance in theses, and the learned skills are further developed in the more advanced courses of the studying module.
+
+#### DIKI1002 Working with Text in Python (5 ects)
+Language: Finnish, English
+
+Level: Advanced Studies
+
+After the course, the students know: • how computers process and store text, • how to load text into Python for processing and save the results, • how to do basic tasks in natural language processing and the kinds of annotations they produce, • how to evaluate the performance of natural language processing algorithms, and • how to store texts and prepare them for further analysis.
+
+#### DIKI1007 Natural Language Processing for Humanities (5 ects)
+Language: Finnish, English
+
+Level: Advanced Studies
+
+After the course, the students know how to • create linguistic annotations for diverse languages • search linguistic annotations for structural patterns • quantify linguistic information • understand the distributional hypothesis • understand the basics of word embeddings, and • know how to work with common annotation schemas.
+
+#### DIKI1001 Hands-On Project on Digital Language Studies (5 ects)
+Language: Finnish, English
+
+Level: Advanced Studies
+
+After the course, the students will be able to • understand the scope of quantitative methods and how they benefit linguistics • plan a research project in the domain of digital language studies by applying digital methods to research questions that rise from linguistics • carry out a project to a conclusion within a time frame • report/document on the project findings.
+
+
