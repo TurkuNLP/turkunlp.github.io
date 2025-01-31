@@ -15,7 +15,7 @@ title: People
 
     /* Individual column settings */
     .4u {
-        width: 25%; /* Adjusts each column to fit 4 per row */
+        width: 23%; /* Adjusts each column to fit 4 per row */
         display: flex;
         flex-direction: column;
         align-items: center; /* Centers everything inside */
