@@ -66,11 +66,11 @@ title: People
     </header>
     <div class="row">
         <div class="4u 12u$(small)">
-            <span class="image"><img src="assets/images/sala_web.jpg" alt="Tapio Salakoski" /></span>
+            <span class="image"><img src="assets/images/tapio-salakoski_new.jpg" alt="Tapio Salakoski" /></span>
             <div class="content"><h3>Tapio Salakoski</h3><p>Professor</p></div>
         </div>
         <div class="4u 12u$(small)">
-            <span class="image"><img src="assets/images/filip_ginter.jpg" alt="Filip Ginter" /></span>
+            <span class="image"><img src="assets/images/filip-ginter_new.jpg" alt="Filip Ginter" /></span>
             <div class="content"><h3><a href="https://fginter.github.io/">Filip Ginter</a></h3><p>Professor</p></div>
         </div>
         <div class="4u$ 12u$(small)">
