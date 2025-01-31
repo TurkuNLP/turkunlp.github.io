@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Language Technology teaching
 ---
 
 ## Language Technology courses organized by TurkuNLP
