@@ -183,7 +183,7 @@ title: People
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/otto_tarkka.jpg" alt="Otto Tarkka" /></span>
             <div class="content">
-	    	<h3>Otto Tarkka</h3>
+	    	<h3><a href="https://www.utu.fi/en/people/otto-tarkka">Otto Tarkka</a></h3>
       		<p>Otto Tarkka's research focuses on analysing and improving text corpora with machine learning and Large Language Models.</p>
       	    </div>
         </div>
@@ -208,7 +208,7 @@ title: People
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/Frederike_Schram.jpg" alt="Frederike Schram" /></span>
             <div class="content">
-	    	<h3>Frederike Schram</h3>
+	    	<h3><a href="https://www.utu.fi/en/people/frederike-schram">Frederike Schram</a></h3>
       		<p>Frederike Schram has a background in sociolinguistics and her research interests include regional or minority languages, digital discourse, commodification of language, and language and identity, focusing on the use of Low German in digital spaces.</p>
       	    </div>
         </div>
