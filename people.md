@@ -15,7 +15,7 @@ title: People
 
     /* Individual column settings */
     .4u {
-        width: 30%; /* Adjusts each column to fit 3 per row */
+        width: 25%; /* Adjusts each column to fit 4 per row */
         display: flex;
         flex-direction: column;
         align-items: center; /* Centers everything inside */
@@ -86,8 +86,6 @@ title: People
 		    	<p>Professor</p>
 	    	</div>
         </div>
-    </div>
- 	<div class="row">
     	<div class="4u$ 12u$(small)">
     		<span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="" /></span>
     		<div class="content">
@@ -148,14 +146,14 @@ title: People
 	    	<h3><a href="https://www.utu.fi/en/people/li-hsin-chang">Li-Hsin Chang</a></h3>
       	    </div>
         </div>
-    </div>
-    <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/juhani_luotolahti.jpg" alt="Juhani Luotolahti" /></span>
             <div class="content">
 	    	<h3>Juhani Luotolahti</h3>
       	    </div>
         </div>
+	</div>
+    <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/hanna-mari_kupari.jpg" alt="Hanna-Mari Kupari" /></span>
             <div class="content">
@@ -169,8 +167,6 @@ title: People
 			<h3><a href="https://www.utu.fi/en/people/valtteri-skantsi">Valtteri Skantsi</a></h3>
    			</div>
         </div>
-    </div>
-    <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/saara_hellstrom.png" alt="Saara Hellström" /></span>
             <div class="content">
@@ -184,14 +180,14 @@ title: People
 				<h3><a href="https://www.utu.fi/en/people/risto-luukkonen">Risto Luukkonen</a></h3>
 			</div>
         </div>
+	</div>
+    <div class="row">
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
             <div class="content">
 				<h3><a href="https://www.utu.fi/en/people/maryam-teimouribadelehdareh">Maryam Teimouri</a></h3>
 			</div>
         </div>
-    </div>
-    <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/selcen_erten.jpg" alt="Selcen Erten" /></span>
             <div class="content">
@@ -233,8 +229,6 @@ title: People
       		<p>Frederike Schram has a background in sociolinguistics and her research interests include regional or minority languages, digital discourse, commodification of language, and language and identity, focusing on the use of Low German in digital spaces.</p>
       	    </div>
         </div>
-    </div>
-    <div class="row">
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/cassandra_ledins.jpg" alt="Cassandra Ledins" /></span>
             <div class="content">
