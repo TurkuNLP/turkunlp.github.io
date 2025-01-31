@@ -147,7 +147,7 @@ title: People
             <div class="content">
 	    	<h3><a href="https://www.utu.fi/en/people/liina-repo">Liina Repo</a></h3>
 			<h4>Doctoral researcher</h4>
-      		<p>Liina Repo's research interests focus on corpus linguistics, Early and Late Modern English language variation, and using computational methods to study register variation in large historical language databases.</p>
+      		<p>Liina's research interests focus on corpus linguistics, Early and Late Modern English language variation, and using computational methods to study register variation in large historical language databases.</p>
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
@@ -158,10 +158,11 @@ title: People
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/lihsin_chang.jpg" alt="Li-Hsin Chang" /></span>
+            <span class="image"><img src="assets/images/Li-Hsin-Chang_new.jpg" alt="Li-Hsin Chang" /></span>
             <div class="content">
 	    	<h3><a href="https://www.utu.fi/en/people/li-hsin-chang">Li-Hsin Chang</a></h3>
 			<h4>Doctoral researcher</h4>
+		    <p>Li-Hsin does research in educational NLP, specializing in computer-assisted grading of student responses.</p>
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
@@ -178,7 +179,7 @@ title: People
             <div class="content">
 	    	<h3><a href="https://www.utu.fi/en/people/hanna-mari-kupari">Hanna-Mari Kupari</a></h3>
 			<h4>Doctoral researcher</h4>
-      		<p>Hanna-Mari Kupari's research combines medieval Latin textual data with latest machine learning methods. She holds a Master’s degree in Classical Philology with a specialization in medieval Latin. In her PhD she is focusing on grammar, improvement of parsing tools, structuring data and local history. Her work is funded by the Emil Aaltonen Foundation.</p>
+      		<p>Hanna-Mari's research combines medieval Latin textual data with latest machine learning methods. She holds a Master’s degree in Classical Philology with a specialization in medieval Latin. In her PhD she is focusing on grammar, improvement of parsing tools, structuring data and local history. Her work is funded by the Emil Aaltonen Foundation.</p>
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
@@ -193,7 +194,7 @@ title: People
             <div class="content">
 	    	<h3><a href="https://www.utu.fi/en/people/saara-hellstrom">Saara Hellström</a></h3>
 			<h4>Doctoral researcher</h4>
-      		<p>Saara Hellström is interested in register variation in online context. She focuses on web language use from a multilingual, cross-linguistic perspective using various machine learning and statistical methods. Currently, her main research focus is on French and Swedish web registers and hybrids.</p>
+      		<p>Saara is interested in register variation in online context. She focuses on web language use from a multilingual, cross-linguistic perspective using various machine learning and statistical methods. Currently, her main research focus is on French and Swedish web registers and hybrids.</p>
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
@@ -224,7 +225,7 @@ title: People
             <div class="content">
 	    	<h3><a href="https://www.utu.fi/en/people/otto-tarkka">Otto Tarkka</a></h3>
 			<h4>Doctoral researcher</h4>
-      		<p>Otto Tarkka's research focuses on analysing and improving text corpora with machine learning and Large Language Models.</p>
+      		<p>Otto's research focuses on analysing and improving text corpora with machine learning and LLMs.</p>
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
@@ -232,7 +233,7 @@ title: People
             <div class="content">
 	    	<h3><a href="https://www.utu.fi/en/people/akseli-reunamo">Akseli Reunamo</a></h3>
 			<h4>Doctoral researcher</h4>
-      		<p>Akseli Reunamo does research in Clinical NLP and long-context modeling.</p>
+      		<p>Akseli does research in clinical NLP and long-context modeling.</p>
       	    </div>
         </div>
     </div>
@@ -256,7 +257,7 @@ title: People
             <div class="content">
 	    	<h3><a href="https://www.utu.fi/en/people/frederike-schram">Frederike Schram</a></h3>
 			<h4>Doctoral researcher</h4>
-      		<p>Frederike Schram's research interests include regional or minority languages, digital discourse, commodification of language, and language and identity, focusing on the use of Low German in digital spaces.</p>
+      		<p>Frederike's research interests include regional or minority languages, digital discourse, commodification of language, and language and identity, focusing on the use of Low German in digital spaces.</p>
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
