@@ -4,46 +4,33 @@ title: People
 ---
 
 <section>
-   <header class="major">
-      <h2>Professors</h2>
-   </header>
-	
-   <div class="row">
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/sala_web.jpg" alt="" /></span>
-       <div class="content">
-	 <h3>Tapio Salakoski</h3>
-	 <p>Professor</p>
-       </div>
-     </block>
-	
-     <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/filip_ginter.jpg" alt="" /></span>
-       <div class="content">
-	 <h3><a href="https://fginter.github.io/">Filip Ginter</a></h3>
-	 <p>Professor</p>
-       </div>
-     </block>
-     
-     <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/veronika_laippala.png" height="100" alt="" /></span>
-       <div class="content">
-	 <h3>Veronika Laippala</h3>
-	 <p>Professor</p>
-       </div>
-     </block>
-   </div> 
-   
-   <div class="row">
-     <block class="4u$ 12u$(small)">
-       <span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="" /></span>
-       <div class="content">
-	 <h3>Sampo Pyysalo</h3>
-	 <p>Sen. res. fellow</p>
-       </div>
-     </block>
-   </div>
 
+    <style>
+        .image img {
+            width: 150px; /* Adjust as needed */
+            height: 150px; /* Ensures uniformity */
+            object-fit: cover; /* Ensures the image fills the area without distortion */
+            border-radius: 10px; /* Optional: gives a rounded corner effect */
+        }
+    </style>
+    
+    <header class="major">
+        <h2>Professors</h2>
+    </header>
+    <div class="row">
+        <div class="4u 12u$(small)">
+            <span class="image"><img src="assets/images/sala_web.jpg" alt="Tapio Salakoski" /></span>
+            <div class="content"><h3>Tapio Salakoski</h3><p>Professor</p></div>
+        </div>
+        <div class="4u 12u$(small)">
+            <span class="image"><img src="assets/images/filip_ginter.jpg" alt="Filip Ginter" /></span>
+            <div class="content"><h3><a href="https://fginter.github.io/">Filip Ginter</a></h3><p>Professor</p></div>
+        </div>
+        <div class="4u$ 12u$(small)">
+            <span class="image"><img src="assets/images/veronika_laippala.png" alt="Veronika Laippala" /></span>
+            <div class="content"><h3>Veronika Laippala</h3><p>Professor</p></div>
+        </div>
+    </div>
 </section>
 
 <section>
@@ -80,15 +67,6 @@ title: People
     <header class="major">
         <h2>PhD Students and Research Assistants</h2>
     </header>
-    
-    <style>
-        .image img {
-            width: 150px; /* Adjust as needed */
-            height: 150px; /* Ensures uniformity */
-            object-fit: cover; /* Ensures the image fills the area without distortion */
-            border-radius: 10px; /* Optional: gives a rounded corner effect */
-        }
-    </style>
     
     <div class="row">
         <div class="4u 12u$(small)">
