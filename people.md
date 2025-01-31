@@ -101,9 +101,9 @@ title: People
      </block>
 
      <block class="4u 12u$(small)">
-       <span class="image"><img src="assets/images/jenna_kanerva.png" alt="" /></span>
+       <span class="image"><img src="assets/images/jenna-kanerva-new.jpg" alt="" /></span>
        <div class="content">
-	 <h3>Jenna Kanerva</h3>
+	 <h3><a href="https://github.com/jmnybl">Jenna Kanerva</a></h3>
        </div>
      </block>
 
