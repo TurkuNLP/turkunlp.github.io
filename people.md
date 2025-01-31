@@ -78,6 +78,14 @@ title: People
             <div class="content"><h3>Veronika Laippala</h3><p>Professor</p></div>
         </div>
     </div>
+
+ 	<div class="row">
+    	<block class="4u$ 12u$(small)">
+    		<span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="" /></span>
+    		<div class="content"><h3>Sampo Pyysalo</h3><p>Sen. res. fellow</p>
+       </div>
+     </block>
+   </div>
 </section>
 
 <section>
