@@ -34,7 +34,7 @@ title: People
 
     /* Heading spacing */
     .content h3 {
-        margin-top: 10px; /* Adds spacing between the image and the name */
+        margin-top: 5px; /* Adds spacing between the image and the name */
     }
 
     /* Paragraph text styling */
@@ -67,24 +67,34 @@ title: People
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/tapio-salakoski_new.jpg" alt="Tapio Salakoski" /></span>
-            <div class="content"><h3>Tapio Salakoski</h3><p>Professor</p></div>
+            <div class="content">
+		    	<h3><a href="https://www.utu.fi/en/people/tapio-salakoski">Tapio Salakoski</a></h3>
+		    	<p>Professor</p>
+	    	</div>
         </div>
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/filip-ginter_new.jpg" alt="Filip Ginter" /></span>
-            <div class="content"><h3><a href="https://fginter.github.io/">Filip Ginter</a></h3><p>Professor</p></div>
+            <div class="content">
+		    	<h3><a href="https://fginter.github.io/">Filip Ginter</a></h3>
+		    	<p>Professor</p>
+	    	</div>
         </div>
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/veronika_laippala.png" alt="Veronika Laippala" /></span>
-            <div class="content"><h3>Veronika Laippala</h3><p>Professor</p></div>
+            <div class="content">
+		    	<h3><a href="https://www.utu.fi/en/people/veronika-laippla">Veronika Laippala</a></h3>
+		    	<p>Professor</p>
+	    	</div>
         </div>
     </div>
-
  	<div class="row">
-    	<block class="4u$ 12u$(small)">
+    	<div class="4u$ 12u$(small)">
     		<span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="" /></span>
-    		<div class="content"><h3>Sampo Pyysalo</h3><p>Sen. res. fellow</p>
-       </div>
-     </block>
+    		<div class="content">
+				<h3><a href="https://www.utu.fi/en/people/sampo-pyysalo">Sampo Pyysalo</a></h3>
+				<p>Sen. res. fellow</p>
+			</div>
+     	</div>
    </div>
 </section>
 
@@ -93,36 +103,31 @@ title: People
       <h2>Postdoctoral researchers</h2>
    </header>
    <div class="row">
-     <block class="4u 12u$(small)">
+     <div class="4u 12u$(small)">
        <span class="image"><img src="assets/images/farrokh_mehryary.png" alt="" /></span>
        <div class="content">
-	 <h3>Farrokh Mehryary</h3>
+		   <h3><a href="https://www.utu.fi/en/people/farrokh-mehryary">Farrokh Mehryary</a></h3>
        </div>
-     </block>
-
-     <block class="4u 12u$(small)">
+     </div>
+     <div class="4u 12u$(small)">
        <span class="image"><img src="assets/images/jenna-kanerva-new.jpg" alt="" /></span>
        <div class="content">
-	 <h3><a href="https://github.com/jmnybl">Jenna Kanerva</a></h3>
+		   <h3><a href="https://github.com/jmnybl">Jenna Kanerva</a></h3>
        </div>
-     </block>
-
-     <block class="4u$ 12u$(small)">
+     </div>
+     <div class="4u$ 12u$(small)">
        <span class="image"><img src="assets/images/erik.jpeg" alt="" height="137px"/></span>
        <div class="content">
-	 <h3>Erik Henriksson</h3>
+		   <h3><a href="https://www.utu.fi/en/people/erik-henriksson">Erik Henriksson</a></h3>
        </div>
-     </block>
-
+     </div>
    </div>
-
 </section>
 
 <section>
     <header class="major">
         <h2>PhD Students and Research Assistants</h2>
     </header>
-    
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/liina_repo.jpg" alt="Liina Repo" /></span>
@@ -144,7 +149,6 @@ title: People
       	    </div>
         </div>
     </div>
-    
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/juhani_luotolahti.jpg" alt="Juhani Luotolahti" /></span>
@@ -166,7 +170,6 @@ title: People
    			</div>
         </div>
     </div>
-    
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/saara_hellstrom.png" alt="Saara Hellström" /></span>
@@ -177,14 +180,17 @@ title: People
         </div>
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/risto-luukkonen.jpg" alt="Risto Luukkonen" /></span>
-            <div class="content"><h3>Risto Luukkonen</h3></div>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/risto-luukkonen">Risto Luukkonen</a></h3>
+			</div>
         </div>
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
-            <div class="content"><h3>Maryam Teimouri</h3></div>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/maryam-teimouribadelehdareh">Maryam Teimouri</a></h3>
+			</div>
         </div>
     </div>
-    
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/selcen_erten.jpg" alt="Selcen Erten" /></span>
@@ -207,11 +213,12 @@ title: People
       	    </div>
         </div>
     </div>
-    
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/jouniluoma.jpg" alt="Jouni Luoma" /></span>
-            <div class="content"><h3>Jouni Luoma</h3></div>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/jouni-luoma">Jouni Luoma</a></h3>
+			</div>
         </div>
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/jenna_saarni.PNG" alt="Jenna Saarni" /></span>
@@ -227,11 +234,12 @@ title: People
       	    </div>
         </div>
     </div>
-    
     <div class="row">
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/cassandra_ledins.jpg" alt="Cassandra Ledins" /></span>
-            <div class="content"><h3>Cassandra Ledins</h3></div>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/cassandra-ledins">Cassandra Ledins</a></h3>
+			</div>
         </div>
     </div>
 </section>
