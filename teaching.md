@@ -1,13 +1,12 @@
 ---
 layout: page
+title: Language Technology courses organized by TurkuNLP
 ---
-
-## Language Technology courses organized by TurkuNLP
 
 TurkuNLP organizes several courses related to language technology and digital language studies, both at the Department of Computing and School of Languages and Translation studies. See the list of courses below.
 
 #### Language Technology study module (25 credits)
-The courses can be combined into Digital Language Studies Minor Subject (25-40 ects). More information available at [opas.peppi.utu.fi](https://opas.peppi.utu.fi). The minor subject studies are open to everyone, and no prior knowledge of programming, machine learning or language research is required. However, note that if continuing to the advanced computer sciences courses (not compulsory for the minor subject studies), fluency in Python is expected.
+The courses can be combined into Digital Language Studies Minor Subject (25-40 ects). More information available at [opas.peppi.utu.fi](https://opas.peppi.utu.fi). The minor subject studies are open for all University of Turku students, and no prior knowledge of programming, machine learning or language research is required. However, note that if continuing to the advanced computer sciences courses (not compulsory for the minor subject studies), fluency in Python is expected.
 
 
 ## Courses at the Department of Computing, University of Turku
