@@ -127,20 +127,20 @@ title: People
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/liina_repo.jpg" alt="Liina Repo" /></span>
             <div class="content">
-	    	<h3>Liina Repo</h3>
+	    	<h3><a href="https://www.utu.fi/en/people/liina-repo">Liina Repo</a></h3>
       		<p>Liina's research interests focus on corpus linguistics, Early and Late Modern English language variation, and using computational methods to study register variation in large historical language databases.</p>
       	    </div>
         </div>
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/ville_kuva.jpg" alt="Ville Komulainen" /></span>
             <div class="content">
-	    	<h3>Ville Komulainen</h3>
+	    	<h3><a href="https://www.utu.fi/en/people/ville-komulainen">Ville Komulainen</a></h3>
       	    </div>
         </div>
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/lihsin_chang.jpg" alt="Li-Hsin Chang" /></span>
             <div class="content">
-	    	<h3>Li-Hsin Chang</h3>
+	    	<h3><a href="https://www.utu.fi/en/people/li-hsin-chang">Li-Hsin Chang</a></h3>
       	    </div>
         </div>
     </div>
@@ -155,13 +155,15 @@ title: People
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/hanna-mari_kupari.jpg" alt="Hanna-Mari Kupari" /></span>
             <div class="content">
-	    	<h3>Hanna-Mari Kupari</h3>
+	    	<h3><a href="https://www.utu.fi/en/people/hanna-mari-kupari">Hanna-Mari Kupari</a></h3>
       		<p>Hanna-Mari Kupari's research combines medieval Latin textual data with latest machine learning methods. She holds a Master’s degree in Classical Philology with a specialization in medieval Latin. In her PhD she is focusing on grammar, improvement of parsing tools, structuring data and local history. Her work is funded by the Emil Aaltonen Foundation.</p>
       	    </div>
         </div>
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/valtteri_skantsi.png" alt="Valtteri Skantsi" /></span>
-            <div class="content"><h3>Valtteri Skantsi</h3></div>
+            <div class="content">
+			<h3><a href="https://www.utu.fi/en/people/valtteri-skantsi">Valtteri Skantsi</a></h3>
+   			</div>
         </div>
     </div>
     
@@ -169,7 +171,7 @@ title: People
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/saara_hellstrom.png" alt="Saara Hellström" /></span>
             <div class="content">
-	    	<h3>Saara Hellström</h3>
+	    	<h3><a href="https://www.utu.fi/en/people/saara-hellstrom">Saara Hellström</a></h3>
       		<p>Saara Hellström is interested in register variation in online context. She focuses on web language use from a multilingual, cross-linguistic perspective using various machine learning and statistical methods. Currently, her main research focus is on French and Swedish web registers and hybrids.</p>
       	    </div>
         </div>
@@ -186,7 +188,9 @@ title: People
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/selcen_erten.jpg" alt="Selcen Erten" /></span>
-            <div class="content"><h3>Selcen Erten</h3></div>
+            <div class="content">
+	    	<h3><a href="https://www.utu.fi/en/people/selcen-erten-johansson">Selcen Erten-Johansson</a></h3>
+      	    </div>
         </div>
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/otto_tarkka.jpg" alt="Otto Tarkka" /></span>
@@ -198,7 +202,7 @@ title: People
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/akseli.jpg" alt="Akseli Reunamo" /></span>
             <div class="content">
-	    	<h3>Akseli Reunamo</h3>
+	    	<h3><a href="https://www.utu.fi/en/people/akseli-reunamo">Akseli Reunamo</a></h3>
       		<p>Akseli Reunamo does research in Clinical NLP and long-context modeling.</p>
       	    </div>
         </div>
@@ -211,7 +215,9 @@ title: People
         </div>
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/jenna_saarni.PNG" alt="Jenna Saarni" /></span>
-            <div class="content"><h3>Jenna Saarni</h3></div>
+            <div class="content">
+			<h3><a href="https://www.utu.fi/en/people/jenna-saarni">Jenna Saarni</a></h3>
+   			</div>
         </div>
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/Frederike_Schram.jpg" alt="Frederike Schram" /></span>
