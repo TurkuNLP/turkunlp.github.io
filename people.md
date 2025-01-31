@@ -81,6 +81,15 @@ title: People
         <h2>PhD Students and Research Assistants</h2>
     </header>
     
+    <style>
+        .image img {
+            width: 150px; /* Adjust as needed */
+            height: 150px; /* Ensures uniformity */
+            object-fit: cover; /* Ensures the image fills the area without distortion */
+            border-radius: 10px; /* Optional: gives a rounded corner effect */
+        }
+    </style>
+    
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/liina_repo.jpg" alt="Liina Repo" /></span>
@@ -163,4 +172,5 @@ title: People
         </div>
     </div>
 </section>
+
 
