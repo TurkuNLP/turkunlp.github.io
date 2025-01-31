@@ -6,18 +6,41 @@ title: People
 <section>
 
     <style>
-        .image img {
-            width: 180px; /* Adjust as needed */
-            height: 180px; /* Ensures uniformity */
-            object-fit: cover; /* Ensures the image fills the area without distortion */
-            border-radius: 10px; /* Optional: gives a rounded corner effect */
-        }
-	.content p {
- 	    text-align: justify;
-    	    margin: 20px 0;
-    	    line-height: 1;
-	}
-    </style>
+	    .row {
+	        display: flex;
+	        flex-wrap: wrap;
+	        justify-content: center; /* Centers the columns in the row */
+	        gap: 20px; /* Adds spacing between items */
+	    }
+	
+	    .4u {
+	        display: flex;
+	        flex-direction: column;
+	        align-items: center; /* Centers content horizontally */
+	        text-align: center; /* Ensures text is centered */
+	    }
+	
+	    .image img {
+	        width: 180px; /* Adjust as needed */
+	        height: 180px; /* Ensures uniformity */
+	        object-fit: cover; /* Ensures the image fills the area without distortion */
+	        border-radius: 10px; /* Keeps your rounded corner effect */
+	        display: block;
+	        margin: 0 auto; /* Ensures images are centered */
+	    }
+	
+	    .content h3 {
+	        margin-top: 10px; /* Adds spacing between the image and the name */
+	    }
+	
+	    .content p {
+	        text-align: justify;
+	        margin: 20px 0;
+	        line-height: 1.6; /* Improves readability */
+	        max-width: 90%; /* Keeps text aligned within a good width */
+	    }
+	</style>
+
     
     <header class="major">
         <h2>Professors</h2>
