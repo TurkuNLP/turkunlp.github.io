@@ -15,7 +15,7 @@ title: People
 
     /* Individual column settings */
     .col-4u {
-        width: 20%; /* Adjusts each column to fit 4 per row */
+        width: 22%; /* Adjusts each column to fit 4 per row */
         display: flex;
         flex-direction: column;
         align-items: center; /* Centers everything inside */
@@ -41,7 +41,7 @@ title: People
     .content p {
         text-align: justify;
         margin: 20px 0;
-        line-height: 1.6; /* Improves readability */
+        line-height: 1.2; /* Improves readability */
         max-width: 90%; /* Keeps text aligned within a good width */
     }
 
