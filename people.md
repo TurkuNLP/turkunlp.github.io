@@ -71,26 +71,38 @@ title: People
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/liina_repo.jpg" alt="Liina Repo" /></span>
-            <div class="content"><h3>Liina Repo</h3></div>
+            <div class="content">
+	    	<h3>Liina Repo</h3>
+      		<p>Liina Repo is a doctoral researcher at the University of Turku in the School of Languages and Translation Studies. Her research interests focus on corpus linguistics, Early and Late Modern English language variation, and using computational methods to study register variation in large historical language databases.</p>
+      	    </div>
         </div>
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/ville_kuva.jpg" alt="Ville Komulainen" /></span>
-            <div class="content"><h3>Ville Komulainen</h3></div>
+            <div class="content">
+	    	<h3>Ville Komulainen</h3>
+      	    </div>
         </div>
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/lihsin_chang.jpg" alt="Li-Hsin Chang" /></span>
-            <div class="content"><h3>Li-Hsin Chang</h3></div>
+            <div class="content">
+	    	<h3>Li-Hsin Chang</h3>
+      	    </div>
         </div>
     </div>
     
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/juhani_luotolahti.jpg" alt="Juhani Luotolahti" /></span>
-            <div class="content"><h3>Juhani Luotolahti</h3></div>
+            <div class="content">
+	    	<h3>Juhani Luotolahti</h3>
+      	    </div>
         </div>
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/hanna-mari_kupari.jpg" alt="Hanna-Mari Kupari" /></span>
-            <div class="content"><h3>Hanna-Mari Kupari</h3></div>
+            <div class="content">
+	    	<h3>Hanna-Mari Kupari</h3>
+      		<p>Hanna-Mari Kupari is a doctoral researcher in digital language studies funded by the Emil Aaltonen Foundation. Her research combines medieval Latin textual data with latest machine learning methods. She holds a Master’s degree in Classical Philology with a specialization in medieval Latin. In her PhD she is focusing on grammar, improvement of parsing tools, structuring data and local history.</p>
+      	    </div>
         </div>
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/valtteri_skantsi.png" alt="Valtteri Skantsi" /></span>
@@ -101,7 +113,10 @@ title: People
     <div class="row">
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/saara_hellstrom.png" alt="Saara Hellström" /></span>
-            <div class="content"><h3>Saara Hellström</h3></div>
+            <div class="content">
+	    	<h3>Saara Hellström</h3>
+      		<p>Saara Hellström is a doctoral researcher in digital language studies. She is interested in register variation in online context. She focuses on web language use from a multilingual, cross-linguistic perspective using various machine learning and statistical methods. Currently, her main research focus is on French and Swedish web registers and hybrids.</p>
+      	    </div>
         </div>
         <div class="4u 12u$(small)">
             <span class="image"><img src="assets/images/risto-luukkonen.jpg" alt="Risto Luukkonen" /></span>
@@ -139,7 +154,10 @@ title: People
         </div>
         <div class="4u$ 12u$(small)">
             <span class="image"><img src="assets/images/Frederike_Schram.jpg" alt="Frederike Schram" /></span>
-            <div class="content"><h3>Frederike Schram</h3></div>
+            <div class="content">
+	    	<h3>Frederike Schram</h3>
+      		<p>Frederike Schram is a doctoral researcher in digital language studies and has a background in sociolinguistics. Focusing on the use of Low German in digital spaces, Frederike’s research interests include regional or minority languages, digital discourse, commodification of language, and language and identity.</p>
+      	    </div>
         </div>
     </div>
     
