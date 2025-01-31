@@ -12,6 +12,11 @@ title: People
             object-fit: cover; /* Ensures the image fills the area without distortion */
             border-radius: 10px; /* Optional: gives a rounded corner effect */
         }
+	.content p {
+ 	    text-align: justify;
+    	    margin: 10px 0;
+    	    line-height: 1.6;
+	}
     </style>
     
     <header class="major">
