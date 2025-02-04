@@ -216,8 +216,9 @@ title: People
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/selcen_erten.jpg" alt="Selcen Erten" /></span>
             <div class="content">
-	    	<h3><a href="https://www.utu.fi/en/people/selcen-erten-johansson">Selcen Erten-Johansson</a></h3>
+	    	<h3><a href="https://www.utu.fi/en/people/selcen-erten-johansson">Selcen Erten Johansson</a></h3>
 			<h4>Doctoral researcher</h4>
+		    <p>Selcen conducts research in corpus linguistics with a focus on text varieties (registers) and media discourse analysis on the Turkish web.</p>
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
@@ -268,6 +269,15 @@ title: People
 			</div>
         </div>
     </div>
+	<div class="row">
+        <div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/anna-ristila.jpg" alt="Anna Ristilä" /></span>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/anna-ristila">Jouni Luoma</a></h3>
+				<h4>Doctoral researcher</h4>
+			</div>
+        </div>
+	</div>
 </section>
 
 
