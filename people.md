@@ -273,9 +273,10 @@ title: People
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/anna-ristila.jpg" alt="Anna Ristilä" /></span>
             <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/anna-ristila">Jouni Luoma</a></h3>
-				<h4>Doctoral researcher</h4>
-			</div>
+		<h3><a href="https://www.utu.fi/en/people/anna-ristila">Anna Ristilä</a></h3>
+				<p>Anna's dissertation explores the topic landscape of Finnish parliamentary speeches.</p>
+		<h4>Doctoral researcher</h4>
+		</div>
         </div>
 	</div>
 </section>
