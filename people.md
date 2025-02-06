@@ -94,7 +94,7 @@ title: People
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/veronika_laippala.png" alt="Veronika Laippala" /></span>
             <div class="content">
-		    	<h3><a href="https://www.utu.fi/en/people/veronika-laippla">Veronika Laippala</a></h3>
+		    	<h3><a href="https://www.utu.fi/en/people/veronika-laippala">Veronika Laippala</a></h3>
 		    	<h4>Professor</h4>
 	    	</div>
         </div>
