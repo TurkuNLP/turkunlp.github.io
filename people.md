@@ -280,7 +280,7 @@ title: People
 		</div>
         </div>
 	<div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/jousia_piha-2024-small" alt="Jousia Piha" /></span>
+            <span class="image"><img src="assets/images/jousia_piha-2024-small.png" alt="Jousia Piha" /></span>
             <div class="content">
 		<h3><a href="https://www.utu.fi/en/people/jousia-piha">Jousia Piha</a></h3>
 		    <h4>Research assistant</h4>
