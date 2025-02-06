@@ -276,7 +276,6 @@ title: People
 		<h3><a href="https://www.utu.fi/en/people/anna-ristila">Anna Ristilä</a></h3>
 		    <h4>Doctoral researcher</h4>
 			<p>Anna's dissertation explores the topic landscape of Finnish parliamentary speeches.</p>
-		
 		</div>
         </div>
 	<div class="col-4u 12u$(small)">
@@ -284,9 +283,8 @@ title: People
             <div class="content">
 		<h3><a href="https://www.utu.fi/en/people/jousia-piha">Jousia Piha</a></h3>
 		    <h4>Research assistant</h4>
-		
-		</div>
-        </div>
+	    </div>
+	</div>
 	</div>
 </section>
 
