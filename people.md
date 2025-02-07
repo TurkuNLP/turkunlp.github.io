@@ -285,6 +285,14 @@ title: People
 		    <h4>Research assistant</h4>
 	    </div>
 	</div>
+	<div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/tapio_nojonen.png" alt="Tapio Nojonen" /></span>
+            <div class="content">
+		<h3><a href="https://www.utu.fi/en/people/tapio-nojonen">Tapio Nojonen</a></h3>
+		    <h4>Doctoral researcher</h4>
+		    	<p>Tapio's research is on using modern NLP methods to create and detect suitable Finnish reading comprehension material for students in primary and lower secondary education.</p>
+	    </div>
+	</div>
 	</div>
 </section>
 
