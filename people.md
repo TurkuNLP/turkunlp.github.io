@@ -293,6 +293,14 @@ title: People
 		    	<p>Tapio's research is on using modern NLP methods to create and detect suitable Finnish reading comprehension material for students in primary and lower secondary education.</p>
 	    </div>
 	</div>
+		<div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/joonatan-laato.jpg" alt="Joonatan Laato" /></span>
+            <div class="content">
+			<h3><a href="https://www.utu.fi/en/people/jousia-piha">Joonatan Laato</a></h3>
+		    <h4>Research assistant</h4>
+				<p>Processing interview texts using large language models. Extracting and post-processing data through different prompt engineering techniques. Always exploring new methods to optimize LLM interactions with text.</p>
+	    </div>
+	</div>
 	</div>
 </section>
 
