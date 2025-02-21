@@ -1,8 +1,7 @@
 ---
 layout: page
+title: We are TurkuNLP!
 ---
-
-# We are TurkuNLP!
 
 <img src="assets/images/TurkuNLP_group-photo_2023.jpg" alt="Banner Image" style="width:100%; height:auto;">
 
