@@ -5,9 +5,11 @@ title: We are TurkuNLP!
 
 <img src="assets/images/TurkuNLP_group-photo_2023.jpg" alt="Banner Image" style="width:100%; height:auto;">
 
-**The TurkuNLP Group** is a group of researchers at the University of Turku as well as the UTU graduate school (UTUGS). Our interdisciplinary group does research on various aspects of natural language processing / language technology and digital linguistics, ranging from corpus annotation and analysis to machine learning theory and applications.
+**The TurkuNLP Group** is a group of researchers at the University of Turku and the UTU graduate school (UTUGS). The group consists of approximately 30 dedicated researchers from research assistants to professors.
 
-Our main research topics are
+Our international and interdisciplinary group does research on various aspects of natural language processing / language technology and digital linguistics, ranging from corpus annotation and analysis to machine learning theory and applications.
+
+**Our main research topics are**
 * Syntactic and semantic analysis of Finnish
 * Large Language Models for Finnish and other languages
 * BioNLP: mining and modeling biological, biomedical, and clinical texts
