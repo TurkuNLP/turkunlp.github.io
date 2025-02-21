@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="assets/imgages/TurkuNLP_group-photo_2023.jpg" alt="Banner Image" style="width:100%; height:auto;">
+<img src="assets/images/TurkuNLP_group-photo_2023.jpg" alt="Banner Image" style="width:100%; height:auto;">
 
 The TurkuNLP Group is a group of researchers at the University of Turku as well as the UTU graduate school (UTUGS). Our interdisciplinary group does research on various aspects of natural language processing / language technology and digital linguistics, ranging from corpus annotation and analysis to machine learning theory and applications.
 
