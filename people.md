@@ -304,7 +304,7 @@ title: People
 	</div>
 	<div class="row">
         <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/laleh-davoodi.png" alt="Laleh Davoodi" /></span>
+            <span class="image"><img src="assets/images/laleh-davoodi2.jpg" alt="Laleh Davoodi" /></span>
             <div class="content">
 		<h3><a href="https://www.utu.fi/en/people/laleh-davoodi">Laleh Davoodi</a></h3>
 		    <h4>Doctoral researcher</h4>
