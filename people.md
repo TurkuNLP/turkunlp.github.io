@@ -190,7 +190,7 @@ title: People
    			</div>
         </div>
         <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/saara_hellstrom.png" alt="Saara Hellström" /></span>
+            <span class="image"><img src="assets/images/saara_hellstrom2025.jpg" alt="Saara Hellström" /></span>
             <div class="content">
 	    	<h3><a href="https://www.utu.fi/en/people/saara-hellstrom">Saara Hellström</a></h3>
 			<h4>Doctoral researcher</h4>
