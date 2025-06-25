@@ -134,6 +134,14 @@ title: People
 		   <h4>Postdoc</h4>
        </div>
      </div>
+	        <div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/laleh-davoodi2.jpg" alt="Laleh Davoodi" /></span>
+            <div class="content">
+		<h3><a href="https://www.utu.fi/en/people/laleh-davoodi">Laleh Davoodi</a></h3>
+		    <h4>Postdoc</h4>
+			<p>My research explores the usage of language models to analyze customer satisfaction, sentiment trends, and societal changes based on user-generated content. Currently, I am working on a project that leverages LLMs and NLP techniques to identify supply chain risks in news articles.</p>
+		</div>
+        </div>
    </div>
 </section>
 
@@ -301,16 +309,6 @@ title: People
 				<p>Processing interview texts using large language models. Extracting and post-processing data through different prompt engineering techniques. Always exploring new methods to optimize LLM interactions with text.</p>
 	    </div>
 	</div>
-	</div>
-	<div class="row">
-        <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/laleh-davoodi2.jpg" alt="Laleh Davoodi" /></span>
-            <div class="content">
-		<h3><a href="https://www.utu.fi/en/people/laleh-davoodi">Laleh Davoodi</a></h3>
-		    <h4>Doctoral researcher</h4>
-			<p>My research explores the usage of language models to analyze customer satisfaction, sentiment trends, and societal changes based on user-generated content. Currently, I am working on a project that leverages LLMs and NLP techniques to identify supply chain risks in news articles.</p>
-		</div>
-        </div>
 	</div>
 </section>
 
