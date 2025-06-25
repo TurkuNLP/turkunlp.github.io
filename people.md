@@ -45,7 +45,7 @@ title: People
 
 	.content h4 {
 		margin-top: 1px;
-		margin-bottom: 4px;
+		margin-bottom: 5px;
 	}
 
     /* Paragraph text styling */
