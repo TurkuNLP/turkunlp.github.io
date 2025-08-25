@@ -161,7 +161,7 @@ title: People
 
 <section>
     <header class="major">
-        <h2>Doctoral Researchers and Research Assistants</h2>
+        <h2>Doctoral Researchers, Project Researchers and Research Assistants</h2>
     </header>
     <div class="row">
         <div class="col-4u 12u$(small)">
@@ -232,7 +232,7 @@ title: People
             <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
             <div class="content">
 				<h3><a href="https://www.utu.fi/en/people/maryam-teimouribadelehdareh">Maryam Teimouri</a></h3>
-				<h4>Research assistant</h4>
+				<h4>Project researcher</h4>
 			</div>
         </div>
         <div class="col-4u 12u$(small)">
@@ -325,5 +325,6 @@ title: People
 	</div>
 	</div>
 </section>
+
 
 
