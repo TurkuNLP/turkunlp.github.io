@@ -112,7 +112,7 @@ title: People
     	       <div class="content">
 		           <h3><a href="https://www.utu.fi/en/people/shaoxiong-ji">Shaoxiong Ji</a></h3>
 		           <h4>Asst. Professor</h4>
-				       <p>PI at ELLIS Institute Finland. Formerly an independent research group leader at Technical University of Darmstadt and a postdoctoral researcher at University of Helsinki. His research directions include multilingual natural language processing and AI for health.</p>
+				       <p>PI at ELLIS Institute Finland. His research directions include multilingual natural language processing and AI for health.</p>
 	           </div>
 		    </div> 
         <div class="col-4u 12u$(small)"> </div>
@@ -338,6 +338,7 @@ title: People
 	</div>
 	</div>
 </section>
+
 
 
 
