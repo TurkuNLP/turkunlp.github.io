@@ -115,13 +115,15 @@ title: People
 				       <p>PI at ELLIS Institute Finland. Formerly an independent research group leader at Technical University of Darmstadt and a postdoctoral researcher at University of Helsinki. His research directions include multilingual natural language processing and AI for health.</p>
 	           </div><!-- content-->
 		    </div><!-- card-->
-		</div><!-- row-->
+		
         <div class="col-4u 12u$(small)">
 		</div>
 		<div class="col-4u 12u$(small)">
 		</div>
 		<div class="col-4u$ 12u$(small)">
 		</div>
+
+  </div><!-- row-->
 </section>
 
 <section>
@@ -341,6 +343,7 @@ title: People
 	</div>
 	</div>
 </section>
+
 
 
 
