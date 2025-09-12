@@ -116,7 +116,12 @@ title: People
 	           </div><!-- content-->
 		    </div><!-- card-->
 		</div><!-- row-->
-   
+        <div class="col-4u 12u$(small)">
+		</div>
+		<div class="col-4u 12u$(small)">
+		</div>
+		<div class="col-4u$ 12u$(small)">
+		</div>
 </section>
 
 <section>
@@ -336,6 +341,7 @@ title: People
 	</div>
 	</div>
 </section>
+
 
 
 
