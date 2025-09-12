@@ -105,7 +105,7 @@ title: People
 		<h4>Sen. res. fellow</h4>
 	    </div>
      	</div>
-	</div> <!-- row -->
+	</div> 
 		<div class="row">
 			<div class="col-4u$ 12u$(small)">
     	       <span class="image"><img src="assets/images/s_ji_400.jpeg" height="100" alt="Shaoxiong Ji" /></span>
@@ -113,17 +113,13 @@ title: People
 		           <h3><a href="https://www.utu.fi/en/people/shaoxiong-ji">Shaoxiong Ji</a></h3>
 		           <h4>Asst. Professor</h4>
 				       <p>PI at ELLIS Institute Finland. Formerly an independent research group leader at Technical University of Darmstadt and a postdoctoral researcher at University of Helsinki. His research directions include multilingual natural language processing and AI for health.</p>
-	           </div><!-- content-->
-		    </div><!-- card-->
-		
-        <div class="col-4u 12u$(small)">
-		</div>
-		<div class="col-4u 12u$(small)">
-		</div>
-		<div class="col-4u$ 12u$(small)">
-		</div>
+	           </div>
+		    </div> 
+        <div class="col-4u 12u$(small)"> </div>
+		<div class="col-4u 12u$(small)"> </div>
+		<div class="col-4u$ 12u$(small)"> </div>
 
-  </div><!-- row-->
+  </div> 
 </section>
 
 <section>
@@ -343,6 +339,7 @@ title: People
 	</div>
 	</div>
 </section>
+
 
 
 
