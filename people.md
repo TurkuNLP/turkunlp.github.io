@@ -98,13 +98,22 @@ title: People
 		<h4>Professor</h4>
 	    </div>
         </div>
-    	<div class="col-4u 12u$(small)">
+    	<div class="col-4u$ 12u$(small)">
     	    <span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="" /></span>
     	    <div class="content">
 		<h3><a href="https://www.utu.fi/en/people/sampo-pyysalo">Sampo Pyysalo</a></h3>
 		<h4>Sen. res. fellow</h4>
 	    </div>
      	</div>
+		<div class="row">
+			<div class="col-4u$ 12u$(small)">
+    	    <span class="image"><img src="assets/images/s_ji_400.jpeg" height="100" alt="" /></span>
+    	    <div class="content">
+		    <h3><a href="https://www.utu.fi/en/people/shaoxiong-ji">Shaoxiong Ji</a></h3>
+		    <h4>Asst. Professor</h4>
+				<p>PI at ELLIS Institute Finland. Formerly an independent research group leader at Technical University of Darmstadt and a postdoctoral researcher at University of Helsinki. His research directions include multilingual natural language processing and AI for health.</p>
+	    </div> 
+		</div><!-- row-->
    </div>
 </section>
 
@@ -325,6 +334,7 @@ title: People
 	</div>
 	</div>
 </section>
+
 
 
 
