@@ -74,7 +74,7 @@ title: People
 
 <section>    
     <header class="major">
-        <h2>Professors</h2>
+        <h2>Professors and Research Fellows</h2>
     </header>
     <div class="row">
         <div class="col-4u 12u$(small)">
@@ -98,7 +98,7 @@ title: People
 		<h4>Professor</h4>
 	    </div>
         </div>
-    	<div class="col-4u$ 12u$(small)">
+    	<div class="col-4u 12u$(small)">
     	    <span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="" /></span>
     	    <div class="content">
 		<h3><a href="https://www.utu.fi/en/people/sampo-pyysalo">Sampo Pyysalo</a></h3>
@@ -338,6 +338,7 @@ title: People
 	</div>
 	</div>
 </section>
+
 
 
 
