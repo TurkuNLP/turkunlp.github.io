@@ -107,7 +107,7 @@ title: People
      	</div>
 	</div> 
 		<div class="row">
-			<div class="col-4u 12u$(small)">
+			<div class="col-4u$ 12u$(small)">
     	       <span class="image"><img src="assets/images/s_ji_400.jpeg" height="100" alt="Shaoxiong Ji" /></span>
     	       <div class="content">
 		           <h3><a href="https://www.utu.fi/en/people/shaoxiong-ji">Shaoxiong Ji</a></h3>
@@ -338,6 +338,7 @@ title: People
 	</div>
 	</div>
 </section>
+
 
 
 
