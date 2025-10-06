@@ -329,22 +329,22 @@ title: People
 		<div class="col-4u 12u$(small)">
 			<span class="image"><img src="assets/images/erofili_psaltaki.jpg" alt="Erofili Psaltaki" /></span>
             <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/erofili-psaltaki">Jousia Piha</a></h3>
+				<h3><a href="https://www.utu.fi/en/people/erofili-psaltaki">Erofili Psaltaki</a></h3>
+				<h4>Doctoral Researcher</h4>
 				<p>My research combines dialectology and language variation with NLP, and I build tools to make sense of dialectal corpora.</p>
-		    	<h4>Doctoral Researcher</h4>
 	    	</div>
 		</div>
 		<div class="col-4u 12u$(small)">
 			<span class="image"><img src="assets/images/alireza_razzaghi.jpg" alt="Alireza Razzaghi" /></span>
             <div class="content">
 				<h3><a href="https://www.utu.fi/en/people/alireza-razzaghi">Alireza Razzaghi</a></h3>
-				<p>My research combines dialectology and language variation with NLP, and I build tools to make sense of dialectal corpora.</p>
 		    	<h4>Doctoral Researcher</h4>
 				<p>I am doing research on Persian registers in web corpora. I am interested in automatic text analysis and applying AI-based systems to linguistic corpora.</p>
 	    	</div>
 		</div>
 	</div>
 </section>
+
 
 
 
