@@ -164,6 +164,11 @@ title: People
 			</div>
 		</div>
 		<div class="col-4u 12u$(small)">
+			<span class="image"><img src="assets/images/tomasz_galica.jpg" alt="" /></span>
+			<div class="content">
+				<h3><a href="https://www.utu.fi/en/people/tomasz-galica">Tomasz Galica</a></h3>
+			   	<h4>Postdoc</h4>
+			</div>
 		</div>
 		<div class="col-4u 12u$(small)">
 		</div>
@@ -232,21 +237,21 @@ title: People
       		<p>Saara is interested in register variation in online context. She focuses on web language use from a multilingual, cross-linguistic perspective using various machine learning and statistical methods. Currently, her main research focus is on French and Swedish web registers and hybrids.</p>
       	    </div>
         </div>
-        <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/risto-luukkonen.jpg" alt="Risto Luukkonen" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/risto-luukkonen">Risto Luukkonen</a></h3>
-				<h4>Research assistant</h4>
-			</div>
-        </div>
-	</div>
-    <div class="row">
-        <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
             <div class="content">
 				<h3><a href="https://www.utu.fi/en/people/maryam-teimouribadelehdareh">Maryam Teimouri</a></h3>
 				<h4>Project researcher</h4>
 			</div>
+        </div>
+	</div>
+    <div class="row">
+        <div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/joonatan-laato.jpg" alt="Joonatan Laato" /></span>
+            <div class="content">
+			<h3><a href="https://www.utu.fi/en/people/jousia-piha">Joonatan Laato</a></h3>
+		    <h4>Research assistant</h4>
+				<p>Processing interview texts using large language models. Extracting and post-processing data through different prompt engineering techniques. Always exploring new methods to optimize LLM interactions with text.</p>
+	    </div>
         </div>
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/selcen_erten.jpg" alt="Selcen Erten" /></span>
@@ -265,12 +270,12 @@ title: People
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/akseli.jpg" alt="Akseli Reunamo" /></span>
+            <span class="image"><img src="assets/images/tapio_nojonen.png" alt="Tapio Nojonen" /></span>
             <div class="content">
-	    	<h3><a href="https://www.utu.fi/en/people/akseli-reunamo">Akseli Reunamo</a></h3>
-			<h4>Doctoral researcher</h4>
-      		<p>Akseli does research in clinical NLP and long-context modeling.</p>
-      	    </div>
+			<h3><a href="https://www.utu.fi/en/people/tapio-nojonen">Tapio Nojonen</a></h3>
+		    <h4>Doctoral researcher</h4>
+		    	<p>Tapio's research is on using modern NLP methods to create and detect suitable Finnish reading comprehension material for students in primary and lower secondary education.</p>
+	    </div>
         </div>
     </div>
     <div class="row">
@@ -321,23 +326,12 @@ title: People
 	    </div>
 	</div>
 	<div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/tapio_nojonen.png" alt="Tapio Nojonen" /></span>
-            <div class="content">
-		<h3><a href="https://www.utu.fi/en/people/tapio-nojonen">Tapio Nojonen</a></h3>
-		    <h4>Doctoral researcher</h4>
-		    	<p>Tapio's research is on using modern NLP methods to create and detect suitable Finnish reading comprehension material for students in primary and lower secondary education.</p>
-	    </div>
 	</div>
-		<div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/joonatan-laato.jpg" alt="Joonatan Laato" /></span>
-            <div class="content">
-			<h3><a href="https://www.utu.fi/en/people/jousia-piha">Joonatan Laato</a></h3>
-		    <h4>Research assistant</h4>
-				<p>Processing interview texts using large language models. Extracting and post-processing data through different prompt engineering techniques. Always exploring new methods to optimize LLM interactions with text.</p>
-	    </div>
+	<div class="col-4u 12u$(small)">
 	</div>
 	</div>
 </section>
+
 
 
 
