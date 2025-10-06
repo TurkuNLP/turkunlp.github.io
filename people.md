@@ -263,7 +263,7 @@ title: People
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/otto_tarkka.jpg" alt="Otto Tarkka" /></span>
+            <span class="image"><img src="assets/images/otto_tarkka2.jpg" alt="Otto Tarkka" /></span>
             <div class="content">
 	    		<h3><a href="https://www.utu.fi/en/people/otto-tarkka">Otto Tarkka</a></h3>
 				<h4>Doctoral researcher</h4>
@@ -345,6 +345,7 @@ title: People
 		</div>
 	</div>
 </section>
+
 
 
 
