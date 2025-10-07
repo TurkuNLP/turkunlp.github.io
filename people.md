@@ -99,7 +99,7 @@ title: People
 	    	</div>
         </div>
     	<div class="col-4u 12u$(small)">
-    	    <span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="" /></span>
+    	    <span class="image"><img src="assets/images/sampo_pyysalo.png" height="100" alt="Sampo Pyysalo" /></span>
     	    <div class="content">
 				<h3><a href="https://www.utu.fi/en/people/sampo-pyysalo">Sampo Pyysalo</a></h3>
 				<h4>Sen. res. fellow</h4>
@@ -127,21 +127,21 @@ title: People
 	</header>
 	<div class="row">
 		<div class="col-4u 12u$(small)">
-			<span class="image"><img src="assets/images/farrokh_mehryary.png" alt="" /></span>
+			<span class="image"><img src="assets/images/farrokh_mehryary.png" alt="Farrokh Mehryary" /></span>
 			<div class="content">
 				<h3><a href="https://www.utu.fi/en/people/farrokh-mehryary">Farrokh Mehryary</a></h3>
 				<h4>Postdoc</h4>
 			</div>
 		</div>
 		<div class="col-4u 12u$(small)">
-	       	<span class="image"><img src="assets/images/jenna-kanerva-new.jpg" alt="" /></span>
+	       	<span class="image"><img src="assets/images/jenna-kanerva-new.jpg" alt="Jenna Kanerva" /></span>
 	       	<div class="content">
 				<h3><a href="https://github.com/jmnybl">Jenna Kanerva</a></h3>
 				<h4>Postdoc</h4>
 			</div>
 		</div>
 		<div class="col-4u 12u$(small)">
-			<span class="image"><img src="assets/images/erik.jpeg" alt="" height="137px"/></span>
+			<span class="image"><img src="assets/images/erik.jpeg" alt="Erik Henriksson" height="137px"/></span>
 			<div class="content">
 				<h3><a href="https://www.utu.fi/en/people/erik-henriksson">Erik Henriksson</a></h3>
 				<h4>Postdoc</h4>
@@ -157,14 +157,14 @@ title: People
 	</div>
 	<div class="row">
 		<div class="col-4u 12u$(small)">
-			<span class="image"><img src="assets/images/fedor1.png" alt="" /></span>
+			<span class="image"><img src="assets/images/fedor1.png" alt="Fedor Vitiugin" /></span>
 			<div class="content">
 				<h3><a href="https://www.utu.fi/en/people/fedor-vitiugin">Fedor Vitiugin</a></h3>
 			   	<h4>Postdoc</h4>
 			</div>
 		</div>
 		<div class="col-4u 12u$(small)">
-			<span class="image"><img src="assets/images/tomasz_galica.jpg" alt="" /></span>
+			<span class="image"><img src="assets/images/tomasz_galica.jpg" alt="Tomasz Galica" /></span>
 			<div class="content">
 				<h3><a href="https://www.utu.fi/en/people/tomasz-galica">Tomasz Galica</a></h3>
 			   	<h4>Postdoc</h4>
@@ -239,7 +239,7 @@ title: People
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/selcen_erten.jpg" alt="Selcen Erten" /></span>
+            <span class="image"><img src="assets/images/selcen_erten.jpg" alt="Selcen Erten Johansson" /></span>
             <div class="content">
 	    		<h3><a href="https://www.utu.fi/en/people/selcen-erten-johansson">Selcen Erten Johansson</a></h3>
 				<h4>Doctoral researcher</h4>
@@ -338,7 +338,7 @@ title: People
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/joonatan-laato.jpg" alt="Joonatan Laato" /></span>
             <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/joontan-laato">Joonatan Laato</a></h3>
+				<h3><a href="https://www.utu.fi/en/people/joonatan-laato">Joonatan Laato</a></h3>
 		    	<h4>Research assistant</h4>
 				<p>Processing interview texts using large language models. Extracting and post-processing data through different prompt engineering techniques. Always exploring new methods to optimize LLM interactions with text.</p>
 	    	</div>
@@ -359,11 +359,12 @@ title: People
 		    	<h4>Research assistant</h4>
 	    	</div>
 		</div>
-		</div>
 		<div class="col-4u 12u$(small)"> </div>
 		<div class="col-4u 12u$(small)"> </div>
 	</div>
+
 </section>
+
 
 
 
