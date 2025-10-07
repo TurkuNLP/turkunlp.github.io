@@ -190,13 +190,14 @@ title: People
       			<p>Liina's research interests focus on corpus linguistics, Early and Late Modern English language variation, and using computational methods to study register variation in large historical language databases.</p>
       	    </div>
         </div>
-        <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/ville_kuva.jpg" alt="Ville Komulainen" /></span>
+		<div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/akseli.jpg" alt="Akseli Reunamo" /></span>
             <div class="content">
-	    		<h3><a href="https://www.utu.fi/en/people/ville-komulainen">Ville Komulainen</a></h3>
-				<h4>Research assistant</h4>
+	    		<h3><a href="https://www.utu.fi/en/people/akseli-reunamo">Akseli Reunamo</a></h3>
+				<h4>Doctoral researcher</h4>
+      			<p>Akseli does research in clinical NLP and long-context modeling.</p>
       	    </div>
-        </div>
+		</div>
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/Li-Hsin-Chang_new.jpg" alt="Li-Hsin Chang" /></span>
             <div class="content">
@@ -237,23 +238,6 @@ title: People
       			<p>Saara is interested in register variation in online context. She focuses on web language use from a multilingual, cross-linguistic perspective using various machine learning and statistical methods. Currently, her main research focus is on French and Swedish web registers and hybrids.</p>
       	    </div>
         </div>
-		<div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/maryam-teimouribadelehdareh">Maryam Teimouri</a></h3>
-				<h4>Project researcher</h4>
-			</div>
-        </div>
-	</div>
-    <div class="row">
-        <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/joonatan-laato.jpg" alt="Joonatan Laato" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/jousia-piha">Joonatan Laato</a></h3>
-		    	<h4>Research assistant</h4>
-				<p>Processing interview texts using large language models. Extracting and post-processing data through different prompt engineering techniques. Always exploring new methods to optimize LLM interactions with text.</p>
-	    	</div>
-        </div>
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/selcen_erten.jpg" alt="Selcen Erten" /></span>
             <div class="content">
@@ -261,6 +245,23 @@ title: People
 				<h4>Doctoral researcher</h4>
 		    	<p>Selcen conducts research in corpus linguistics with a focus on text varieties (registers) and media discourse analysis on the Turkish web.</p>
       	    </div>
+        </div>
+	</div>
+    <div class="row">
+        <div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/Frederike_Schram.jpg" alt="Frederike Schram" /></span>
+            <div class="content">
+	    		<h3><a href="https://www.utu.fi/en/people/frederike-schram">Frederike Schram</a></h3>
+				<h4>Doctoral researcher</h4>
+      			<p>Frederike's research interests include regional or minority languages, digital discourse, commodification of language, and language and identity, focusing on the use of Low German in digital spaces.</p>
+      	    </div>
+        </div>
+        <div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/jenna_saarni.PNG" alt="Jenna Saarni" /></span>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/jenna-saarni">Jenna Saarni</a></h3>
+				<h4>Doctoral researcher</h4>
+   			</div>
         </div>
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/otto_tarkka2.jpg" alt="Otto Tarkka" /></span>
@@ -295,23 +296,6 @@ title: People
    			</div>
         </div>
         <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/Frederike_Schram.jpg" alt="Frederike Schram" /></span>
-            <div class="content">
-	    		<h3><a href="https://www.utu.fi/en/people/frederike-schram">Frederike Schram</a></h3>
-				<h4>Doctoral researcher</h4>
-      			<p>Frederike's research interests include regional or minority languages, digital discourse, commodification of language, and language and identity, focusing on the use of Low German in digital spaces.</p>
-      	    </div>
-        </div>
-        <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/cassandra_ledins.jpg" alt="Cassandra Ledins" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/cassandra-ledins">Cassandra Ledins</a></h3>
-				<h4>Research assistant</h4>
-			</div>
-        </div>
-    </div>
-	<div class="row">
-        <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/anna-ristila.jpg" alt="Anna Ristilä" /></span>
             <div class="content">
 				<h3><a href="https://www.utu.fi/en/people/anna-ristila">Anna Ristilä</a></h3>
@@ -320,13 +304,6 @@ title: People
 			</div>
         </div>
 		<div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/jousia_piha-2024-small.png" alt="Jousia Piha" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/jousia-piha">Jousia Piha</a></h3>
-		    	<h4>Research assistant</h4>
-	    	</div>
-		</div>
-		<div class="col-4u 12u$(small)">
 			<span class="image"><img src="assets/images/erofili_psaltaki.jpg" alt="Erofili Psaltaki" /></span>
             <div class="content">
 				<h3><a href="https://www.utu.fi/en/people/erofili-psaltaki">Erofili Psaltaki</a></h3>
@@ -334,6 +311,8 @@ title: People
 				<p>My research combines dialectology and language variation with NLP, and I build tools to make sense of dialectal corpora.</p>
 	    	</div>
 		</div>
+    </div>
+	<div class="row">
 		<div class="col-4u 12u$(small)">
 			<span class="image"><img src="assets/images/alireza_razzaghi.jpg" alt="Alireza Razzaghi" /></span>
             <div class="content">
@@ -342,6 +321,47 @@ title: People
 				<p>I am doing research on Persian registers in web corpora. I am interested in automatic text analysis and applying AI-based systems to linguistic corpora.</p>
 	    	</div>
 		</div>
+		<div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/maryam-teimouribadelehdareh">Maryam Teimouri</a></h3>
+				<h4>Project researcher</h4>
+			</div>
+        </div>
+        <div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/cassandra_ledins.jpg" alt="Cassandra Ledins" /></span>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/cassandra-ledins">Cassandra Ledins</a></h3>
+				<h4>Research assistant</h4>
+			</div>
+        </div>
+        <div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/joonatan-laato.jpg" alt="Joonatan Laato" /></span>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/joontan-laato">Joonatan Laato</a></h3>
+		    	<h4>Research assistant</h4>
+				<p>Processing interview texts using large language models. Extracting and post-processing data through different prompt engineering techniques. Always exploring new methods to optimize LLM interactions with text.</p>
+	    	</div>
+        </div>
+	</div>
+	<div class="row">
+		<div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/ville_kuva.jpg" alt="Ville Komulainen" /></span>
+            <div class="content">
+	    		<h3><a href="https://www.utu.fi/en/people/ville-komulainen">Ville Komulainen</a></h3>
+				<h4>Research assistant</h4>
+      	    </div>
+        </div>
+		<div class="col-4u 12u$(small)"> 
+            <span class="image"><img src="assets/images/jousia_piha-2024-small.png" alt="Jousia Piha" /></span>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/jousia-piha">Jousia Piha</a></h3>
+		    	<h4>Research assistant</h4>
+	    	</div>
+		</div>
+		</div>
+		<div class="col-4u 12u$(small)"> </div>
+		<div class="col-4u 12u$(small)"> </div>
 	</div>
 </section>
 
