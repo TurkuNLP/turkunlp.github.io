@@ -328,13 +328,13 @@ title: People
 				<h4>Project researcher</h4>
 			</div>
         </div>
-        <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/cassandra_ledins.jpg" alt="Cassandra Ledins" /></span>
+		<div class="col-4u 12u$(small)"> 
+            <span class="image"><img src="assets/images/jousia_piha-2024-small.png" alt="Jousia Piha" /></span>
             <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/cassandra-ledins">Cassandra Ledins</a></h3>
-				<h4>Research assistant</h4>
-			</div>
-        </div>
+				<h3><a href="https://www.utu.fi/en/people/jousia-piha">Jousia Piha</a></h3>
+		    	<h4>Research assistant</h4>
+	    	</div>
+		</div>
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/joonatan-laato.jpg" alt="Joonatan Laato" /></span>
             <div class="content">
@@ -352,18 +352,14 @@ title: People
 				<h4>Research assistant</h4>
       	    </div>
         </div>
-		<div class="col-4u 12u$(small)"> 
-            <span class="image"><img src="assets/images/jousia_piha-2024-small.png" alt="Jousia Piha" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/jousia-piha">Jousia Piha</a></h3>
-		    	<h4>Research assistant</h4>
-	    	</div>
-		</div>
+		
+		<div class="col-4u 12u$(small)"> </div>
 		<div class="col-4u 12u$(small)"> </div>
 		<div class="col-4u 12u$(small)"> </div>
 	</div>
 
 </section>
+
 
 
 
