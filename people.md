@@ -289,13 +289,6 @@ title: People
 			</div>
         </div>
         <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/jenna_saarni.PNG" alt="Jenna Saarni" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/jenna-saarni">Jenna Saarni</a></h3>
-				<h4>Doctoral researcher</h4>
-   			</div>
-        </div>
-        <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/anna-ristila.jpg" alt="Anna Ristilä" /></span>
             <div class="content">
 				<h3><a href="https://www.utu.fi/en/people/anna-ristila">Anna Ristilä</a></h3>
@@ -311,8 +304,6 @@ title: People
 				<p>My research combines dialectology and language variation with NLP, and I build tools to make sense of dialectal corpora.</p>
 	    	</div>
 		</div>
-    </div>
-	<div class="row">
 		<div class="col-4u 12u$(small)">
 			<span class="image"><img src="assets/images/alireza_razzaghi.jpg" alt="Alireza Razzaghi" /></span>
             <div class="content">
@@ -321,6 +312,8 @@ title: People
 				<p>I am doing research on Persian registers in web corpora. I am interested in automatic text analysis and applying AI-based systems to linguistic corpora.</p>
 	    	</div>
 		</div>
+    </div>
+	<div class="row">
 		<div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
             <div class="content">
@@ -343,8 +336,6 @@ title: People
 				<p>Processing interview texts using large language models. Extracting and post-processing data through different prompt engineering techniques. Always exploring new methods to optimize LLM interactions with text.</p>
 	    	</div>
         </div>
-	</div>
-	<div class="row">
 		<div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/ville_kuva.jpg" alt="Ville Komulainen" /></span>
             <div class="content">
@@ -352,13 +343,16 @@ title: People
 				<h4>Research assistant</h4>
       	    </div>
         </div>
-		
+	</div>
+	<div class="row">
+		<div class="col-4u 12u$(small)"> </div>
 		<div class="col-4u 12u$(small)"> </div>
 		<div class="col-4u 12u$(small)"> </div>
 		<div class="col-4u 12u$(small)"> </div>
 	</div>
 
 </section>
+
 
 
 
