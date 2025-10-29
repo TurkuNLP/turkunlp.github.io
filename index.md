@@ -3,7 +3,7 @@ layout: page
 title: We are TurkuNLP!
 ---
 
-<img src="assets/images/turkunlp_honeycomb.jpg" alt="Banner Image" style="width:70%; height:auto;">
+<img src="assets/images/turkunlp_honeycomb.jpg" alt="Banner Image" style="width:70%; height:auto; margin:auto;">
 
 **The TurkuNLP Group** is a group of researchers at the University of Turku and the UTU graduate school (UTUGS). The group consists of approximately 30 dedicated researchers from research assistants to professors.
 
@@ -23,4 +23,5 @@ For the latest updates, visit:
 * [List of TurkuNLP publications](publications.html)
 * [TurkuNLP github](https://github.com/turkunlp)
 * [TurkuNLP on HuggingFace](https://huggingface.co/TurkuNLP)
+
 
