@@ -315,6 +315,13 @@ title: People
     </div>
 	<div class="row">
 		<div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/amanda_myntti.jpg" alt="Amanda Myntti" /></span>
+            <div class="content">
+				<h3><a href="https://www.utu.fi/en/people/amanda-myntti">Amanda Myntti</a></h3>
+				<h4>Doctoral Researcher</h4>
+			</div>
+        </div>
+		<div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
             <div class="content">
 				<h3><a href="https://www.utu.fi/en/people/maryam-teimouribadelehdareh">Maryam Teimouri</a></h3>
@@ -336,6 +343,8 @@ title: People
 				<p>Processing interview texts using large language models. Extracting and post-processing data through different prompt engineering techniques. Always exploring new methods to optimize LLM interactions with text.</p>
 	    	</div>
         </div>
+	</div>
+	<div class="row">
 		<div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/ville_kuva.jpg" alt="Ville Komulainen" /></span>
             <div class="content">
@@ -352,6 +361,7 @@ title: People
 	</div>
 
 </section>
+
 
 
 
