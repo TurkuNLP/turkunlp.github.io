@@ -3,7 +3,7 @@ layout: page
 title: We are TurkuNLP!
 ---
 
-<img src="assets/images/TurkuNLP_group-photo_2023.jpg" alt="Banner Image" style="width:100%; height:auto;">
+<img src="assets/images/turkunlp_honeycomb.jpg" alt="Banner Image" style="width:100%; height:auto;">
 
 **The TurkuNLP Group** is a group of researchers at the University of Turku and the UTU graduate school (UTUGS). The group consists of approximately 30 dedicated researchers from research assistants to professors.
 
