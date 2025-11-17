@@ -257,10 +257,11 @@ title: People
       	    </div>
         </div>
         <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/jenna_saarni.PNG" alt="Jenna Saarni" /></span>
+            <span class="image"><img src="assets/images/jenna_saarni_2025.png" alt="Jenna Saarni" /></span>
             <div class="content">
 				<h3><a href="https://www.utu.fi/en/people/jenna-saarni">Jenna Saarni</a></h3>
 				<h4>Doctoral researcher</h4>
+				<p>Jenna's research focuses on evaluative language in digital media during the Covid-19 pandemic.</p>
    			</div>
         </div>
         <div class="col-4u 12u$(small)">
@@ -361,6 +362,7 @@ title: People
 	</div>
 
 </section>
+
 
 
 
