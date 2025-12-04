@@ -171,7 +171,7 @@ title: People
 			</div>
 		</div>
 		<div class="col-4u 12u$(small)">
-			<span class="image"><img src="assets/images/antti_kanner.jpeg" alt="Antti Kanner" /></span>
+			<span class="image"><img src="assets/images/antti_kanner.jpg" alt="Antti Kanner" /></span>
 			<div class="content">
 				<h3><a href="https://research.utu.fi/converis/portal/detail/Person/393437417">Antti Kanner</a></h3>
 			   	<h4>Postdoc</h4>
@@ -369,6 +369,7 @@ title: People
 	</div>
 
 </section>
+
 
 
 
