@@ -137,7 +137,7 @@ title: People
 	       	<span class="image"><img src="assets/images/jenna-kanerva-new.jpg" alt="Jenna Kanerva" /></span>
 	       	<div class="content">
 				<h3><a href="https://github.com/jmnybl">Jenna Kanerva</a></h3>
-				<h4>Postdoc</h4>
+				<h4>University Lecturer</h4>
 			</div>
 		</div>
 		<div class="col-4u 12u$(small)">
@@ -336,23 +336,7 @@ title: People
 				<h4>Project researcher</h4>
 			</div>
         </div>
-		<div class="col-4u 12u$(small)"> 
-            <span class="image"><img src="assets/images/jousia_piha-2024-small.png" alt="Jousia Piha" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/jousia-piha">Jousia Piha</a></h3>
-		    	<h4>Research assistant</h4>
-	    	</div>
-		</div>
-        <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/joonatan-laato.jpg" alt="Joonatan Laato" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/joonatan-laato">Joonatan Laato</a></h3>
-		    	<h4>Research assistant</h4>
-				<p>Processing interview texts using large language models. Extracting and post-processing data through different prompt engineering techniques. Always exploring new methods to optimize LLM interactions with text.</p>
-	    	</div>
-        </div>
-	</div>
-	<div class="row">
+
 		<div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/ville_kuva.jpg" alt="Ville Komulainen" /></span>
             <div class="content">
@@ -360,13 +344,8 @@ title: People
 				<h4>Research assistant</h4>
       	    </div>
         </div>
-	</div>
-	<div class="row">
 		<div class="col-4u 12u$(small)"> </div>
-		<div class="col-4u 12u$(small)"> </div>
-		<div class="col-4u 12u$(small)"> </div>
-		<div class="col-4u 12u$(small)"> </div>
-	</div>
+</div>
 
 </section>
 
