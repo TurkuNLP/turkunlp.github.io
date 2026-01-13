@@ -344,7 +344,14 @@ title: People
 				<h4>Research assistant</h4>
       	    </div>
         </div>
-		<div class="col-4u 12u$(small)"> </div>
+			<div class="col-4u 12u$(small)">
+            <span class="image"><img src="assets/images/renhao_pei.jpg" alt="Renhao Pei" /></span>
+            <div class="content">
+	    		<h3><a href="https://www.utu.fi/en/people/renhao-pei">Renhao Pei</a></h3>
+				<h4>Doctoral researcher</h4>
+      	    </div>
+        </div>
+
 </div>
 
 </section>
