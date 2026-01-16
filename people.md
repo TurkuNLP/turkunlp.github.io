@@ -354,6 +354,20 @@ title: People
 
 </div>
 
+<div class="row">
+	<div class="col-4u 12u$(small)">
+             <span class="image"><img src="assets/images/dorian_beli.jpg" alt="Dorian Beli" /></span>
+	     <div class="content">
+		<h3><a href="https://www.utu.fi/en/people/dorian-beli">Dorian Beli</a></h3>
+		<h4>Doctoral Researcher</h4>
+	     </div>
+        </div>
+	<div class="col-4u 12u$(small)" />
+	<div class="col-4u 12u$(small)" />
+	<div class="col-4u 12u$(small)" />
+</div> <!-- end of row -->
+
+
 </section>
 
 
