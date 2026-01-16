@@ -321,51 +321,50 @@ title: People
 	    	</div>
 		</div>
     </div>
-	<div class="row">
-		<div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/amanda_myntti.jpg" alt="Amanda Myntti" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/amanda-myntti">Amanda Myntti</a></h3>
-				<h4>Doctoral Researcher</h4>
-			</div>
-        </div>
-		<div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
-            <div class="content">
-				<h3><a href="https://www.utu.fi/en/people/maryam-teimouribadelehdareh">Maryam Teimouri</a></h3>
-				<h4>Project researcher</h4>
-			</div>
-        </div>
 
-		<div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/ville_kuva.jpg" alt="Ville Komulainen" /></span>
-            <div class="content">
-	    		<h3><a href="https://www.utu.fi/en/people/ville-komulainen">Ville Komulainen</a></h3>
-				<h4>Research assistant</h4>
-      	    </div>
-        </div>
-			<div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/renhao_pei.jpg" alt="Renhao Pei" /></span>
-            <div class="content">
-	    		<h3><a href="https://www.utu.fi/en/people/renhao-pei">Renhao Pei</a></h3>
-				<h4>Doctoral researcher</h4>
-      	    </div>
-        </div>
+    <div class="row">
+      <div class="col-4u 12u$(small)">
+        <span class="image"><img src="assets/images/amanda_myntti.jpg" alt="Amanda Myntti" /></span>
+        <div class="content">
+	  <h3><a href="https://www.utu.fi/en/people/amanda-myntti">Amanda Myntti</a></h3>
+	  <h4>Doctoral Researcher</h4>
+	</div>
+      </div>
+      <div class="col-4u 12u$(small)">
+        <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
+        <div class="content">
+	  <h3><a href="https://www.utu.fi/en/people/maryam-teimouribadelehdareh">Maryam Teimouri</a></h3>
+	  <h4>Project researcher</h4>
+	</div>
+      </div>
+      <div class="col-4u 12u$(small)">
+        <span class="image"><img src="assets/images/ville_kuva.jpg" alt="Ville Komulainen" /></span>
+        <div class="content">
+	  <h3><a href="https://www.utu.fi/en/people/ville-komulainen">Ville Komulainen</a></h3>
+	  <h4>Research assistant</h4>
+      	</div>
+      </div>
+      <div class="col-4u 12u$(small)">
+        <span class="image"><img src="assets/images/renhao_pei.jpg" alt="Renhao Pei" /></span>
+        <div class="content">
+	  <h3><a href="https://www.utu.fi/en/people/renhao-pei">Renhao Pei</a></h3>
+	  <h4>Doctoral researcher</h4>
+      	</div>
+      </div>
+    </div> <!-- end of row -->
 
-</div>
-
-<div class="row">
-	<div class="col-4u 12u$(small)">
-             <span class="image"><img src="assets/images/dorian_beli.jpg" alt="Dorian Beli" /></span>
-	     <div class="content">
-		<h3><a href="https://www.utu.fi/en/people/dorian-beli">Dorian Beli</a></h3>
-		<h4>Doctoral Researcher</h4>
-	     </div>
-        </div>
-	<div class="col-4u 12u$(small)" />
-	<div class="col-4u 12u$(small)" />
-	<div class="col-4u 12u$(small)" />
-</div> <!-- end of row -->
+    <div class="row">
+      <div class="col-4u 12u$(small)">
+	<span class="image"><img src="assets/images/dorian_beli.jpg" alt="Dorian Beli" /></span>
+	<div class="content">
+	  <h3><a href="https://www.utu.fi/en/people/dorian-beli">Dorian Beli</a></h3>
+	  <h4>Doctoral Researcher</h4>
+	</div>
+      </div>
+      <div class="col-4u 12u$(small)" > </div>
+      <div class="col-4u 12u$(small)" > </div>
+      <div class="col-4u 12u$(small)" > </div>
+    </div> <!-- end of row -->
 
 
 </section>
