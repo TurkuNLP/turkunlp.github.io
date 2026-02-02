@@ -189,15 +189,14 @@ title: People
         <h2>Doctoral Researchers, Project Researchers and Research Assistants</h2>
     </header>
     <div class="row">
-        <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/liina_repo.jpg" alt="Liina Repo" /></span>
-            <div class="content">
-	    		<h3><a href="https://www.utu.fi/en/people/liina-repo">Liina Repo</a></h3>
-				<h4>Doctoral researcher</h4>
-      			<p>Liina's research interests focus on corpus linguistics, Early and Late Modern English language variation, and using computational methods to study register variation in large historical language databases.</p>
-      	    </div>
-        </div>
-		<div class="col-4u 12u$(small)">
+      <div class="col-4u 12u$(small)">
+	<span class="image"><img src="assets/images/dorian_beli.jpg" alt="Dorian Beli" /></span>
+	<div class="content">
+	  <h3><a href="https://www.utu.fi/en/people/dorian-beli">Dorian Beli</a></h3>
+	  <h4>Doctoral Researcher</h4>
+	</div>
+      </div>
+      <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/akseli.jpg" alt="Akseli Reunamo" /></span>
             <div class="content">
 	    		<h3><a href="https://www.utu.fi/en/people/akseli-reunamo">Akseli Reunamo</a></h3>
@@ -351,19 +350,6 @@ title: People
 	  <h4>Doctoral researcher</h4>
       	</div>
       </div>
-    </div> <!-- end of row -->
-
-    <div class="row">
-      <div class="col-4u 12u$(small)">
-	<span class="image"><img src="assets/images/dorian_beli.jpg" alt="Dorian Beli" /></span>
-	<div class="content">
-	  <h3><a href="https://www.utu.fi/en/people/dorian-beli">Dorian Beli</a></h3>
-	  <h4>Doctoral Researcher</h4>
-	</div>
-      </div>
-      <div class="col-4u 12u$(small)" > </div>
-      <div class="col-4u 12u$(small)" > </div>
-      <div class="col-4u 12u$(small)" > </div>
     </div> <!-- end of row -->
 
 
