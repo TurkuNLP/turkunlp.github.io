@@ -105,7 +105,7 @@ title: People
 				<h4>Sen. res. fellow</h4>
 	    	</div>
      	</div>
-	</div> 
+	</div> <!-- end of row (4 people per row)-->
 	<div class="row">
 		<div class="col-4u 12u$(small)">
     	    <span class="image"><img src="assets/images/s_ji_400.jpeg" height="100" alt="Shaoxiong Ji" /></span>
@@ -118,7 +118,7 @@ title: People
         <div class="col-4u 12u$(small)"> </div>
 		<div class="col-4u 12u$(small)"> </div>
 		<div class="col-4u 12u$(small)"> </div>
-  	</div> 
+  	</div> <!-- end of row (4 people per row)-->
 </section>
 
 <section>
@@ -154,7 +154,7 @@ title: People
 			    <h4>Postdoc</h4>
 			</div>
 	    </div>
-	</div>
+	</div> <!-- end of row (4 people per row)-->
 	<div class="row">
 		<div class="col-4u 12u$(small)">
 			<span class="image"><img src="assets/images/fedor1.png" alt="Fedor Vitiugin" /></span>
@@ -179,9 +179,7 @@ title: People
 		</div>
 		<div class="col-4u 12u$(small)">
 		</div>
-		<div class="col-4u 12u$(small)">
-		</div>
-	</div>
+	</div> <!-- end of row (4 people per row)-->
 </section>
 
 <section>
@@ -219,7 +217,7 @@ title: People
 				<h4>Doctoral researcher</h4>
       	    </div>
         </div>
-	</div>
+	</div> <!-- end of row (4 people per row)-->
     <div class="row">
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/hanna-mari_kupari.jpg" alt="Hanna-Mari Kupari" /></span>
@@ -252,7 +250,7 @@ title: People
 		    	<p>Selcen conducts research in corpus linguistics with a focus on text varieties (registers) and media discourse analysis on the Turkish web.</p>
       	    </div>
         </div>
-	</div>
+	</div> <!-- end of row (4 people per row)-->
     <div class="row">
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/Frederike_Schram.jpg" alt="Frederike Schram" /></span>
@@ -286,7 +284,7 @@ title: People
 		    	<p>Tapio's research is on using modern NLP methods to create and detect suitable Finnish reading comprehension material for students in primary and lower secondary education.</p>
 	    	</div>
         </div>
-    </div>
+    </div> <!-- end of row (4 people per row)-->
     <div class="row">
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="assets/images/jouniluoma.jpg" alt="Jouni Luoma" /></span>
@@ -319,8 +317,7 @@ title: People
 				<p>I am doing research on Persian registers in web corpora. I am interested in automatic text analysis and applying AI-based systems to linguistic corpora.</p>
 	    	</div>
 		</div>
-    </div>
-
+    </div>  <!-- end of row (4 people per row)-->
     <div class="row">
       <div class="col-4u 12u$(small)">
         <span class="image"><img src="assets/images/amanda_myntti.jpg" alt="Amanda Myntti" /></span>
@@ -350,10 +347,11 @@ title: People
 	  <h4>Doctoral researcher</h4>
       	</div>
       </div>
-    </div> <!-- end of row -->
+    </div> <!-- end of row (4 people per row)-->
 
 
 </section>
+
 
 
 
