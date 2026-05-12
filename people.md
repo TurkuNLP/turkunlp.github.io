@@ -89,6 +89,7 @@ title: People
             <div class="content">
 				<h3><a href="https://fginter.github.io/">Filip Ginter</a></h3>
 				<h4>Professor</h4>
+				<p>Faculty member at <a href="https://www.ellisinstitute.fi/">ELLIS Instute Finland</a></p>
 	    	</div>
         </div>
         <div class="col-4u 12u$(small)">
@@ -373,6 +374,7 @@ title: People
 
 
 </section>
+
 
 
 
