@@ -348,6 +348,28 @@ title: People
       	</div>
       </div>
     </div> <!-- end of row (4 people per row)-->
+    <div class="row">
+      <div class="col-4u 12u$(small)">
+        <span class="image"><img src="assets/images/naveen_vakada.jpg" alt="Naveen Vakada" /></span>
+        <div class="content">
+	  <h3><a href="https://www.utu.fi/en/people/naveen-vakada">Naveen Vakada</a></h3>
+	  <h4>Doctoral Researcher</h4>
+      	    <p>PhD researcher in multimodal machine learning, focusing on diagnostic, agentic, and efficient reasoning systems beyond traditional vision–language models. Current research interests include multimodal reasoning, retrieval-augmented systems and reasoning efficiency.</p>
+      </div>
+      </div>
+      <div class="col-4u 12u$(small)">
+        <span class="image"><img src="assets/images/YicongWu.jpg" alt="Yicong Wu" /></span>
+        <div class="content">
+	  <h3><a href="https://www.utu.fi/en/people/yicong-wu">Yicong Wu</a></h3>
+	  <h4>Doctoral researcher</h4>
+	  <p>My research focuses on medical AI, with an emphasis on agent-based AI systems for clinical decision support.</p>
+	</div>
+      </div>
+      <div class="col-4u 12u$(small)">
+      </div>
+      <div class="col-4u 12u$(small)">
+      </div>
+    </div> <!-- end of row (4 people per row)-->
 
 
 </section>
