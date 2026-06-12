@@ -328,10 +328,11 @@ title: People
 	</div>
       </div>
       <div class="col-4u 12u$(small)">
-        <span class="image"><img src="assets/images/maryam_teimouri.jpeg" alt="Maryam Teimouri" /></span>
+        <span class="image"><img src="assets/images/YicongWu.jpg" alt="Yicong Wu" /></span>
         <div class="content">
-	  <h3><a href="https://www.utu.fi/en/people/maryam-teimouribadelehdareh">Maryam Teimouri</a></h3>
-	  <h4>Project researcher</h4>
+	  <h3><a href="https://www.utu.fi/en/people/yicong-wu">Yicong Wu</a></h3>
+	  <h4>Doctoral researcher</h4>
+	  <p>My research focuses on medical AI, with an emphasis on agent-based AI systems for clinical decision support.</p>
 	</div>
       </div>
       <div class="col-4u 12u$(small)">
@@ -359,12 +360,6 @@ title: People
       </div>
       </div>
       <div class="col-4u 12u$(small)">
-        <span class="image"><img src="assets/images/YicongWu.jpg" alt="Yicong Wu" /></span>
-        <div class="content">
-	  <h3><a href="https://www.utu.fi/en/people/yicong-wu">Yicong Wu</a></h3>
-	  <h4>Doctoral researcher</h4>
-	  <p>My research focuses on medical AI, with an emphasis on agent-based AI systems for clinical decision support.</p>
-	</div>
       </div>
       <div class="col-4u 12u$(small)">
       </div>
