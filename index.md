@@ -18,7 +18,7 @@ Our international and interdisciplinary group does research on various aspects o
 
 ### Research seminar
 
-TurkuNLP hosts a monthly seminar featuring distinguished talks in NLP and AI. Anyone can join, either on campus or online. No registration required. More details and upcoming seminars [here](https://www.olaresearch.org/seminar/index.html).
+TurkuNLP and [Omni Language AI Research](https://www.olaresearch.org/index.html) co-host a monthly seminar featuring distinguished talks in NLP and AI. Anyone can join, either on campus or online. No registration required. More details and upcoming seminars [here](https://www.olaresearch.org/seminar/index.html).
 
 ### Recent updates
 
