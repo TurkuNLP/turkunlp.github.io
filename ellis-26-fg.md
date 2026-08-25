@@ -9,7 +9,7 @@ ELLIS Institute Finland is now [looking for PhD and Postdoc candidates](https://
 
 I am actively looking for people in the 2026 ELLIS call, with the intention to apply for funding through the ELLIS Institute Finland.
 Both post-doc and PhD positions are of interest. I am particularly interested in supervising work on encoders and embeddings, but this
-is not an exclusive choice.
+is of course not an exclusive choice.
 
 ## Encoders and embeddings
 
@@ -21,5 +21,10 @@ Research focusing on encoders and embedding models — in particular their prope
 * Embedding mapping and inversion
 * Aspect-based embeddings
 * Applications of the above to large-scale corpus work
+
+## DH and Computational History
+
+* Tracing meaning in large multilingual corpora, both modern and historical
+* Identifying, on the level of meaning, even distant re-use of statements and engagement between ideas
 
 **Interested?** Contact figint@utu.fi, please make sure you mention "ELLIS'26" in the email subject
