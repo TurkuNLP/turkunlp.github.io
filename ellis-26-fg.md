@@ -5,13 +5,13 @@ title: ELLIS'26 call
 
 ELLIS Institute Finland is now [looking for PhD and Postdoc candidates](https://www.ellisinstitute.fi/postdoc-and-phd-recruit-autumn-2026):
 
-# Filip Ginter
+## Filip Ginter
 
 I am actively looking for people in the 2026 ELLIS call, with the intention to apply for funding through the ELLIS Institute Finland.
 Both post-doc and PhD positions are of interest. I am particularly interested in supervising work on encoders and embeddings, but this
 is of course not an exclusive choice.
 
-## Encoders and embeddings
+### Encoders and embeddings
 
 Research focusing on encoders and embedding models — in particular their properties and controllability. Topics of interest include:
 
@@ -22,7 +22,7 @@ Research focusing on encoders and embedding models — in particular their prope
 * Aspect-based embeddings
 * Applications of the above to large-scale corpus work
 
-## DH and Computational History
+### DH and Computational History
 
 * Tracing meaning in large multilingual corpora, both modern and historical
 * Identifying, on the level of meaning, even distant re-use of statements and engagement between ideas
