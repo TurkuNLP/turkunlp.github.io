@@ -16,6 +16,10 @@ Our international and interdisciplinary group does research on various aspects o
 * Modeling and analysis of registers and genres on the internet
 * Linguistic analysis of language use on the internet
 
+### ELLIS Institute 2026 PhD / Postdoc call
+
+Filip Ginter is looking for candidates in this call, [see here for more information](ellis-26-fg.html)
+
 ### Research seminar
 
 TurkuNLP and [Omni Language AI Research](https://www.olaresearch.org/index.html) co-host a monthly seminar featuring distinguished talks in NLP and AI. Anyone can join, either on campus or online. No registration required. More details and upcoming seminars [here](https://www.olaresearch.org/seminar/index.html).
