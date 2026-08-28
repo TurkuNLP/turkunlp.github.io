@@ -7,8 +7,7 @@ ELLIS Institute Finland is now [looking for PhD and Postdoc candidates](https://
 
 ## Filip Ginter
 
-I am actively looking for people in the 2026 ELLIS call, with the intention to apply for funding through the ELLIS Institute Finland.
-Both post-doc and PhD positions are of interest. I am particularly interested in supervising work on encoders and embeddings, but this
+I am actively looking for people in this call. Both post-doc and PhD positions are of interest. I am particularly interested in supervising work on encoders and embeddings, but this
 is of course not an exclusive choice.
 
 ### Encoders and embeddings
