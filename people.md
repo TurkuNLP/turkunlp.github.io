@@ -142,7 +142,7 @@ title: People
 			</div>
 		</div>
 		<div class="col-4u 12u$(small)">
-			<span class="image"><img src="assets/images/erik.jpeg" alt="Erik Henriksson" height="137px"/></span>
+			<span class="image"><img src="assets/images/erik_2.jpg" alt="Erik Henriksson" height="137px"/></span>
 			<div class="content">
 				<h3><a href="https://www.utu.fi/en/people/erik-henriksson">Erik Henriksson</a></h3>
 				<h4>Postdoc</h4>
