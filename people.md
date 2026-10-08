@@ -172,19 +172,13 @@ title: People
 			</div>
 		</div>
 		<div class="col-4u 12u$(small)">
-			<span class="image"><img src="assets/images/antti_kanner.jpg" alt="Antti Kanner" /></span>
-			<div class="content">
-				<h3><a href="https://research.utu.fi/converis/portal/detail/Person/393437417">Antti Kanner</a></h3>
-			   	<h4>Postdoc</h4>
-			</div>
-		</div>
-		<div class="col-4u 12u$(small)">
 			<span class="image"><img src="assets/images/olli_kuparinen.jpg" alt="Olli Kuparinen" /></span>
 			<div class="content">
 				<h3><a href="https://okuparinen.github.io/">Olli Kuparinen</a></h3>
 			   	<h4>Academy Research Fellow</h4>
 			</div>
 		</div>
+		<div class="col-4u 12u$(small)"> </div>
 	</div> <!-- end of row (4 people per row)-->
 </section>
 
