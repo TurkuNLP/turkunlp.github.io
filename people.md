@@ -184,6 +184,7 @@ title: People
 				<h3><a href="https://manowen.github.io/">Zhibo Man</a></h3>
 			   	<h4>Postdoc</h4>
 			</div>
+		</div>
 	</div> <!-- end of row (4 people per row)-->
 </section>
 
