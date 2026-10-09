@@ -179,6 +179,11 @@ title: People
 			</div>
 		</div>
 		<div class="col-4u 12u$(small)"> </div>
+			<span class="image"><img src="assets/images/zhibo-man.jpg" alt="Zhibo Man" /></span>
+			<div class="content">
+				<h3><a href="https://manowen.github.io/">Zhibo Man</a></h3>
+			   	<h4>Postdoc</h4>
+			</div>
 	</div> <!-- end of row (4 people per row)-->
 </section>
 
