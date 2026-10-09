@@ -178,7 +178,7 @@ title: People
 			   	<h4>Academy Research Fellow</h4>
 			</div>
 		</div>
-		<div class="col-4u 12u$(small)"> </div>
+		<div class="col-4u 12u$(small)">
 			<span class="image"><img src="assets/images/zhiboman.jpg" alt="Zhibo Man" /></span>
 			<div class="content">
 				<h3><a href="https://manowen.github.io/">Zhibo Man</a></h3>
