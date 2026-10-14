@@ -187,8 +187,7 @@ title: People
 		</div>
 	</div> <!-- end of row (4 people per row)-->
 </section>
-
-	<div class="row">
+<div class="row">
 		<div class="col-4u 12u$(small)">
 			<span class="image"><img src="assets/images/nathan_dykes.png" alt="Nathan Dykes" /></span>
 			<div class="content">
