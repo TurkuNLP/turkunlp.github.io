@@ -191,7 +191,7 @@ title: People
 		<div class="col-4u 12u$(small)">
 			<span class="image"><img src="assets/images/nathan_dykes.png" alt="Nathan Dykes" /></span>
 			<div class="content">
-				<h3><a href="https://www.utu.fi/en/people/nathan-dykes">Firstname Lastname</a></h3>
+				<h3><a href="https://www.utu.fi/en/people/nathan-dykes">Nathan Dykes</a></h3>
 				<h4>Postdoc</h4>
 			</div>
 		</div>
