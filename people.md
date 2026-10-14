@@ -188,6 +188,16 @@ title: People
 	</div> <!-- end of row (4 people per row)-->
 </section>
 
+	<div class="row">
+		<div class="col-4u 12u$(small)">
+			<span class="image"><img src="assets/images/nathan_dykes.png" alt="Nathan Dykes" /></span>
+			<div class="content">
+				<h3><a href="https://www.utu.fi/en/people/nathan-dykes">Firstname Lastname</a></h3>
+				<h4>Postdoc</h4>
+			</div>
+		</div>
+	</div> <!-- end of row (4 people per row)-->
+
 <section>
     <header class="major">
         <h2>Doctoral Researchers, Project Researchers and Research Assistants</h2>
