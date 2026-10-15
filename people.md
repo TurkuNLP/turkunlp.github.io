@@ -399,9 +399,9 @@ title: People
         <div class="col-4u 12u$(small)">
             <span class="image"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' fill='%23e0e0e0'/><circle cx='90' cy='70' r='32' fill='%23b0b0b0'/><ellipse cx='90' cy='170' rx='58' ry='48' fill='%23b0b0b0'/></svg>" alt="Firstname Lastname" /></span>
             <div class="content">
-                <h3><a href="https://example.org/">Firstname Lastname</a></h3>
+                <h3><a href="https://example.org/">Anıl Kuş</a></h3>
                 <h4>Doctoral researcher</h4>
-                <p>University of Example, Country. Visiting Sep to Dec 2026.</p>
+                <p>Yozgat Bozok University, Türkiye. Visiting Sep 2026.</p>
             </div>
         </div>
         <div class="col-4u 12u$(small)"></div>
