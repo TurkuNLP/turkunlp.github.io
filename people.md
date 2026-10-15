@@ -371,6 +371,13 @@ title: People
 	  <h3><a href="https://www.utu.fi/en/people/naveen-vakada">Naveen Vakada</a></h3>
 	  <h4>Doctoral Researcher</h4>
       	    <p>PhD researcher in multimodal machine learning, focusing on diagnostic, agentic, and efficient reasoning systems beyond traditional vision–language models. Current research interests include multimodal reasoning, retrieval-augmented systems and reasoning efficiency.</p>
+		</div>
+      </div>
+      <div class="col-4u 12u$(small)">
+        <span class="image"><img src="assets/images/tuukka_toro.jpeg" alt="Tuukka Törö" /></span>
+        <div class="content">
+	  <h3><a href="https://www.utu.fi/en/people/tuukka-toro">Tuukka Törö</a></h3>
+	  <h4>Project researcher</h4>
       </div>
       </div>
       <div class="col-4u 12u$(small)">
