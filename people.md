@@ -397,7 +397,7 @@ title: People
     </header>
     <div class="row">
         <div class="col-4u 12u$(small)">
-            <span class="image"><img src="assets/images/AnilKus.jpg" viewBox='0 0 180 180'><rect width='180' height='180' fill='%23e0e0e0' alt="Anıl Kuş"/>/></span>
+            <span class="image"><img src="assets/images/AnilKus.jpg" alt="Anıl Kuş" /></span>
             <div class="content">
                 <h3><a href="https://www.utu.fi/en/people/anil-kus">Anıl Kuş</a></h3>
                 <h4>Doctoral researcher</h4>
