@@ -381,6 +381,11 @@ title: People
       </div>
       </div>
       <div class="col-4u 12u$(small)">
+        <span class="image"><img src="assets/images/eetu_hongisto.jpg" alt="Eetu Hongisto" /></span>
+        <div class="content">
+          <h3><a href="https://www.utu.fi/en/people/eetu-hongisto">Eetu Hongisto</a></h3>
+		  <h4>Research assistant</h4>
+        </div>
       </div>
       <div class="col-4u 12u$(small)">
       </div>
