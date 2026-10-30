@@ -388,6 +388,11 @@ title: People
         </div>
       </div>
       <div class="col-4u 12u$(small)">
+        <span class="image"><img src="assets/images/tuomas_lundberg.jpg" alt="Tuomas Lundberg" /></span>
+        <div class="content">
+          <h3><a href="https://www.utu.fi/en/people/tuomas-lundberg">Tuomas Lundberg</a></h3>
+          <h4>Research assistant</h4>
+        </div>
       </div>
       <div class="col-4u 12u$(small)">
       </div>
