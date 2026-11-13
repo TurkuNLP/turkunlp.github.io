@@ -179,7 +179,7 @@ title: People
 			</div>
 		</div>
 		<div class="col-4u 12u$(small)">
-			<span class="image"><img src="assets/images/zhibomanman.png" alt="Zhibo Man" /></span>
+			<span class="image"><img src="assets/images/zhibozhibo.png" alt="Zhibo Man" /></span>
 			<div class="content">
 				<h3><a href="https://manowen.github.io/">Zhibo Man</a></h3>
 			   	<h4>Postdoc</h4>
